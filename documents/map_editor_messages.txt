@@ -1,0 +1,212 @@
+That would be fun to fly through
+true but
+Wait, 16000 what? Feet?
+Ahh
+I mean you could make it through in less than a minute
+if it was at 40k ft you could make it through in less than 30 seconds
+I mean feel free to do it, the math says its possible, and iv flown that fast before just not through a bridge
+:Agony:
+You'll want to have your TSD on your screen at all times btw, all your sensors will display information on the TSD at the same time
+VTOL maps are heightmaps, so over-hangs/tunnels can't be done
+Akatan is special
+Akatan is special
+Thats Akatan
+As I understand it, much of the game relies on hightmap, so its a shock that Akatan works at all
+Yeah lmao
+Hightmaps cannot have underpasses/tunnels, you *can* make holes in the terrain tho
+:KEKW:
+Overhangs arent possible as VTOL uses a highmap for maps
+:Think:
+Can't you already? Some of the F-45 missions have you in a FOB
+I suck at typing so
+You can modify a file to get around it
+In gameSettings.cfg set `EULA_AGREED = 1`
+Does teh green channel on the hight map represent where cities are?
+hm yes my favorite vtol vr map
+I may have given it an unordered list of verticies
+which, might not work the best
+well this is closer at least
+How does the 0-255 translate to height?
+map loading is uh.... complex :Agony:
+Looks like 255 = 8km?
+nan
+This is in a method called `SaveTexture`
+Well its in a class called `VTTerrainTextureConverter`
+that class isnt going to be saving textures of cats now is it
+Anyways that method is unused so :Think:
+I saw the 8k number somewhere else as well
+nan
+maybe 6k?
+uh I found a method that really didn't like being decompiled
+within the save routine `MoveNext` is very odd
+It really is :Agony:
+nan
+theres goto's and jumps all over this method
+yea
+but why is ILSpy saying thats whats in this method
+also @ierdna100 whats the translation between pixels and meters
+iv got map loaded I just need to scale it
+mapSize is in km?
+8k dosnt really look right
+Wum?
+I’m trying to load vtol maps in an external program
+So a gray scale value of 255 = 6000m?
+:thonkery: fun
+and by fun I mean reeeeee why are maps so complex
+Some maps don't even have 0-3, some have only the `hight`, looks like each high map equally takes a portion which makes things easeir
+wdym?
+its still used for rendering the terrain as well
+this map *only* has `height.png`
+Idk, lemme check some other maps
+huh odd
+Maybe its used if no other ones are present?
+hightMap is always `hight.png` and `splitHeightmaps` is the 0-3 stuff
+It also looks like maybe you could have 0 - infinity technically
+it will keep fetching maps until they don't exist
+kk so `hight` is used unless any numbered exist, which in that case they use the numbered
+I still have to figure out how to propperly render the maps but thats progress :stonks:
+@nebriv Do you know how to convert the VTOL height maps to points in 3d space? Im trying to render the maps in an external program
+As in I want to render a model
+Like this
+How do I translate from a color value (say, `100` on `height1`) to a hight in meters
+yeah I just don't know how to convert 0-1024 to an altitude
+Does that 0-1024 translate to the -80 - 6000 value I keep seeing in code?
+And whats the translation between mapsize and meters
+I know the maps go from size 8 to size 64 whatever that means
+whats the equation there :thonkery:
+ah I saw that in your project was wondering what the *3 was
+I don't think that would work tbh, theres a *lot* of random added stuff, such as text, all those circles are going to raise up the terrain, and brighter green dosn't translate to higher on the map
+and there are baked in shadows
+ah :risitas:
+Ill try it
+no nbriv is right there
+:risitas:
+nan
+this would look very interesting in game
+yeah lol
+im 90% sure they are just layered on top of each other, so you have a 0-1024 height map, ill do some testing later to see if I can confirm that
+Its meters right?
+-80-6000m
+A what?
+Good question, I just assumed they were fixed size
+what website is that btw i wanna steal their code
+ty
+ah I was hoping it would have a 3d view
+im having some trouble rendering a heightmap in 3d
+I need it in threejs
+Rumor has it that if you upload a map on tropical baha breaks into your house and wipes your PC
+Dunno but this morning I woke up with a terrible headake and my PC was wiped
+The wiki owner dosn't want that information on it sadly
+Uh
+heights are 0-1028 mapped to -80 to +6000
+red channel is what is used for heights
+One pixel is 153 meters
+Yeah im talking about the height0-height3 images, the import has a bit different functionality
+You'd expect 10 bits, but it just uses 4 images with 8 bits each that are *added*
+so 4 8 bit numbers that are summed
+X
+Mmmmmm maybe no roads?
+The buildings on their own might look good
+But the road is too thicc
+ppppppicl
+196 km x 196 km iirc
+>30 or 90m
+Isn't vtols best resolotion 153m?
+:Think:
+why do you need to average 4mil numbers?
+Also 10 seconds? Headless client creates a heightmap which involves like 86 mil numbers quicker than that
+:Think: mine runs in the browser CPU hardly matters
+Ok but still, why average
+Put enough bridges over it and you could maybe make a tunnel
+Could you provide heights for terrain types at each altitude?
+I wanna make HC look good
+:justright:
+Ty
+Im not home
+Am ordering sushi
+I saw a heli freeflight map that was a massive jumble of city and crazy twisting roads, it was pretty fun
+Its just freeflight, so not really a race
+Not 153?
+We'd have to ask Skumby himself why he left, but he did mention the only reason he stayed in the server was because he was a moderator so I am guessing that has to do with it
+There's no such tool I am aware of
+If anyone's created one, they've at least not publicized it
+The code for that is here https://github.com/nebriv/vtolMapMaker
+no idea
+well
+For freeflight im sure he dosnt care
+I can provide the files but its not drag-and-drop
+nan
+Thats just the map but I figure putting the spawns/carrier is easy enough
+We'll you'll need to start with a heightmap
+*could* yes, but it sounds hard :risitas:
+I thought nebriv did something like that
+https://github.com/nebriv/vtolMapMaker
+Are you the original author?
+I don't actually know if that file is required... anyways you'd need permission from the author
+Its possible, but breaks the EULA/is basically bypassing built-in security so Im not doing it/explaining it without the authors approval
+But I think the heightmap files on their own is enough if you just copy them over to an existing map
+`height.pngb` is only used in the case that there's no `height0-3`
+nan
+That should be the first layer
+But there's 4 height maps so 1024
+with a mod called CSA yes, in base game, no
+Send me a workshop link
+Yes, the map files themselves are just 4 PNGs that make up the height map, and the information about roads/structures is stored in a .vtm file, it uses "ConfigNode"s to store data, its a pretty straight forward format
+All static objects are in the vtm file
+Cities are stored in the green channel of the heightmaps
+Manually placed buildings will be in the vtm, the height of the city is in the heightmap
+red is the heightmap channel
+blue is unused
+Yes
+No Akutan is fairly special
+It may have a VTM but it won't have the required things to place that runway
+Water only exists below the altitude you set for sea-level, you'll just have to make it deep enough
+No idea
+Other than modifing the map files 😄
+I don't use the map editor a lot, but I do work with its files alot
+so my solution to everything tends to be "modify the files"
+Not sure what you mean
+Normally just open it up and change whatever I need
+For another project I used 0m -> 20m -> 40m -> 1200m, should be roughly acurate, not sure about angle steepness
+Im guessing you are asking about the Boreal terrain type?
+I looked a bit into trying to get the numbers more precisely but the code is complex and unity dosn't want to work with me so idk
+To be fair #modding is more active by a factor of almost 10x
+nan
+~~some people quite like even the tiniest drop of power~~
+I aint do shit I just got tired of having to DM shadow :risitas:
+nan
+Red Elite has created far larger maps, just loading time and memory requirement goes through the roof
+@Red Elite you made like a 300km one right?
+Heightmaps are added together, so total resolution for each pixel is 0-1024
+wdym standalone heightmap?
+Yeah, but its used if there aren't numbered heightmaps
+Im not sure why its implemented that way
+it led me to this wonderful but of code I had to write for HC
+Just be happy `folderPath` is a variable
+And do not worry about me passing in `image` as a "string" type :itsfreerealestate:
+HC is held together by strings and it shows :defaultdance:
+No the game won't delete files
+I made this awhile ago https://github.com/Strikeeaglechase/VTOLConfigNodeToJSON, is typescript ofc
+I also wrote a C# version
+how long does it take to read and write a file thats just a few kb :Think:
+Idk how slow python is, but in javascript writing 1000 files (synchronously, 1 by 1) with 1000 lines of text each takes less than half a second
+But something like fs ops should all be C calls
+Akutan
+No
+vtol is meters
+Well meters with a weird conversion for heightmaps
+This is the equation to turn a pixel color into a height in meters `(maxHeight + minHeight) / (numImages * 256) * color - minHeight;`
+Where minHeight is 80 and maxHeight is 6000
+I mean yeah but the equation works with 80 you just know that means -80 lol
+If you are looking at the game code, it'll be in `VTTMapTrees.OnChunckComplete`, but there's no single/simple equation/value for figuring out where a tree will be
+noise is involved yeah
+Yeah you could extract the entire algorithum and work with it
+but it would be mroe work than copying that method to its own project and messing with it
+that one function refrences 104 different external values lol
+ILSpy or DNSpy
+Nah the Assembly-CSharp
+Which is in `VTOL VR\VTOLVR_Data\Managed`
+15nm is good
+not really
+it was like one line of code lol
+what happens if you just edit the vtm to clip two airfields into each other

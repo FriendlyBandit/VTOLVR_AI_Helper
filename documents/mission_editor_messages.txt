@@ -1,0 +1,1088 @@
+I don't remember a mission like that, but with the AV you have to land in a field once and with the 45 you have to land at a small FOB
+In multiplayer the host model breaks and gets set to the tacview default
+Also iv been having issues where the shown heading, and the real heading are different
+I def didnt land with a 10 degree offset 😄
+Yeah lol 30 aircraft is doable
+We don't know
+@Freedomplaza you were planning some MP missions right
+Single life/limited life settings so people can’t infinitely respawn would be great
+Speaking of scores, a way to see the current score would be nice, currently you have no idea what the score is due to people leaving/joining
+Yes this as well
+:thonkery:
+Wut
+You can already see the leaderboard in aircraft , but that dosnt display score due to ppl leaving
+Right yeah budget, money rewards for objectives would be excellent
+Oh
+Nice
+Money being pooled with the team vs per player as an option would be nice
+That’s already a thing in mp
+Yeah
+When you start a lobby you get the option to enable/disable hud icons
+It’s not in the editor, it’s based off the lobby itself
+Not yet
+Where would the picked up people go?
+Yeah
+but
+where would the people go?
+Like on the aircraft
+they'd have to sit outside on the wings
+Issue is to employ weapons you still need the TADS (or I guess you can use GPS weapons)
+There's an action when the user does something in the cockpit right? Iirc thats how the tutorial works
+Would'nt be suprised if it uses the custom format baha made
+Yeah it is
+So you'd have to write a custom parser for it, but its a simple structure so
+Im fairly confident, iv used quite a few formats and never seen this, and looking at the game code I *think* its fully custom
+Ok yeah it is custom
+Baha is using something he calls a "ConfigNode"
+Its the same thing quick saves use iirc
+im writing a vts2json just for the fun of it
+No and no, but you can decompile the code and take a peak
+Not at all
+Its quite readable
+All method names retain their original names, and the decompiler is quite good about guessing names to things
+Unity/C#/mono
+yes
+thats it
+Baha made BDArmory so
+https://www.kerbalspaceprogram.com/api/class_config_node.html Yeah pretty sure its built into KSP
+But the config node class thats in vtol seems to be not as an external project
+Seems like it?
+@BahamutoD Any info about the VTS file format/how we could possible parse it and work with it?
+Repeating is something thats been asked for a lot recently, but suggestions are normally best in #vtolvrdev
+:oknice:
+nan
+context here and above
+it is on the right
+But, now I can translate VTS to JSON
+I just gotta write a JSON to VTS translator now
+No im still working on the compiler
+I am having fun with encapsulation tho
+not yet
+uh
+What aircraft is this mission for?
+Sure
+what aircraft?
+A 26 could p easily hit all of those targets youll want wayyyyy more
+If anyone is planning on messing around with scenario files directly, I wrote a small program to convert VTS into JSON, and JSON into VTS https://github.com/Strikeeaglechase/VTOLConfigNodeToJSON
+I may have missed some data format/type that VTOL uses so uh just yell at me if it dosnt work
+:Think:
+the program is litterly hard coded to use `input.json` and `input.vts` why tf would I make UI
+I didn't even bother to add a command line argument for input
+If anyone is going to be using this, they know at least enough to make changes to the code as they need
+@Steakfest if your interested
+yes
+input.vts -> output.json input.json -> output.vts
+Wrong accnt
+:risitas:
+don't worry about it
+Oh wait I just remmebered there was a bug that I didn't fix
+:defaultdance:
+the vts file format is :Agony:
+wait fuck
+~~im going to have to do something crused~~ nvm im dumb
+Vtol has two different types of empty values
+Iirc they can be granted for completing objectives
+500m is accurate to what their vision radius is so that makes sense
+Maybe?
+Living life as a manpad opperator must suck
+they get modified eyes that let them see 4.5km
+except they loose the ability to see anything except things in the sky
+They are nearly completly blind
+They sit in darkness until an aircraft happens to fly overhead
+They can at least see armor, are you sure they won't *try* to shoot it?
+Yeah it wont
+Which seems almost like a bug...?
+:risitas:
+The soldiers with like their 5.56 will shoot at armor but not a srad with a .50
+and the F-45 one as well
+the unit is here, maybe it was left out of the selector by accident?
+why
+`AEW-50` I think?
+filename is AEW-50, object name is AEW-50, unit name has Bulwark but I don't think thats its ID
+I thought that was fixed :thonkery:
+https://discord.com/channels/319915885575798785/444150937079250945/884568240947355698 Guess this is still an issue in the editor
+Yeah its a naming issue with the equip, I bet you can see this in the loadout screen as well
+But both do use the 120D
+Baha has mentioned planning on making the PT -> Stable cycle quicker
+so, prob no longer than a month or two
+v1.3.3 PT lasted 1.5 weeks with 3 versions
+Id expect v1.3.4 PT will be longer as all the kinks with the editor are worked out
+As a mission designer you can allow that
+I had something like that happen once, wish I would have recorded it. The "pilot" seat in the slots was actually the guner seat, so I had to select the gunner seat to fly, but after I respawned it put me in the gunners position but without the radio panel and what not
+was really odd
+btw do  \`\`\` stuff here \`\`\` to make it look like ``` stuff here ```
+Does that unit instance ID show up anywhere else?
+no
+I wonder why we don't
+its there, it works in mp, but we don't have it in the editor
+Maybe baha wants a new aircraft for team B rather than reskinned team A's one?
+Tho would be nice in general to put any unit on either team
+MAD-4's for everyone!
+yeah they will be prompted if they want to download it
+alternativly, one aircraft impact
+For the mission editor? Yeah
+No public ones
+:thonkery:
+I mean I guess that would mean we just have to write our own compiler
+unless you mean like actual nasm in that case we can use any compiled language
+wdym? Its all visual based
+^
+Its a unity game so C#
+:Think: that changes nothing
+no wait that makes it *easier*
+as you can now use nasm or (the other one I cant remember) to compile to
+Honestly if we did get support, lua or python or js would be good
+something light weight, easily sandboxed, and that everyone knows
+:Think: JS is excellent
+Typescript is so close to C# that I picked it up without any need to study or learn
+so if typescript bad, then C# bad?
+It transpiles to JS
+So anywhere that expects JS, you can use TS
+also, all JS code is valid TS
+so
+compilation != transpiling
+typescript adds no features to the language, just development tools
+My point was that they are close enough that any valid complaint against TS could likely be levied against C#
+also C# *sucks* for AOP
+Im having to install an entire framework for something that takes me one line in TS
+^
+feel free to :Think:
+Using the JSON converter is only helpful if you intend to write automated tools to work with VTS
+If I was doing it manually yeah
+:Think:
+with a program id use JSON
+?
+Because programs cant read VTS
+You can read it as *text*
+Not as objects/classes
+if I said "give me the position of the entity with id `3`" of a VTS file how much code would you have to write :Think:
+with JSON, its just `data.units.find(unit => unit.id == 3).globalPosition`
+or everyone just pressed respawn
+Yeah it is
+nan
+wait your telling me I can fly in formation wih the E4 and KC-49 :risitas:
+Once the mission starts the screen switches to the scoreboard and wont go back
+Would be nice, even before the mission starts if you had your own briefing on your screen to control/flip through
+your assumptions about what uses more preformance is likely correct. A unit staying still is better than a moving one, radar adds more complexity, air units while their physics is lower are going to be more expensive, ships are probably pretty expensive given the number of parts on them (gun turrets, radars, missiles, etc)
+yes someone can, and that someone should be you
+the map editor is free to be used by all
+no one knows how to do it until they learn
+I might be missunderstanding something im reading, but it looks like they should be able to kill bunkers?
+Bunkers have a minimum damage of 150, tanks deal 151 damage
+exported from the game
+150
+Which means anything that can kill it will kill it in one hit
+unless min damage is subtracted?
+iv heard recent reports that bunkers might be a bit buggy with when they take damage
+150 as well
+oh wait
+the enemy tank
+only does 125 damage
+So allied tanks can kill bunkers, enemy tanks cannot
+you can
+500lb will
+SBDs will as well
+all bombs iirc
+65s will I thought
+145s wont tho
+None exists rn
+b61 works best
+:itsfreerealestate:
+you can have dev camera, im not sure if you need a headset for it tho
+press insert on your keyboard
+then use brackets
+np!
+press `del`
+ah you just edited it :angery:
+I wanted AGM 144s
+aim280 cant kill anything
+no they are fox4s
+kek that would be great
+yeah
+its an infinite money glitch
+I mean it is
+but
+just not a good one
+takes a lot of fuel to run those carriers
+the carrier burns more fuel than your selling, thus, the value never changes
+nah I wanna know how much fuel I would have to sell
+use in game
+CFTs push it up to what like 13k?
+CFTs do refuel as its counted as "internal"
+nah its less than 21k
+that might be with ext as well
+but ext dont refuel
+89 has internal radar and multiple evasion modes and an integrated RWR to make inteligent decisions
+its far more advanced than a 161
+161 technically has a TFR so its more advanced than a regular AGM but still not as complex as the 89
+wait is it pvp?
+I thought it was just who can refuel first
+whats the min altitude for the tanker?
+can you make it fly around/in terrain
+:itsfreerealestate: that would be fun
+low level refueling
+either
+:thonkery: how is this my bad dream
+I didn't come up with this idea Yukari did
+I mean I came up with the infinite money glitch a while ago but not a gammode out of it
+you can tell SAMs not to engage missiles right?
+ah
+thats S-400 I thought
+it does
+yeah just have it if you get within 1km its a loss
+nan
+:KEKW:
+or just
+dont allow respawn
+how tf are you even going to die?
+I guess running out of fuel but thats on you
+iv run out of fuel on multiple missions, they just cant be *super* short missions
+what about F/A-26B Naval Strike?
+Sure but even then you'll burn through your tank fairly quick
+I really hope you are talking about unarmed drones
+The fuck is wrong with you?
+Russian, Ukrainian or whatever, these are real people with real lives
+This isn’t a video game
+The fact that you don’t understand that is deeply disturbing
+There’s a reason why people like you should never be let near any weapons of any kind
+Maybe that’s what you are saying now, that’s not what you said
+Maybe get to know some of the peoples who lives have been permanently destroyed or ruined due to the things they’ve witnessed or experienced and you’ll be a little more stable
+You can do it by modifying the VTS file but im not sure if thats a good idea
+theres prob a reason its hidden in the editor
+you can edit the VTS file but otherwise no
+wait for what red elite has to say he knows more than me tho
+ah ok so I was right
+There’s no public list of feature requests and what not, but re-raising feature requests is a good way to show baha how interested people are in an idea
+@ierdna100
+https://docs.google.com/spreadsheets/d/16DD8d1NudAGreoYmacUhVrwygP6oRgFtgGqJXnbI4Jc/edit?usp=sharing
+:Think: I did
+However, I wasn't home so I figured id ping you then I realized I had it saved somewhere else
+im now free if you want to run through it
+Lemme get on my vr stuff
+not directly, but you can edit the VTS file or convert it to JSON then edit it there
+He hasn't said its planned
+but also hasn't said itll never come so we cna have hope
+Iv written the code to work with VTS as json here if you want to use it https://github.com/Strikeeaglechase/VTOLConfigNodeToJSON
+Fair
+python is prob better for something like this anyways
+432hrs on linux :defaultdance:
+Very valid
+Don't question steam
+"440 hrs in past two weeks"
+"345 hrs on record"
+its not even a faked photo its just steam being dumb
+Uhhh not sure to be honest, I picked up JS as my first language so I don't know a lot about how to jump into it from an already experienced perspective
+I could probably write a python version in a little bit
+Yeah thats prob the best way to do it
+no
+that would mean anyone using the mission would need the mod
+yes
+cope
+modifying the VTS file is the correct way to do it
+but c# as a mod is better
+you don't need to directly modify VTS directly if its a mod
+as vtol already has the ConfigNode system so you just work with it the same way the game does
+Looping with the ability to respawn/somehow procedurally spawn units would be :justright:
+Hmm yeah its interaction with other objects would be problematic
+Lua/some other scripting language integrated into the editor would be amazing
+Python would be excellent for something like this
+Really any easy to learn/simple/light weight scripting language would be great
+JS/Python/Lua/Bahascript
+Iv heard its bugged yeah
+Lots of truth
+I solve a majority of my problems just by talking out loud/talking to someone about the problem
+Range will be lower for the helicopter due to low RCS, I’d recommend using a hill or something else to ensure they don’t get hit on the ground, plus just test to see
+30k, 40 at the very most
+oh
+huh
+I assumed it was 40k bcs thats the default alt warn for player aircraft
+you always have the vts editing option tho if you wanna make it go higher
+All the fixed wings are 40k right?
+Heli is like 12 somthin
+hmmmmm I could have sworn the ah was the only one different
+Iv found it actually does quite well, its flaps produce nearly no drag but the wings/flaps produce a huge amount of lift
+I remember for a time there was a hard limit to the game at 40k ft
+it was exactly 40k ft
+or just limit weapons
+banning 145s for all aircraft would be good
+Ehh, at least for the AH94 banning 145s is a great way to add a bit more challenge
+in the 45 it matters less
+spawn range is good if you want to have a formation setup/ingressed into the AO
+but no more than 60mi required imo
+thats the game version that the mission was created in iirc
+its not publicly available
+Wonder how large maps are when generated, could be a nice mod to cache lobbies to disk
+its a reference point on the map people can make callouts in reference to
+I mean it *is* a radar
+6 per player running a2a would be reasonable/easy
+Naval strike has something akin to 30
+Of course those 30 don’t come all at the same time
+Against how many players?
+A wave of 4 is nearly nothing against even a single player
+For the longest time the only team you could play on was team A, so it didn’t make sense to spend a bunch of dev time on ships you’d hardly see
+Remove the zip bomb from the folder
+it does work in mp sadly
+Luckily the debug gun is disabled (as well as time accel)
+It can refuel in a turn, so making it orbit is fine
+But its far easier to intercept
+send you files?
+For the builtin ones?
+"the mission" there are a lot of missions
+There are many built into the game
+otherwise yeah its on the workshop
+you don't need the files just the workshop link like shadow is saying
+why?
+Why do you need/want those files?
+Could always try google translate, but the files are just binary data im not sure how that would help you
+Yeah here one second
+nan
+Like I said, its raw binary data so its not useful to you in that format but there you go
+:Think:
+Also @ierdna100 I gave him your mission :risitas:
+thats the file for the one we were using to test headless client
+I mean I only gave one file of the many that are required
+and that file is encrypted
+Internally fuel is typically a percentage, not sure if it’s the same in the mission editor but I’m guessing you want .5 fuel
+Ah yeah so it’s probably a percent just not using decimals
+You can always limit money
+For a single player mission you can also force a specific load out which has a set fuel
+nah
+the best you can do is copy the unit and spawn it again
+Go to "previous version"
+Bahascript is the mythical solution to all our problems
+The idea would be missions could have custom scripts written in some language (possibly a custom one) to add functionality
+most of the time
+:Think: I know jack shit about the editor
+But I can say, if you try to fuck with it and try to trick it into re-running events I can basically guarantee it will break everything
+Just a PSA, if you make a guns dogfighting missile that spawns you as a cold start you deserve the not allowed to make missions
+And the very next mission im playing has *140nm* flight
+Yes the FLKM-100
+its a 16 player mission that you need one player to complete
+Includes helicopters that also have to fly that 140nm
+There really needs to be an in-lobby downvote button
+and a way to see the mission rating before you join
+Fobs are good, don’t spawn helis and planes in the same area. Limit the load out of jets so they can’t do everything, finally place units in cities/other hard to get places, that’s where the helicopters shine
+Hmm I need a good “skill issue” emoji, iv got :skillissue: but that’s too bland
+Would be nice if cities weren’t limited to grid tho that would need a large redesign to make working
+Bcs it’s a grid it’s still easy for jets to line up shots it’s just annoying
+Yeah uh I also want more than 2 FPS :risitas:
+Infantry are good but they aren’t a threat to a heli at all, AAA also poses a good threat to helis and when placed in the correct area can really discourage aircraft from going in an area
+That being said jets (especially F45s) are likely to target anything with a radar
+Yeah AAA pretty spook
+Tho it’s extremely spook in the heli
+Also fun fact
+AAA can fire at you without a radar lock
+I blame the gun
+It can’t handle acceleration
+Prob AAA
+And now that iv beaten it once I’m sure my second play through would be far quicker, I was taking it far slower than needed just to avoid pointless deaths
+Yea but mission designers have a clear “style”, I know in general where to look for threats
+It takes every bit of self control I have to not instantly hit the deny button every time I see it
+Well gunners are just bad
+Doing dynamic lib with Baha the other day and while that mission is far from hard when it comes to helicopter stuff, we did as good if not better than if I would have been on my own
+Ok well yeah but still :risitas:
+I think gunners are just in general bad
+I think it’s the combination of three things - selection bias as gunning *seems* easier, so less experienced less skilled players choose gunning  - a large boost in new players to the game means average skill level is lower - gunning Is *hard*, being a good gunner is harder than being a good pilot
+I mean the skill floor for piloting is also pretty damn low :risitas:
+Yeeee that’s what I’m saying, skill floor being low = you can be really really bad at it
+But yeah no I agree with your sentiment, it’s easier to be a meh gunner than a meh pilot
+I just wish the slave button worked without TADS as SOI. Even really good gunners will have a bit of delay If I could just hit the slave button it would be great
+What tf else is the pilot gunna be doing :risitas: gotta do something more than just sit there and look pretty
+I guess some pilots like having the TADS up which I do see value in, but it seems like a waste given that your gunner is focused on that most of the time
+Plus radar really helps SA as you can work out what is what
+Night
+We really need vote buttons in the lobby room for the mission, and a way to see a missions votes before we join
+isn't there an "invincible" flag you can set?
+why do so many people call their map "pvp/freeflight"
+if you say its pvp
+its gunna be just pvp
+Btw to you mission designers out there, having one or two redfor slots with limited loadouts is very fun for making the enemy team less predicable and more of a challange
+2003 Baghdad PVP/PVE is great, it has two redfor player slots that are 26's, and all they get are AIM-9s
+No thanks
+Well,  they shouldn't
+the Receive Friendly Damage tag is new, maybe its bugged?
+you left a team B slot im playing team B
+I can hear the comms from the other people, I think its all helis :Agony:
+wait no they have 42's as well ok its fine
+Oh they also have lots of 45's and 26's lol
+https://discord.com/channels/319915885575798785/408290968232525868/964337084435402782 I did too :risitas:
+when you start the game there is a button on the bottom right
+Could be nice addition as a command line arg
+`-novr` or whatever
+Its a flag in source engine iirc
+Iirc you have to change the settings via steam but I could be wrong
+16 total
+So 8v8
+But, you can do uneven teams if you want as well
+There’s some missions that do like 14v2
+Always remember to double tap the cockpit to ensure the pilot has zero hope of survival
+Yeah they do gun runs
+^ We need to know
+Id have to calculate per-aircraft to get radar range, the SAM will fire at 14.5km
+But, the RIM-67B isn't a very good missile, its fairly easy to dodge
+Long burn time,  but terrible maneuverability
+Ah lol, a mid tier option for the VLS would be nice
+`[` and `]`
+Oh lmao rip
+For me, its the two characters to the right of the P
+nan
+ah yes, the person throwing snow left, and the person throwing snow right keys
+Im pretty sure they dont
+you could prob test by putting two tents next to each other, tents are super week but have a massive explosion
+Unlike the RAT,  I don't see a hard coded maximum engagment range, the bullets can exist for 2 minutes before self detonating traveling at 510 m/s (I think)
+So quick math would say it should be able to fire at a 45 degree angle for a range of 26.3km
+wait do bullets have air resistance in vtol?
+I have no idea
+nan
+depends if you include air resistance
+As bullets don't have resist in vtol,  best is 45
+At 510m/s theres no angle they can fire to make the bullet run out of time
+Tho thats not counting the use of hills
+the wiki is wrong about a great many things
+Radar detection range depends on aircraft type/aspect/weapon load
+A fully loaded 26b with lots of weapons can be detected from a *loooonnnnggg* range away
+The FCR is about 50% worse than the 26b radar, detected at 50nm seems strange, if you show your belly + have external equips maybe
+are you being locked by it?
+Oh thats not detected
+Inverse square law means you can get rwr pings from a *much* higher range than the enemy will see you
+rwr just means you got a ping, but that dosn't mean the ping makes it back to them
+He thinks he can make easy medium and hard all into one mission
+*why* you would want that who knows
+No as in, you select the mode in-mission
+That makes it ***harder*** to use
+and objectivly worse than just, selecting the mission
+I never disputed the possibility
+No way to do loops, your best option is to copy and paste the events a few hundred times
+That event trigger will only happen once right?
+it was my understanding that basically all events/triggers can only happen once
+but
+I don't make missions
+so take everything I say with a grain of salt
+If you are the creator yes
+2km
+Cheese I wrote script to do that for missiles, want me to just modify it for units?
+Are units funnii?
+Ah yeah
+:Think:
+The aircraft already despawn
+They visually vanish
+Its quick enough tho, its like 1 minute or something
+Is there a timer as well? Iv killed AI on the ground and a few seconds later they vanish
+But not immediately
+I am testing
+HC
+maybe
+yes
+but for now
+HC
+MP compatible when :isforme:
+Just beg bovine to bestow his divine wisdom
+pog
+we can test
+cring
+For marking airbases your best option is probably GPS points
+:flooshing:
+@Shadowtail
+Try deleting this file `E:\SteamLibrary\steamapps\common\VTOL VR\CustomScenarios\Campaigns\Welcome to the Jungle\image.PNG` and then re-setting the image/uploading
+Try setting the image again?
+You might need to restart your game again, but can you post a new player.log?
+Bcs it would then have a different file name maybe? Dunno, something weird happening
+That was sent before 9am and therfoe does not count as a valid message
+What region did you say the server was in? If possible id recommend looking at moving the server to Europe or America, I wouldn't be suprised if some of the issues you've had are due to region specific issues in a less-popular area
+Ah it was a specific API version, I don't use that version in any of my bots so I didn't notice it
+No more than 25nm
+You can put a bunch of slots in
+You can have an unlimited number of vehicle slots
+SAAW is a fairly low tech/small unit, it’s radar is likely incapable of intercepting missiles
+If missile intercepting is needed, dosnt AAA do that job better?
+If you need mobile, MAD4 works
+Well can’t shoot and move at the same time
+But can move to setup elsewhere
+Boat works, could always dig a moat next to your road have have a boat going through it
+More radars would fix yeah
+You’d need more launchers tho, iirc a launcher can only have one radar
+Also you can configure the radars to not engage the players
+Which I’m sure would be a brain fuck, they see like 50 mad4s but none of them shoot lmao
+Interesting, I have no idea how that would behave
+Launchers have a launch-cooldown, so there’s a limit to some extent but yeah dunno
+can you post your vtm/vts/vtc files? IIrc this has something to do with a weird ID/name miss match
+thats one of the files, there should be a few others, specifically a `.vts` file
+vtc = campaign vts = scenario  vtm = map
+dosn't he have this?
+well should be a version without the `b`
+I can decrypt it if needed
+lemme take a look
+So my guess is the map isn't playing nicely because the IDs don't match
+in the vtmb file the ID is listed as `Korengal`
+But in the vts file it lists as `Korengal_1725346568`
+Which also explains the name miss match between the folder `Korengal_1725346568` and the file `Korengal.vtmb`
+Iirc the folder name needs to be the same as the file name
+nan
+I would try changing the folder name to just `Korengal` and updating the map IDs to `Korengal`
+You said this was a workshop map right?
+Has anyone confirmed workshop maps actually *work*? I wouldn't be suprised if the game tries to append the workshop ID to the map ID but isn't correctly updating the internally listed id
+Well then I have no idea, the other possibly weird thing is `ScenarioTest1.5` has the ID `ScenarioTest#1.5`
+No idea why the `#` is there
+Ah yeah I don’t think you can have a # in a file path
+Dunno if that is breaking it?
+Well I dunno
+Maybe, maybe not
+No one has gotten in trouble for it, I believe its *technically* reportable via steam but steam will just take the workshop item down
+yes
+I have no idea how
+but I know some missions do
+Also some missiles just put an ungodly amount of AAA above an altitude
+Do what the thunderdome map did then
+Shit load of AAA up on cliffs
+Put the AAA back far enough so they only get LOS when the helis get too high
+Thats what I woulda done
+If someone has to put in the effort to fully make a mission it’s more likely to be good than if they can just spend two minutes moving a single unit and uploading
+I’m tempted to write a program to fully procedurally generate missions, it’s on my very long todo list of massive projects
+Edited in read only?
+Ahh
+Oh my god it’s the same argument as earlier. Remove control from a creator just because some other people want it to be different :agony:
+:Think:
+Having had a project I worked on for over a year on get stolen, fuck off, it dosnt matter that it’s free, it’s still something being stolen
+Starmap
+There’s a reason it’s only partially open sourced
+And why headless client will also only be partially open sourced
+A personal project
+:Think: you having access dosnt make it open source
+That’s not how that works
+No
+I’ll hold onto your money for you if you want
+Nah
+I only owe money to C
+I owe like 12 cents
+9
+Mission                                     Unit Spawns Dynamic Liberation (Hard)     670 F-45 Cooperative Mission       78 F/A-26B Naval Strike Mission 89
+The built in coops don't even come close to dynam lib
+Funily enough low tech pvp is nearly the same as the coops [LOW TECH] PVP Strike Mission 83
+nan
+it does somewhat, but not much
+:risitas: spot the headless client testing maps created by @ierdna100
+That being said, cities/roads play a very large role in map preformance
+lots of cities will kill pref
+nan
+There I formatted it a bit more reasonably
+Join team B
+Hull number is just the number thats written on the boat, its got two ESSM launchers and one CIWS
+Its possibly got two different radars, so it might be capable of using both launchers at the same time
+Unless we get permission from baha, it’s pretty straight forward to reverse the process hence the fact that HC can show maps
+Generally yeah I plan to have features that would allow for that, maybe not a pure time limit, but a clean easy to read game log with timestamps
+:Think:
+Temperz surely you understand how *breaking the game encryption* breaks the EULA
+Well
+for workshop missions you would be
+for built in missions your distributing the game files
+:Think: well if you want to do it the hard way I guess
+It's not steam encryption
+its baha encryption
+:Think:
+@Sypwn Did you remove the 145s from the delta internal bays?
+Ah lol
+Yeah makes sense, I wasn't gunna take bombs but now I have 53s :risitas:
+Shadow is the one to talk to about that
+But he’s mentioned he dosnt want to bloat it too much
+Backstop are allied
+I wonder... what proximity are you to the enemy when the SLAM truck fires at you @Green
+AI Air units avoid friendly fire with ARMs, I wonder if ground AI dosnt
+@Sypwn Any chance you could take a look at a campaign and figure out why its causing a black screen?
+Its an invalid character in file path but I don't see any invalid characters anywhere
+waiiit gimme 2 sec to test i just noticed something
+Yeah ok got it
+Game dosn't like CRLF line endings
+:thinkening: that would be cheating tho
+I don't believe thats possible
+It seems like the answer is likely yes
+at least the allied escort cruisers gun on the front is capable of targeting ground units
+CIWS might be able to target ground units????? Im not sure,  I kind of doubt that
+Id have to touch the mission editor tho
+Were they within 5km of the ground targets?
+Because I can answer some of the mission editor questions kek
+The range of the allied cruiser is 6km, the max-range of a CIWS is 2km
+Was the testing target within 2km? Im *guessing* it requires a radar lock to fire, but it can *see* tanks
+actually no it can't see tanks, but it can see infantry/tents
+I don't think it engages tanks
+Armor units are different than non-armored
+Id try infantry, or tent's
+or both
+lemme look
+Nice
+:risitas:
+"fuck you in particular"
+It looks like nearly everything is counted as "ground armor" even without having armor, anything with wheels is counted as ground armor, plus of course the bunker
+The tent, solider, manpads, the static sam launcher, the static radars, and AAA are all "ground" and will be targeted
+Out of curiosity, if you opened command prompt and ran `ping cdp.cloud.unity3d.com`, what does it say?
+Open command prompt, type in `ping cdp.cloud.unity3d.com` and press enter
+nan
+nan
+Do you have anything that would be blocking your internet connection?
+No idea but its consistant with other workshop errors iv seen
+Lemme see if I can find a dependency on it
+Yeah I dunno, dosn't make sense that it would be required either, but I *have* seen it come up in a bunch of peopels logs with workshop issues
+make sure travel times make sense
+don't make the helicopter fly farther than 20nm
+iirc you have to put a spawn for every slot you want
+All MP missions must be a part of a campaign
+If you only touch preview.jpg/png it should work
+I know you can edit exclusively that loading screen
+I thought it was one of the two, not sure
+Either way it shouldn't have changed the map mesh itself even if you modified heat.png unless you regenerated the heightmaps
+height0-3 are the ones actually being used for the mesh, unless those don't exist I think height.png is a fallback
+Ah but in game the terrain was fine?
+Interesting
+Flying far in jets is fine
+flying far in heli sucks
+Aaaaaaa its valid for a mission to not have an image associated with it?
+:Crycat: so many edge cases
+:harold: also I see now that its not required for the images to be square
+nan
+Seems like it
+lmao
+you think my logs are readable?
+Also like two seconds after that photo I restarted HC and broke everything so :risitas:
+Also I almost never host lobbies so that alone would be suspicious
+Watch it? No
+Rip
+Most units within the editor are metric, the speed is in m/s
+np
+For weapon stats I created this   https://docs.google.com/spreadsheets/d/1xLWW-bbyfJEuQnnMmhSoCq39m3Ge5fxL11G_qbVDd88/edit  Iv been wanting to create stats for AI units for a while but it’s a lot more complex
+As in AH-94 a2a combat?
+Im not sure a gamemode like that would work at all tbh
+It would need to be cities to have any hope of working
+Mountains/valley then
+not a plane
+What weapons are you going to allow?
+You can ask baha, I asked about the built in PVP strike mission and he said it was fine, but a campaign might be different I dunno, just gotta ask him
+Ill grab it in a bit
+max 2
+its fairly integral to how the game is setup to support only 2
+save-as
+To be fair, I used to recommend people copy the files and directly modify them before someone told me save as worked :risitas:
+Yea its not aircraft connected at all, you can see the icons through your aircraft even with full power off/no sensors on them
+Wouldn't it also not work due to TGP IFF?
+TSD shows as well iirc
+wait maybe not, I might be remembering an instance I was in the heli
+Being able to see player/unit names is a weird meta, would be nice to be a lobby option
+Yeah 42c dosn't have radar at all, only the 94 can radar detect infantry
+What the playercount/aircraft type? Seems like the perfect job for 2 26's running 4 CAGMs each
+Oh... yeah I dunno about that tbh lol. You'll have to heavily limit the 45, otherwise a single 45 is going to take out every oil rig lol
+145s can take out the legs of the oil rigs
+you only need to take out 2 legs per rig
+thats 16 legs
+the 45 carries 24 AGM-145s
+Could always place an infantry on the runway, its so small that its unlikely to be visible unless you get close or put your TGP directly on it
+I don't *think* that will prevent AI from using the runway either
+np
+backstop is a BSM-66 equivalent
+patriot has been buffed to be closer to the MAD-4
+I havn't tested
+They'll engage some ground targets, but not with missiles
+only with their guns
+if someone says there's ground below me and then drops me into the occean ima be mad
+21.9km
+with a min range of 1.2km
+it is a scaled down super missile cruiser missile after all
+nan
+Its cruise motor produces 25 thrust for 40 seconds
+an aim120's cruse motor produces 5 thrust for 18 seconds
+:risitas:
+The VLSanti-ship missile produces more thrust in cruise mode than the 120 produces for its boost mode
+yeah its 20x draggier
+Im many ways I actually think the anit-ship version is better than the regular super missile cruiser missile lmao
+holy fuck
+90 thrust for 5.5 seconds
+and then 8 thrust for 30 seconds
+15x drag compared to AIM-120
+2km
+Don't ping admin/mod unless you have an issue with the discord server
+entity id -1 is what a player gets before they spawn
+I don't believe they are their own static objects, so dosn't seem like its possible
+they are just regular unity mesh's on the airbase
+Interestingly the tutorials are static objects...? I have no idea what they do and there's no mesh for them
+``` Tut_BasicFlight Tut_GettingStarted Tut_Weapons1 VFTraining1Prefab ```
+They seem very custom so probably do nothing (or completely break) if not put in the right mission. `Tut_GettingStarted` and `VFTraining1Prefab` might do nothing at all, there's some lists that are just empty for those
+iirc they can fuel off the team A aircraft
+max level profiteering
+sounds like it would start WWIII
+all it takes is a single RWR to malfunction
+For validation I wrote my own VTS parser, it dosn't spit out clean errors but it could help https://github.com/Strikeeaglechase/VTOLConfigNodeToJSON
+Anyways I honestly recommend some sort of version control, use a git repo and push changes before launching the game
+Google drive seems like an... interesting solution lol
+Honestly for projects that your working on for months, id just create a script that commits the changes to github then launches the game, then just always launch teh game through that
+of what?
+the effective radar powers?
+There's no range chart
+I already sorta made something like that
+I was working on a tool for it
+Its pretty easy
+I could look into making an actual usable tool without all the over-the top extra I was doing
+If I was a frontend dev, would be great
+I however have none of the required skills to make something like that :risitas:
+:Think:
+Ierdna do you know how ot do UI?
+As in you know Vue?
+Or some other frontend framework
+Thats the issue
+teaching me "UI" isn't gunna help when I don't know how to make it in anything except Stormworks
+its different per weapon type
+Iv used GitHub desktop as a GUI, it’s simple and works well. I also tend to use Visual Studio Code as a UI for it as it’s also what I use to edit files
+iirc thats the upload file size is too high
+Primarily due to pictures
+Its unlikely to be the units, dynamic lib has over 600 units iirc
+so unless you've got more than that
+Single picture is worth *thousands* lmao
+The editor itself won't limit how many units you can place, limit exceeded means the file size was too large but units are just a few bytes for each one so
+Make sure all the images are <1mb
+np
+nice
+Yeah all mp missions are campaigns even if they only have one mission
+anyone know why I wouldn't be able to make my mission public
+Well I don't have steam guard enabled so lemme try that lmao
+had to disable it for HC
+Yep that fixed it, steam communicates this being a requirement *no where*
+The AI will taxi/takeoff themselves, you just command them to takeoff
+You don't manually create the paths for em
+Yep all AI aircraft will taxi on their own
+Ok good Sypwn is here, I have no idea lmao
+Uhh you'll need nodejs installed, maybe ill setup a simple website to convert easier
+Well I was gunna but
+@Sypwn what sort of validation would be useful? First thing I thought of was checking `unitInstanceID` to make sure all IDs are unique
+nan
+VTS file
+Making a website to convert between VTS <-> JSON, figure ill throw some validation checks on as well
+Anyways im extremely shit at UI but here: https://convert.vtolvr.live/
+Console will spit out useful information
+@ISEGaming ^
+> that would be awesome Issue is thats all UI heavy
+which I suck at lmao
+Ill add some more ID validation later, but that should handle conversion as needed
+Tho I havn't really tested so :shrug:
+The output looks ok and it converts between back and forth fine it seems
+Could you send me a vts file with such errors so I can test?
+IDs aren't indexes right?
+I meant positional index
+So I can just rearange things while keeping IDs the same
+ah lol
+The datastructure iv setup makes it pretty trivial to change IDs and what not, but, thats UI
+nan
+> that bad if you write a system that maps all ID references Yeah no the data-structure/manipulation side of it is trivial
+Designing the UI to interface with that is hard
+Uhhh :shrug: depends on what you want it to do
+Make UI and ill make it functional
+The website itself is open source https://github.com/Strikeeaglechase/VTSConverterWebsite
+somewhat #off-topic it would seem
+^
+lmao
+I extremely rarely use the editor so I cannot comment
+yes
+I am going to implement whatever you need
+but I can't comment on what you need
+Whats `_el` @ISEGaming
+of whats currently being dragged?
+kk
+Did you upload them to the workshop?
+?
+oh
+I see
+well I can retrieve them from the workshop
+but only if they are yours
+Well gimme the links
+github!
+I don't believe boats are ever removed
+Its ok the allied carrier is op af so its fine
+Yeah we need a weak carrier lol, PVP with the goal to sink the enemy carrier is fun but currently extremely favored to team A
+like, if you don't have cruise missiles your only real hope is to ram the carrier
+There's not *really* a way
+just backup your mission files always
+The "other" way is basically contact me lol, there *is* a way to recover from the workshop but you need custom scripts to do it
+> How would a script help recover the files? The files on the workshop are basically encrypted, the script undoes that
+After that your left with just a regular mission that you can edit
+Only if they are your own
+You can just ask @Chieh
+yeah editor is almost entirely in meters
+you can set altitude to ft
+in some places
+Yes
+They may be broken for other reasons
+But they can be converted
+trigger kill the AI whenever the player spawns
+So you *always* have N aircraft alive
+Player spawns in, replaces one AI
+Nothing new for VTOL :risitas:
+sec I clicked a button and did something to my unity that I don't know how to undo
+oh god restarting didn't fix it
+Ok no i found it
+nan
+*technically*
+Uhhh 10 degrees I think
+9.05
+80.95 degrees vertical
+So -9.05 to 80.95, total 90degree vertical fov
+ima try to export all the useful/important information about every unit
+they can spawn that altitude
+just because you can't do it in the editor
+dosn't mean it can't be done
+40k ft is the altitude warning, and also where the game used to hard cut off so you couldn’t go above so that’s what I assumed would happen
+Its nothing fancy, but if you are ever looking for specific stats on units here you go
+if someone wants to make that into a google sheet or some other good visualization please do
+also lemme know if there's any metrics/stats iv missed that I could add
+Could also instantly respawn the unity `N` times to make it effectively have more health
+tho that would prob look weird to anyone looking too hard
+Also wouldn't work with moving units
+at least not without a shit load of events and what not
+The in game tutorials don't have any gif/video's pop up
+I *think* iv done the tutorials but its been a hot minute, I believe the only sorta thing is the text/on-button pop-ups, which mission creators can use in SP
+Maybe its related to one of those special static objects
+You have to datamine a bit
+What would it compile to?
+VTS isn't a programming language
+You could serialize the ConfigNode format, which is what VTS is
+Bundle? Yes thats how they are stored
+hence the whole datamining aspect
+The files aren't just cleartext shipped with the game
+you have to export
+and then dig them out of another file
+It should be compatible
+Unless baha radically changes something in an upcomming patch
+Which is unlikely
+Radical changes are no different working on ptb than working on stable to be fair
+The only difference is if a new feature on PTB gets changed specifically, which could happen
+Other than that, no issue working on PTB
+Ultimately a stable update could break things the same way a ptb update could break things
+You'll be fine a vast majority of the time
+no :risitas:
+Yes, tons
+modders knew it was multicrew attack heli with AG radar and a bunch of weapons like months before it was released
+But yeah no updates in a month makin me excited for whatever is coming
+the less baha says the more hyped I get :risitas:
+Im guessing skin support personally
+Neat
+The moment I see a mission creator use it im leaving lmao
+Which tutorial uses it?
+Ok *this* is a good use of it
+indepedenece day, it does work
+No
+You can do some things the mission editor won't let you do
+like putting buildings in weird places
+or units where they normally can't be
+For what? Pref? Dynamic lib has 1000+ spawns with like 25% spawning
+Depends on the type of unit and what you have it doing
+If your goal is to make a comp mission, limiting budget will mean good players never kill each other with AIM-120s
+In a "comp" setting, spamram is not a viable tactic, its never more effective than a single missile. But missiles specfiically timed at different energy states *is* important
+Iirc there's a position value in the vts you can tweak that dosn't actually move the airbase but does change where trees can/can't spawn
+Ah
+Sypwn does
+he'll prob help once he's done with heling me
+yes, but they don't work in mp
+https://steamcommunity.com/sharedfiles/filedetails/?id=1718727127
+Mission made using them ^
+it would prob sync incorrectly
+Baha will likely fix it at some point, but if you want to look for a work around, it seems somehow related to ASF-30 [208], my guess its unit group/unit group actions somehow
+If I had to guess, having the AI aircraft in the same group as the rocket boats fucks up something
+Well there's the problem
+I couldn't be bothered to type it out
+Go to `C:\Users\%username%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData`, open `gameSettings.cfg`, and set `EULA_AGREED = 1`
+For what it’s worth yes ground units can do some truely impressive terrain nav, so it could make it, but yeah just fix it
+Ok yeah, nothing is consistent
+They *can* make it up that ridge
+If they choose to in this situation
+Who knows
+these two folders have what you need
+Collide with boats*
+Iirc there's no collision with most ground units
+Yeah two good players with guns will win, one can just defend the entire time while the other comes around the back
+:risitas:
+That would be fun lmao
+it has to do diving passes, when I messaged around wtih ah94 vs fixed-wing, while the 94 lost every time a few of the passes a bullet or two would hit me
+so with 15 helis
+might win
+> Anybody know if it is possible to spawn a multiplayer spawn AV42 with troops inside Its not, only in SP. In MP you have to spawn the troops nearby and tell them to load in  >  players the choice of what jet to spawn You can do this by placing a bunch of mp spawns and letting the player choose which slot they want
+Prob just make it heavy
+Command it to taxi, then add a trigger to the location you want them to taxi to to command it to takeoff
+I believe the TWR requited for all VTOL AI is 1.1
+1.05 for VTOL landing
+Looks like for landing you can force them to vertical land and they'll jettison equipment until they have a 1.05 TWR
+no
+I know extremely little about mission editor stuff
+Yes but requires some work/extracting the game
+I would have to entirely write the AI and the physics
+Yes there are buttons on screen when you first launch the game
+they have them built in, so yes wasting time
+In 1.5 yes
+Well now in 1.5
+On stable branch no, once a unit is dead its dead
+Yeah baha probably dosn't even know
+Dosn't seem to be, your best option would prob be to add a slot that you tell every unit on the map to not engage
+I looked and there dosn't seem to be a way to call it on a player, uses different methods
+Why do you need to be flying around, why don't you just use insert camera?
+devcam
+the camera you get by pressing insert
+yes
+Sounds like you need HC lol
+Not even a plug just another tick on the list to convince me to actually work on it
+The BFM thingy *is* HS
+Tacview, but live, and without mods
+it is
+In the same way the BVR mode is a branch off
+nan
+No
+Sort of
+They are two different gamemodes
+They share a vast majority of the code
+Two
+https://cdn.discordapp.com/attachments/1035382815392534578/1035383601853911200/unknown.png
+What it looks like ^
+kek
+I have this on #public_testing except now that channel is dead
+Nah I just tend to leave it open on my third monitor lol
+Iv heard rumors that radar horizon is actually simulated in vtol but I haven’t been able to confirm
+Put valleys/hills in such a way so if you fly low enough you can stay out of LOS
+There’s not really a max height
+Generally both radars and missiles do better against high targets
+Yea the website is down for a bit, I need to setup some VMs to do I can run multiple projects. Rn I’m running HS, so I took HC down
+For my services I do, and I have it behind nginx so I can map different domain names to internal services
+Issue is, both HC and HS require an owned copy of the game, so it requires steam. I need a solution that allows me to either have multiple steam installs, or a VM
+Yea, and more specifically the issue is there’s no way (at least no obvious way) to setup different accounts for different services. I tried docker but ran into some issues getting steam to run inside it
+It just dosnt work
+I’m fine with just running multiple accounts
+It dosnt “use a steam account”, but it’s through Steamworks, so it counts as running the game
+Also we should go to #off-topic before Sypwn wakes up
+There is a max range and angle, it’s just *height* is unlikely to hit those limits
+If you wanted to implement a height yourself, it’s probably possible with 1.5 features, but I’m not sure why you’d want to, it’s fairly unrealistic
+https://docs.google.com/spreadsheets/d/16DD8d1NudAGreoYmacUhVrwygP6oRgFtgGqJXnbI4Jc/edit#gid=0
+nan
+boats use special net syncs right?
+They use the downloadData same as players iirc
+nan
+its a specific way of syncing data, not a regular RPC
+its "better"
+and yeah boats use it
+the netcode can take shocking amounts of abuse
+Yeaaaaa I did get a lot of soft-locks, but mostly just the client waiting on something that never happens
+To be fair I also wrote a C# version
+Tho no idea why I didn’t just steal Baha’s :shrug:
+It’s not unity
+It’s semi-custom based off ConfigNode’s from KSP
+The serialization/deserialization exists in the regular source for the game
+Well I wouldn’t have put it on GitHub
+Only reason that vts to json exists is I needed it for HC and figured it would be useful to other ppl
+I simply woulda skipped the GitHub step
+Actually iirc I haven’t even published the C# version
+That’s just used for HS
+Fly 60 minutes, get nailed by a random hidden manpad?
+Iv wondered if I could do this on HS by telling everyone than everyone else is on the other team
+So team a would see both team b and c as a part of team “b”
+No reason it couldn’t be for AI either
+Well ig it would require a mod lol, there's no team information attached to network entities at all, so I can't even try to spawn it on the other team
+The issue is we *can* mod basically whatever however we want, its simply not done more just because *its hard*
+How would that work? Baha would basically have to open source the unity project lmao
+My biggest question is *how*? What could be done to make it easier?
+I have no idea what you mean tbh
+So the issue is no one is making things, baha changing things wouldn't fix that
+ask in the modding server
+well yeah CSA should be base game
+that much I agree with
+We've mentioned it a bunch of times without baha saying anything
+Nah order does not matter
+Not sure, but id just put em at the top
+Should prob move to a thread, or #off-topic, not super mission-editor related
+No tester role so dosn't count
+No signs at all
+Can *single player* have it?
+Because know multiplayer has never had it
+Wiki isn't a ground source of truth, and those are just example callsigns
+Can you send me a link to the mission?
+Sex
+If you are the mission creator yes
+otherwise you have to ask the creator for the files
+Mobile so no link for you
+There’s the zip somewhere for units specifically
+Can't you GPS CCRP?
+Idk if you get CCPR symbology off GPS for a dumb bomb, or if its only TGP
+yea GPS bombs in dumb will CCRP to a GPS
+Tbh regular dumb bombs not CCRPing to GPS points seems like an oversight/bug
+Send your player.log
+uh
+that dosnt seem right
+Why?
+Why would the plane be able to CCPR off of a TGP point, but not off a GPS point?
+CCRP is an extremely old technology
+And the TGP having CCRP but not GPS points seems like an extremely random/arbitrary limitation
+no I have no idea what you are talking about
+Arbitarailly less accurate when its a GPS point vs when its a TGP point?
+a point is a point, the aircraft shouldnt be magically more or less accurate
+Why would it be any harder than with the TGP?
+Dropping off the TGP and dropping off the GPS should be identical
+so
+nothing to do with the bomb
+or with CCRP
+you are simply saying its harder to get a GPS point than a TGP point?
+this is what confused me
+you were talking about some sort of "less accurate ccrp"
+That seems likely to be a bug, when you post it make sure to include a full log file (and a vts file if possible)
+Send me a link
+No rush lol ill be here all day
+done
+> If you can't figure things like this out yourself, then you probably shouldn't be messing with the VTS file :Crycat:
+Only if you are the creator
+Yes some have min-range, ill check what its set to for the slam truck
+1km
+Baha reads most messages in #vtolvrdev, just generally don't expect a reply lol
+Post it there, but its a semi-major change so don't keep your hopes up lol
+Tuesday dosnt *normally* cause client routine crashes, but I’d wait till tomorrow to see if it still happens
+Steam maintenance happens on Tuesday’s
+Causes many mp issues
+the ASF-30s radar is about 20% worse than the 26b's (inverse square law prob means its *range* is less than 20% different, but thats output power), the AI 26b has an identical radar to the player radar
+Are you sure they are getting targets on radar and aren't just turning to them via RWR?
+Yeah just looking at their stats I don't see why they would behave differently
+Log file might have something useful, tho I don't think it shows rwr detections
+MP vs SP
+Your RWR filters out non-player friendly RWR contacts
+So you'd only see an AI 26b nails if you were on team B
+make em heavy
+I already did
+You'll have to decompile the game
+@Sypwn may have them on hand
+16
+You can put infinite player spawns but only 16 players can connect
+Positive
+> every single other plane dies when taking a direct missile hit (as you'd expect) except the f/a-26 Iv seen the F-45 tank missiles many more times than iv seen 26b's, unless you mean AI?
+for AI iv exported their relevent stats here https://canary.discord.com/channels/319915885575798785/408290968232525868/1029607562598948965
+And missile stats here https://docs.google.com/spreadsheets/d/1xLWW-bbyfJEuQnnMmhSoCq39m3Ge5fxL11G_qbVDd88/edit#gid=2059608664
+All the player aircraft can survive AI missiles from time-to-time
+Actually looks like functionally the AI F-45 should have more HP lol
+> why is that Dunno maybe baha meant to update all of em but got sidetracked
+I don't think its meant to be like that lol
+The game will break after a little bit tho
+The big issue I had is with the mission timer
+it would rollover and all radars would break
+somewhere around 24hrs iirc but I could be wrong
+is why HS does autorestarts once an hour
+Looks to me like a unit group issue again
+Is the ship in a weird unit group, such as sharing with an aircraft?
+There's a rocket boat in Echo group
+Which is an aircraft grouping
+nan
+No problem!
+There was some talk of skin support awhile ago, by why lol
+In `AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData\pilots.cfg` you can modify pilot names
+@houstonderk  > I just want a dynamic liberation match with only 1 life... lol All i see is kamakaze pilots, although yesterday someone screamed as they were going down and it put a little more emphasis on it...  Issue is with a public lobby you are basically never going to get people who care/are capable of one life, so you'll have all the slots in the lobby depleated after only a few minutes lol
+I thought about running a "hardcore" HS PVP lobby to see how it went lmao
+One life and then your banned
+@Jaidensky did a full solo zero death run on hard mode
+Something like 460 kills iirc
+> stopping from a rejoin on that one match On that *one lobby*, so they are gone until you fully rehost the lobby
+The mission creator can set it to 1 life slots and then they have to watch the briefing room map until the next match
+You'll have to astro about that, he pushed back on adding more data in the past
+Yes, but the lobby host can choose to allow any skin as well
+mach .8 seems like a reasonable airspeed
+Tbh, there's probably a reason baha has the player count set to how its set. One of the reasons HS is only 16 players is for that
+Probably as its generally not a great look for a game to be laggy/jittery, so the 16 player limit is to prevent it from being *too* bad
+Ah
+ok
+I mean yeah thats very possible but the road of mod loader working with vanilla is :sus:. HS Accessor does it but takes extra precautions
+are you looking via insert cam?
+Did you press insert on your keyboard, or did you fly over to it
+terrain far away has an LOD, which can make it look like things are floating
