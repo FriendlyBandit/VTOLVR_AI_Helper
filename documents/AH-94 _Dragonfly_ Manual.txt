@@ -1,0 +1,2126 @@
+﻿NATOPS FLIGHT MANUAL - NAVY MODEL AH-94
+A1-AH94-NFM-001
+NATOPS FLIGHT MANUAL
+NAVY MODEL AH-94 264922
+AND UP AIRCRAFT
+  
+
+A1-AH94-NFM-001
+
+
+THIS PUBLICATION IS DATED 07 MARCH 2031
+  
+
+ DISTRIBUTION STATEMENT C: Distribution Authorized to US government agencies and their contractors to protect publications required for official use or administrative purposes only, determined on August 28, 2023. Other requests for this document shall be referred to Commanding Officer, Naval Air Technical Data and Engineering Service Command, Naval Air Station North Island, P.O. Box 357031, Building 90 Distribution, San Diego, California 92135-7031
+ISSUED BY AUTHORITY OF THE CHIEF OF NAVAL OPERATIONS AND UNDER THE DIRECTION OF THE COMMANDER NAVAL AIR SYSTEMS COMMAND
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMNAVAIRFOR A1-AH94-NFM-001
+N45
+22 January 31
+
+
+COMNAVAIRFOR MANUAL A1-AH94-NFM-001
+From: Commander, Naval Air Forces
+Subj: NAVAL AIR TRAINING AND OPERATING PROCEDURES STANDARDIZATION (NATOPS) AH94 GENERAL FLIGHT AND OPERATING INSTRUCTIONS
+1. Purpose. To issue policy and procedural guidance applicable to a broad spectrum of users and complement individual NATOPS manuals. This is a complete revision and should be reviewed in its entirety.
+2. Background. The NATOPS program is a positive approach toward
+improving combat readiness and achieving a substantial reduction in the aircraft mishap rate. Standardization, based on professional knowledge and experience, provides the basis for development of sound operating procedures. The standardization program is not intended to stifle individual initiative, but rather to aid commanding officers in increasing their unit's combat potential without reducing command prestige or responsibility. With the objective of maintaining agile standardization guidance, Commander, Naval Air Forces accepted responsibility for NATOPS program management previously contained in OPNAVINST 3710.9.
+3. Reproduction. Duplication of this publication for other than
+military use, without specific authority of Commander, Naval Air
+Forces are not authorized.
+4. Records Management. Records created as a result of this
+instruction, regardless of media or format, shall be managed per
+the Secretary of the Navy (SECNAV) Manual 5210.1.
+5. Reports and Forms. Reports and forms required by this
+instruction are listed in appendix L.
+
+
+
+
+________________
+
+
+TABLE OF CONTENTS
+1 - Overview & Standard Procedures
+1.1 - Overview - Page 4
+1.2 - Aircraft Overview - Page 4
+1.3 - Cockpit Instruments - Page 10
+1.4 - Startup Procedure - Page 21
+1.5 - Takeoff & Landing Procedure (Vertical) - Page 23
+1.6 - Takeoff & Landing Procedure (Rolling) - Page 24
+
+
+2 - Systems Employment
+2.1 - Multi-Purpose Displays (MPD) - Page 25
+2.2 - Integrated Navigation Display (IND) - Page 26
+2.3 - M-TADS Target Acquisition & Designation Sight - Page 27
+2.4 - AN/APG-108 Fire Control Radar - Page 29
+2.5 - ASE Aircraft Survivability Equipment - Page 30
+2.6 - Elbit Systems GEN IV(R) HMDS - Page 33
+2.7 - Sikorsky Fly-By-Wire System - Page 37
+2.8 - Viasat STT KOR-24-A Two-Way UHF Radio - Page 38
+2.9 - Exterior Lighting - Page 39
+
+
+3 - Weapons Employment
+3.0 - General Preface - Page 40
+3.1 - GBU-39ER - Page 43
+3.2 - Air to Ground Guided Missiles - Page 44
+3.3 - Hydra-70 Unguided Rockets - Page 47
+3.4 - AIM-92 ATAS - Page 48
+3.5 - Chin-Mounted Cannons - Page 49
+4 - Advanced Procedures
+4.1 - Overview & Multi-Crew Procedures - Page 51
+4.2 - Emergency Procedures - Page 58
+4.3 - Missile Evasion - Page 60
+Index: Terminology
+    Index: Abbreviations, Acronyms, and Brevity Codes - Page 64
+Credits & Afterwords - Page 66
+References - Page 67
+
+
+
+
+________________
+
+
+1 - Overview & SOP’s
+
+
+
+
+1.1 - OVERVIEW
+
+
+In this manual, you will find instructions to help pilot the AH-94 Dragonfly in a modern combat theater. Begin by reading the aircraft overview and rotary basics. This manual contains a plethora of information intended to aid workflow in the cockpit. See References (Pg.65)
+
+
+
+
+1.2 - AIRCRAFT OVERVIEW
+
+
+The Bell AH-94 Dragonfly is a Land and Sea based attack helicopter based on the Bell 360 Invictus prototype selected as the Future Attack Reconnaissance Aircraft (FARA). The Dragonfly's purpose was to combine the reconnaissance capabilities and flight characteristics of the OH-58 Kiowa, with the armament and sensor suite of an AH-64 Apache, ultimately replacing both aircraft by 2050. The Dragonfly features a new radar, The AN/APG-108 FCR, a Modernised-TADS, reduced Radar Cross Section, an enclosed tail rotor, and stowable landing gear. The aircraft also pioneers a Rotary based, all-in-one, situational awareness, navigation, and Datalink display, the Integrated Navigation Display.
+The Dragonfly is fitted with 4 under-wing hardpoints, 2 wing-tip hardpoints, mast-mounted fire control radar, and a chin-mounted gimbal hardpoint  for mounting either a 20mm Rotary Cannon or 30mm Chaingun, totaling 8 hardpoints. The M-TADS, Modernised Target Acquisition and Designation Sight is mounted externally without the use of a hardpoint. Fuel capacity is 1915 Pounds but can be expanded to 2400 Pounds with external fuel tanks. 
+
+
+________________
+1.2.1
+Rotary Aircraft Basics
+
+
+First, let's understand how the AH-94, and many other Rotorcraft, generate lift and sustain stable flight. 
+        The AH-94 is powered by 2 LHTEC T800-LHT-801 Turboshaft Engines which create 1,563hp (1,166kW) each. Both engines output this power through a transmission connected to the rotor mast with a clutch similar to an automobile. Both Pilot and Co-Pilot Gunner have a Collective, Cyclic, and Rudder Pedals; these controls are similar to a Fixed-Wing Aircraft with some key differences.
+
+
+Collective:
+In a Fixed-Wing Aircraft,the throttle controls fuel flow, this has a direct impact on engine RPM and thrust output.
+A Collective does not adjust engine fuel flow, instead it increases/decreases Rotor Blade Pitch Angle. This creates a difference in air flow moving through the rotor system resulting in a change in thrust (dependent on altitude). The Engine and Rotor are interlinked via a transmission comparable to a standard automobile transmission. Engines on a Rotorcraft attempt to run at 100% RPM in flight. Drivetrain shock can cause a rapid loss of Rotor RPM and damage to the rotorcraft drivetrain. It is the PIC responsibility to maintain Rotor RPM 100% ±10% and Torque below 100%.
+
+
+Cyclic:
+The Cyclic in a Rotary Aircraft is similar to that of a Fixed-Wing Aircraft in that they both make adjustments to aircraft control surfaces to control Pitch and Roll (Y and Z Axis). Where a Rotary Aircraft differs is that the control surfaces and lift generating surfaces are one surface, the rotor. The Cyclic input is converted into small pitch angle adjustments in the rotor system, directing the downward column of air in the opposite direction of intended travel. 
+
+
+Anti-Torque Pedals:
+The Rudder in Fixed-Wing is different from a Rotary Aircraft when it comes to controlling Yaw (X-Axis). While Fixed-Wing Aircraft use Vertical Stabilizers to control Yaw, Rotorcraft use either a conventional Anti-Torque Tail Rotor, or Contra-Rotating Dual Rotor Design to mitigate undesired rotation caused by torque on the X-Axis.
+Torque created by the Main Rotor System must be counteracted to maintain stable flight below or above ETL speeds. Increasing or decreasing the RPM of the Anti-Torque Rotor via Anti-Torque Pedal input counteracts the torque created by the main rotor system resulting in Yaw Control.
+
+
+________________
+
+
+
+
+ETL/GE/RBS/Dissymmetry of Lift/Gyroscopic Precession/Transverse Flow Effect:
+
+
+Gyroscopic precession, or Phase Lag, is a phenomenon occurring in rotating bodies in which an applied force is manifested 90 degrees later in the direction of rotation from where the force was applied.
+
+
+Dissymmetry of Lift refers to an unequal amount of lift on opposite sides of the rotor disc. It is a phenomenon that affects single-rotor helicopters in forward flight. A rotor blade that is moving in the same direction as the aircraft is called the advancing blade and the blade moving in the opposite direction is called the retreating blade. When viewed from above, most American helicopter rotors turn counter-clockwise; French and Russian helicopters turn clockwise. Balancing lift across the rotor disc is important to a helicopter's stability. The amount of lift generated by an airfoil is proportional to the square of its airspeed (velocity). In a hover, the rotor blades have equal airspeeds and therefore equal lift. However, in forward flight the advancing blade has a higher airspeed than the retreating blade, creating uneven lift across the rotor disc.
+ 
+Retreating Blade Stall is a hazardous flight condition in helicopters and other rotary wing aircraft, where the retreating rotor blade has a lower relative blade speed, combined with an increased angle of attack, causing a stall and loss of lift. Retreating Blade Stall is the primary limiting factor of a helicopter's never exceed speed, vNE.
+Retreating Blade Stall occurs at high forward speeds, and should not be confused with rotor stall, which is caused by low rotor RPM and can occur at any forward speed. The result is that the retreating blade stalls and the rotorcraft rolls to the side.
+
+
+Transverse Flow Effect is an aerodynamic effect encountered when a helicopter moves horizontally (typically forward) through the air, which causes the rotor disc to roll to the side. It is also known as transverse roll or inflow roll. Around the same time as the rotorcraft is transitioning into ETL, it experiences oscillations caused by Transverse Flow. This is sometimes referred to as "The Shudder"
+Transverse flow effect is not experienced when hovering, because the air above the rotor disc is being pulled down from above (known as induced flow or downwash), and is equally distributed around the rotor disc. The air is descending from above, which has the effect of reducing angle of attack.
+However, when the helicopter starts moving into undisturbed air, a portion of the disc is in clean, unaccelerated air, while the remaining portion of the rotor disc is still working on descending air. The part of the disc working on clean air therefore sees a higher angle of attack than the portion of the disc which is working on descending air. The result is that the portion in clean air develops more lift.
+The disc rolls to the side, rather than pitching backwards as one might naively expect, because of gyroscopic precession.
+
+
+
+
+Effective Translational Lift or ETL is the airspeed at which a Rotary Aircraft's Rotor System becomes more efficient due to forward translational movement. This effectively determines whether a Rotary Aircraft is in a hover or forward flight and describes the short transitional time between those states.
+
+
+Ground Effect is the phenomenon where an aircraft creating downward thrust close to a fixed surface will reduce drag on the lift generating surface. For fixed-wing aircraft, ground effect is the reduced aerodynamic drag that an aircraft's wings generate when they are close to a fixed surface. For rotorcraft, ground effect results in less drag on the rotor during hovering close to the ground. There are limitations for hovering a helicopter in ground effect (IGE) and out of ground effect (OGE). Hovering IGE reflects air off of the ground and upwards, back into the rotor system. This requires an increase in collective input, creating a cushion of air beneath the aircraft before landing. This is called fall-through, happening at the transition between OGE and IGE. Ground Effect Transition Altitude can vary from 50ft AGL to 60ft AGL depending on aircraft performance.
+
+
+Understanding Gyroscopic Precession, Dissymmetry of Lift, the transition between IGE/OGE, Effective Translational Lift, Transverse Flow Effect, Retreating Blade Stall, the relationship between the Rotor System, Drivetrain, control surfaces, and resulting air flow are key to operating any Rotary Aircraft.
+
+
+________________
+
+
+Crucial Speeds in the AH-94:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vH Maximum Airspeed: 200kn
+vY Max Rate of Climb ALT/TIME: 90kn
+vX Best Climb Angle ALT/DISTANCE: 60kn
+vBE Best Endurance FUEL/TIME: 80-100kn
+vBR Best Range FUEL/DISTANCE: 160-170kn
+vNE Never Exceed: 280kn
+*Velocities measured at 1000ft ASL with a Clean Airframe
+________________
+Types of Terrain Flight:
+Terrain Flight is the practice of avoiding large terrain features and exploiting radar coverage blind-spots in a hostile airspace environment.
+There are 3 Airspaces Rotorcraft Pilots reference when flying; Nap of the Earth Flight, Contour Flight, and Low-Level Flight. 
+
+
+Nap of the Earth or NOE flight refers to flight less than 25ft above ground obstacles and is used by aircraft to avoid enemy detection and attack in a high-threat environment.
+
+
+Contour Flight refers to 25ft - 80ft above ground obstacles and can be utilized in medium-threat environments allowing for more visibility and more specific energy.
+
+
+Low-Level Flight operating range is from 80ft - 200ft above ground obstacles.
+The largest determining factor when considering terrain flight options is the capability of the enemy. Other factors to consider are the time of day, terrain features, and airspeed.
+
+
+Permissive/Non-Permissive:
+Low Intensity Threat (Also COIN):
+A Low Intensity Threat Environment (LITE) is defined as an operating environment containing only Short Range Air Defenses 
+(AAA, Armor, Infantry, Patrol Boat)
+
+
+Medium Intensity Threat:
+A Medium Intensity Threat Environment (MITE) is defined as an operating environment containing Medium and Short Range Air Defenses and/or Enemy Ground Attack Aircraft
+(AAA, Armor, Infantry, Patrol Boat)
+(IRAPC, GAV-25, MANPADS) 
+
+
+High Intensity Threat:
+A High Intensity Threat Environment (HITE) is defined as an operating environment containing Long, Medium, and Short Range Air Defenses in a Combined Air Defense Network and/or Enemy Air Superiority/Ground Attack Aircraft
+( AAA, Armor, Infantry, Patrol Boat)
+(IRAPC, SAAW, GAV-25, MANPADS)
+(MAD-4, SA/FCR SAM, SAAW, ASF, Warships)
+
+
+See References Pg. 66 for more information regarding rotary aircraft basics
+________________
+1.3 - COCKPIT INSTRUMENTS
+
+
+  1.3.1 - PILOT IN COMMAND (PIC)
+ENG MANAGEMENT:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1: APU Power & RPM Indicator
+2: Main Battery & Indicator Light
+3: Switch Seat
+________________
+
+
+EUFD:
+Electronic Up Front Display
+
+
+FUEL PAGE  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Int./Ext Fuel State, Fuel Drain in L/min
+Estimated TOF/Range in Nautical Miles
+
+
+AUTOPILOT PAGE  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation(To Current WPT), Hover, AP OFF, Altitude,
+and Heading Autopilot Modes (+/- HDG/ALT)
+
+
+
+
+STAT PAGE  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Left Engine RPM, Right Engine RPM, Rotor RPM (in %),
+and Mast Torque (in %)
+
+
+1: Fuel Page Select
+2: UFD Power
+3: Autopilot Page Select
+4: Stat Page Select
+
+
+CENTER CONSOLE:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1: HSI (Bearing, Pitch, Roll, Yaw)
+2: VSI (+/- Vertical Speed in hundreds of ft per second)
+3: Rotor RPM Analog Gauge
+4: Rotor Torque Analog Gauge
+5: Master Arm Switch (ARM/SAFE)
+6: Dual Engine RPM Analog Gauge
+7: MPD Brightness (Rotary)
+________________
+
+
+
+
+T/O + SAS Panel:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1: Rotor Fold (Off/On)
+2: Rotor Brake (Off/On)
+3: SAS Control (Rotary)
+4: Flight Control Indicator (F/R)
+5: Parking Brake (Off/On)
+6: Landing Gear (Up/Down)
+7: Seat Adjustment (Up/Down)
+________________
+
+
+
+
+MASTER CAUTION PANEL:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1: RWR Power
+2: Master Caution Reset
+3: Clear Current Waypoint
+4: Swap MPDs
+
+
+
+
+
+
+STORES JETTISON PANEL:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1: LEFT OUT (1)
+2: LEFT IN (2)
+3: RIGHT IN (3)
+4: RIGHT OUT (4)
+5:  5: LEFT WINGTIP (5)
+6: JETTISON SELECTED STORES
+7: RIGHT WINGTIP (6)
+________________
+
+
+COMMUNICATIONS PANEL:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1: Main Output Dial (Team/Global)
+2: Microphone Mode Dial (Hot Mic/Push to Talk/Off)
+3: Microphone Indicator Light
+4: Main Channel Volume (Rotary)
+5: Intercom Power (Off/On)
+6: Intercom Volume (Rotary)
+________________
+
+
+
+
+LIGHTING PANEL:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1: Interior Cockpit Lighting (Off/On)
+2: Instrument Brightness (Rotary)
+3: Instrument Lighting (Off/On)
+4: Ext. Anti-Collision Navigational Lighting (Off/On)
+5: Ext. Anti-Collision Strobe Lighting (Off/On)
+6: Ext. Search and Landing Lighting (Off/On)
+________________
+
+
+
+
+MULTI-PURPOSE DISPLAY:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     1: Power Dial
+2: TOP (T1 - T5)
+3: RIGHT (R6 - R10)
+4: BOTTOM (B11 - B15)
+5: LEFT (L16 - L20)
+________________
+
+
+  
+FLIGHT COLLECTIVE:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1: Wheel Brake (Trigger)
+2: Yaw Trim (L Joystick)
+3: Hover Autopilot (Off/On) (Y)
+  
+
+COMBAT COLLECTIVE:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1: SOI Toggle
+2: SOI Control (Joystick)
+3: Modifier (Trigger)
+4: W/MOD Fire Countermeasures (Y)
+5: W/MOD Pylon Tilt (Joystick)
+________________
+
+
+CYCLIC:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     1: Weapon Action Switch (A)
+2: Cyclic Trim (Joystick)
+3: Weapon Release (Trigger)
+________________
+1.3.2 - CO-PILOT GUNNER (CPG)
+TEDAC:
+M-TADS Electronic Display And Control
+
+
+LEFT CONTROLLER:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1: SOI Toggle (Y)
+2: SOI Control (Joystick)
+3: Modifier (Trigger
+4: W/MOD Fire Countermeasures (Y)
+5: W/MOD Pylon Tilt
+
+
+RIGHT CONTROLLER:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1: Weapon Action Switch (A)
+2: Zoom (Joystick)
+3: Weapon Release (Trigger)
+
+
+
+
+1.4 - STARTUP PROCEDURE
+1.4.1 - PILOT IN COMMAND (PIC)
+
+
+1. Start BATTERY
+2. Start APU
+3. Set Int. Lighting AS REQUIRED
+4. Power EUFD ON
+* Stat Page
+5. Power HSI ON
+6. Power RWR ON
+7. Set MPDs AS REQUIRED
+-Set Navigation AS REQUIRED
+-Set Vehicle Options AS REQUIRED
+8. Set Helmet Mounted Display ON
+* Set HMD AS REQUIRED
+9. Set Communications Panel
+* MIC Check
+10. Set SAS AS REQUIRED
+11. Set Rotor Brake OFF
+12. Set Ext. Lighting AS REQUIRED
+13. Confirm Collective Input is 0%
+14. Close Cockpit Door
+15. Start ENG 1
+16. Move Power Levers to IDLE
+17. Confirm ENG 1 Idle
+18. Start ENG 2
+19. Confirm ENG 2 Idle
+20. Set Parking Brake OFF
+21. Engage Toe Brakes
+22. Move Power Levers to Flight
+23. Shut Down APU
+24. Begin Pre-Trim
+25. Cross-Check CPG
+* Communications
+* Countermeasures
+* Sensors
+* System Stores (Munition Settings)
+* Waypoint Data
+* Roles/Responsibilities
+* Mission Task
+Begin Taxi, Hover Taxi, or Vertical Take Off. Trim AS REQUIRED
+
+
+~ IF NO CPG REFER TO 1.4.2
+
+
+1.4.2 - CO-PILOT GUNNER (CPG)
+
+
+1. Wait for APU RPM Nominal
+2. Set Int. Lighting AS REQUIRED
+3. Close Cockpit Door
+4. Set MPDs AS REQUIRED
+-Set EQUIP AS REQUIRED
+-Set CMDS AS REQUIRED
+-Set TADS AS REQUIRED
+-Set Radar AS REQUIRED
+-Set Jettison Panel AS REQUIRED
+5. Turn on Helmet Mounted Display
+- Set HMD AS REQUIRED
+6. Cross-Check PIC 
+~ REFER TO 1.4.1
+________________
+
+
+1.5 - TAKEOFF & LANDING PROCEDURE
+(VERTICAL)
+
+
+1.5.1 - Take Off:
+1. Pre-Trim Aircraft 
+2. Contact Tower for Vertical T/O Clearance
+3. Advance Collective to T/O Power
+4. Obtain Stable Hover @5ft AGL IGE (below ETL 45kn)
+5. Transition into Forward Flight OGE (ETL 45kn)
+6. Aero-Trim Aircraft
+7. Retract Landing Gear
+
+
+1.5.2 - Landing:
+1. Contact Tower for Vertical Landing Clearance
+2. Contact Tower for Final
+3. Begin 20° Glide Slope to LZ
+4. Transition into Hover OGE (below ETL 45kn)
+5. Transition to IGE
+6. Re-Trim for IGE Hover
+7. Extend Landing Gear
+8. Perform Hover Landing at designated HeliPad.
+9. Engage Wheel Brakes AFTER Touchdown
+10. Confirm Collective Input 0%
+11. Move Engine Throttle to IDLE
+12. Engage Rotor Brake at Rotor RPM 50% 
+13. Perform Systems Shutdown
+14. Perform Engine Shutdown
+15. Turn Off Main Battery
+16. Dismount when Engine RPM 0%
+
+
+
+
+________________
+1.6 - TAKEOFF & LANDING PROCEDURE
+(ROLLING/HOVER)
+
+
+1.6.1 - Take Off:
+1. Contact Tower for Taxi/Hover Taxi Clearance
+2. Pre-Trim Aircraft
+3. IF Rolling: Begin Rolling Taxi 
+4. Contact Tower for Rolling or Hover T/O Clearance
+5. IF Hover: Obtain Hover IGE (below ETL 45kn)
+6. IF Rolling: begin final onto Runway and obtain stable hover IGE (below ETL 45kn) 
+7. IF Hover: begin T/O
+8. Transition into Forward Flight and OGE
+9. Retract Landing Gear
+10. Aero-Trim Aircraft
+
+
+1.6.2 - Landing:
+1. Contact Tower for Rolling Landing Clearance
+2. Contact Tower for Final
+3. Begin 20° Glide Slope to Runway
+4. Transition IGE
+5. Re-Trim for IGE
+6. Extend Landing Gear
+7. Perform Rolling Landing (below ETL 45kn)
+8. Engage Wheel Brakes AFTER Touchdown
+9. Begin Taxi to Designated Parking area
+10. Confirm Collective input 0%
+11. Move Engine Throttle to IDLE
+12. Engage Rotor Brake at Rotor RPM 50%
+13. Perform Systems Shutdown
+14. Perform Engine Shutdown
+15. Turn Off Main Battery
+16. Dismount when Engine RPM 0%
+________________
+
+
+
+
+2 - Systems Employment
+PREFACE:
+The AH-94 has a comprehensive sensor suite capable of performing multi-role missions. The Tandem Cockpit design of the rotorcraft demands enhanced situational awareness, communication, and coordination from its crew. Begin to understand the Dragonfly’s standoff capability with multiple acquisition sources and complimentary armament.
+
+
+2.1 - Multi-Purpose Displays (MPD)
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Turn On MPD Power
+2. Use the Buttons Located on the sides of the MPD to select screens and options (T1-T5, R1-R5, B1-B5, L1-L5)
+3. The SOI (Sensor Of Interest) button will make the page interactable with the Combat Collective/Left TEDAC thumbstick
+Depress SOI Toggle on the Combat Collective to change acquisition source on the MPDs.
+4. Press Home to revert to the home screen (T1)
+5. THE MPD IS NOT A TOUCHSCREEN
+________________
+
+
+2.2 - INTEGRATED NAVIGATION DISPLAY (IND)
+
+
+BASIC OPERATION:
+   1. Enter the Navigation Page in the MPD (B1)
+   2. Press the Zoom +/Zoom - buttons to zoom the display in or out. (R2, R3)
+   3. Control the NAV Cursor by setting NAV as SOI (T4)
+   4. The Mode Button switches between Aircraft Heading Mode, and Magnetic Lock Mode (T3)
+   5. Control and Select GPS Points with GPS (T2) Place new GPS points with GPS-S (B3)
+   6. All friendly units are shown in blue on the display.
+   1. Ground and sea units are shown as circles with a dot in the middle.
+   2. Air units are shown as a semicircle with a dot in the middle.
+   3. Units assigned a tactical call sign display the first letter of the callsign followed by the flight and unit numbers under the unit icon.
+   4. Aircraft carriers show lineup guidelines behind them.
+   7. Any enemy unit that has been detected by a friendly unit and transmitted by data link or has been inputted into the mission computer is shown in orange.
+   1. Ground and sea units are shown as diamonds with a dot in the middle.
+   2. Air units are shown as triangles with a dot in the middle.
+
+
+DESCRIPTION:
+The AH-94 Integrated Navigation Display or IND is a TACAN-equipped, GPS Navigation and avionics suite designed to aid Dragonfly Crew with situational awareness. Designed in 2022, this display incorporates one of the most advanced systems developed by the Department of Defense. A new and critical feature is Enhanced Datalink, through which friendly aircraft can transfer target data as well as interface directly with an E-2, E-3, and/or E-4 AWACS aircraft. Datalink provides global IFF for all aircraft, setting new standards in military safety.
+________________
+
+
+2.3 - M-TADS Target Acquisition & Designation Sight
+
+
+BASIC OPERATION:
+   1. Navigate to the TGP page on the MPD (B4)
+   2. Press the PWR button to activate the TADS (L1)
+   3. Control the TADS Gimbal with SOI (T4)
+   4. Slew the TADS with the left thumbstick
+   5. Zoom the TADS in/out by pressing the Zoom +/- buttons (R1, R2), or Up/Down on the right TEDAC thumbstick
+   6. To change FLIR polarity, press SENS. The TADS can switch between color TV, WHTHOT(Day), and BLKHOT(Night)(L3)
+   7. To send GPS Coordinates of the location targeted by the TADS, Press The GPS-S Button (R3)
+   8. To slew the TADS to the currently selected GPS Coordinates, press GPS-A (R4)
+   9. To slew the pod to the currently selected waypoint, press WPT (T3)
+   10. Press HEAD to enter HEAD Mode (B3)
+   1. Press HMD to toggle the HMDS look-through (B4)
+   2. Depress the left thumbstick to lock the TADS to the LOS Reticle (see 2.6.X) and exit HEAD mode
+   3. Move the right TEDAC thumbstick up/down to zoom in/out
+   11. Press LIM to show/hide the gimbal limit visualizer (L4)
+   12. Press MARK to toggle the IR marking laser (B1)
+   13. Depress Left Thumbstick to enter/exit Head Track Mode
+   14. To lock the TADS on a target, slew the reticle over the target. An IFF indicator will be shown upon successful acquisition
+   1. If a successful lock is not acquired, it may be necessary to zoom in further
+
+
+
+
+________________
+
+
+DESCRIPTION:
+The Modernised Target Acquisition & Designation Sight is an advanced precision targeting system currently in use with AH-64E. The TADS is instrumental in the employment of many air-to-ground precision guided munitions, being necessary for use of optically-guided and laser-guided weapons. The TADS contains a high-resolution, forward-looking infrared (FLIR) sensor that displays an infrared image of the target to the pilot. The TADS has 4 zoom levels, allowing it to be effectively used as both a targeting and reconnaissance system. The TADS also contains a CCD camera used to obtain target imagery in the visible portion of the electromagnetic spectrum. The TADS is equipped with a linear motion compensator and laser designator for precise delivery of laser-guided munitions and an infrared lasing for flight and target coordination at night. The guidance laser is always on, but the marking laser can be toggled on/off. A laser rangefinder provides accurate ranging information up to 23NM. The TADS is POINT and AREA stabilized, simplifying target acquisition and weapons employment. The TADS can be locked at ranges up to 23NM, however it is possible to observe with limited resolution for an additional 5NM.
+________________
+
+
+
+
+2.4 - AN/APG-108 Fire Control Radar
+BASIC OPERATION:
+   1. Enter the Radar Control page in the MPD (T4)
+   2. Power the Radar Control page (T1)
+   3. Set the Radar to SOI (T4)
+   4. Slew the Radar Cursor using left thumbstick
+   5. Lock targets by slewing the cursor over the target and depressing the left thumbstick
+   6. Unlock targets using UNLCK (B2)
+   7. Adjust Radar Range +/- (R1, R2)
+   8. Adjust Radar Altitude +/- (R3, R4)
+   9. Change Radar Mode to Air/Ground (L3)
+   10. Send a GPS point while locking a target with GPS-S (L4)
+   11. Slave TADS to Radar Lock with SLAVE (B4)
+
+
+DESCRIPTION:
+The AN/APG-108 Fire Control Radar is a combined Ground and Air, Millimetre Wave Fire Control Radome Target Acquisition System, designed to be mounted to the main rotor mast of the AH-94. It is an optional Target Acquisition System available on Hardpoint 8. The radome's raised position enables target detection while the helicopter is behind obstacles (e.g. terrain, trees or buildings). Able to detect and IFF 128 targets in a 120° forward field of view and track single targets up to 8NM. Slaving the TADS to a locked Radar Signature allows implementation of Laser and Optically Guided munitions. Targets detected by the Radome will return as a Dot inside of a Diamond on the HMCS. IFF information is displayed after locking a target assisting with targeting priority, situational awareness, and avoiding blue-on-blue incidents.
+________________
+
+
+2.5 - Aircraft Survivability Equipment (ASE)
+2.5.1 - AN/ALR-96 RWR (RADAR WARNING RECEIVER)
+
+
+BASIC OPERATION:
+   1. Turn on the RWR by turning the RWR power dial located on the master caution panel to ON.
+   2. Enemies first start with a semicircle on top, then a circle will appear over them and a tone will play when they acquire a lock.
+   3. Targets that the RWR believes to be of the greatest threat are marked with a diamond symbol.
+   4. Airborne targets will have a chevron on top.
+   5. Missiles gone Pitbull that are searching for targets are shown as a red M.
+   6. Missiles gone Pitbull that are guiding with a Continuous Wave (CW) beam will show as a red circle with an M inside, accompanied by an aggressive tone.
+   7. A Continuous Wave (CW) radar beam originating from a non-missile based Radar is indicated with a change of the source radar to red with a flashing circle, accompanied by an aggressive tone. CW beams (that do not originate from the missiles themselves) indicate the launch of a SARH missile.
+________________
+
+
+      8. Terminology:
+      1. 4 - MAD-4 Radar
+      2. A - AAA Fire Control Radar
+      3. DC - Unmanned Cruiser
+      4. DF - Drone Fighter
+      5. DS - Rotating Fire Control Radar
+      6. E4 - E4 AWACS Plane
+      7. F - Fighter
+      8. F+ - Air Superiority Fighter
+      9. HC - Catamaran Carrier
+      10. LR - NMSS Cruiser (Long Range Missiles)
+      11. MC - NMSS Cruiser (Medium Range Missiles)
+      12. SA - Self-Propelled Anti-Air Weapon (SAAW)
+      13. SR - SAM Radar
+      14. AE - AEW-50 AEW Plane
+      9. Listen for audio cues or look at the RWR screen for info on targets
+DESCRIPTION:
+The AN/ALR-96 Radar Warning Receiver (RWR) is an advanced electronic warfare suite developed by BAE Systems in 2023. It features the latest technology in attention-grabbing audio-visual cues, and easy to read symbols for fast target acquisition. With the ALR-96, situational awareness is at your fingertips - or ears! The RWR has a nearly unlimited range in all directions. The ALR-96 was developed as a response to the increasing threat of Russian and Chinese fighters launching missiles undetected and without warning until mere seconds to impact. Using a variety of classified high-tech systems, the RWR is the all-seeing eye of the sky.
+________________
+2.5.2 - AN/AAR-60 EMAWS
+(ENHANCED MISSILE APPROACH WARNING SYSTEM)
+
+
+BASIC OPERATION:
+      1. Missile launches detected by the EMAWS are displayed as a yellow line on the RWR display and are accompanied by an enunciation.
+      2. Incoming missiles (Both Radar and IR-guided) are displayed as two orange lines on the RWR display and are accompanied by a tone.
+
+
+DESCRIPTION:
+The EMAWS system is a passive missile approach and launch detection system developed by Lockheed Martin. The EMAWS consists of multiple IR cameras placed around the aircraft. Missile launches are detected at a range of 10 Nautical Miles. Incoming missile detection ranges vary greatly from missile to missile. IMPORTANT: The EMAWS has two blindspots, located directly above and below the rotorcraft.
+
+
+2.5.3 - AN/ALE-47 CMDS 
+(COUNTERMEASURES DISPENSING SYSTEM)
+
+
+BASIC OPERATION:
+      1. Interact with Combat Collective or left TEDAC controller
+      2. Depress and Hold MOD trigger 
+      3. Depress left (A/B/X/Y) controller button to dispense chaff/flare countermeasures
+      4. Interact with CMS Panel to toggle chaff/flare as needed
+      5. Open the CMS page to adjust countermeasures profiles
+      6. ENUNCIATORS:
+      1. CHAFF/FLARE - Successful dispense of a Chaff/Flare
+      2. CHAFF/FLARE LOW - 10 Chaff/Flares remaining
+      3. CHAFF/FLARE EMPTY - 0 Chaff/FLares remaining
+
+
+DESCRIPTION:
+The ALE-47 CMDS has been the standard countermeasures dispensing system since 1998. In that time it has proved itself to be reliable and effective. It holds 120 chaff and flares each. See section 4.3 for information on countermeasures strategies.
+________________
+
+
+2.6 - Elbit Systems GEN IV(R) HMDS
+
+
+BASIC OPERATION:
+      1. Set HMDS Power ON (Center Upper Console)
+      2. HMDS Tint and Brightness can be adjusted using knobs located on the Top Center Console
+Altitude mode is in Radar Altitude ONLY (relative to the ground directly below the rotorcraft) Barometric Altitude is not necessary in Rotorcraft as most flight time is conducted below 18,000ft ASL.
+
+
+QUICK REFERENCE - SYMBOLOGY:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Circa. Neo, 2023.
+________________
+
+
+The following list is designed for quick reference to the above diagram. If there are any terms you are unfamiliar with, see below this list for a second list defining each term.
+When referencing this list, Confirm HMDS Declutter OFF.
+Important items will be written in bold.
+      1. Collective Input
+      2. HVR/ALT Collective Symbology
+      3. Horizon/Bearing Skirt
+      4. Indicated Air Speed (IAS)
+      5. Vertical Speed Scale (in ft/min)
+      6. Altitude Above Sea Level (in ft)
+      7. Aircraft Pitch Ladder
+      8. Aircraft Nose Heading
+      9. Aircraft Nose Position Reticle
+      10. PIC Line of Sight Reticle
+      11. CPG Line of Sight Reticle
+      12. TADS Gimbal Limits
+      13. TADS FOV Display
+      14. Side-Slip Indicator
+      15. Cyclic/Rudder Input and Trim Indicator
+      16. Rudder Input (Vertical Line)
+      17. Rudder Trim Indicator (Chevron)
+      18. Cyclic Trim Indicator (Hollow Circle)
+      19. Cyclic Input Indicator (Solid Circle)
+      20. Weapon Select Indicator
+________________
+
+
+
+
+QUICK REFERENCE - SYMBOLOGY DEFINITIONS
+      1. Collective throw range and current setting indicated by a solid green bar. 
+      2. Hover/Altitude collective symbology. The line intersecting the throw range is the required collective input to maintain current altitude. Increasing or decreasing collective input will adjust altitude accordingly.
+      3. Horizon/Bearing Skirt. This line indicates the current altitude horizon of the rotorcraft. The downward chevron indicates magnetic north, bearing is indicated in (deg°x10).Indicated Air Speed (IAS). 
+      4. Displays indicated airspeed (in kn).
+      5. Vertical Speed Scale and Indicator (in ft) and Radar Altitude (in ft). The Speed Scale determines the rate of ascent/descent visually for the PIC.
+      6. Barometric Altitude Above Sea Level(in ft)
+      7. Pitch Ladder (in deg°x5). The pitch ladder provides accurate pitch information visually to the PIC.
+      8. Rotorcraft Nose Heading. Provides Rotorcraft Heading visually to the PIC
+      9. Rotorcraft Nose Position Reticle. Provides nose position information on all axis to the PIC
+      10. PIC Line-of-Sight Reticle. Locked to PIC Line of Sight and displayed as a solid cross. LOS Reticles are displayed on both crew members HMDS for communication and target acquisition.
+      11. CPG Line-of-Sight Reticle. Locked to the CPG Line of Sight and displayed as a dashed cross. LOS Reticles are displayed on both crew members HMDS for communication and target acquisition.
+      12. TADS Gimbal Limits. Provides PIC with TADS gimbal limits at a glance. Displayed as a rectangle with a square inside.
+      13. TADS FOV Display. Provides the PIC with the TADS FOV position within the gimbal limits at a glance. Useful for coordination, and keeping targets within gimbal limits.
+      14. Side-Slip Indicator. Displayed as a solid circle above the TADS Gimbal Limits. The Sideslip Indicator provides the PIC with lateral alignment information crucial for forward flight. Align the circle within the vertical lines extending from the TADS Gimbal Limits to correct side slip. Trim to ensure stable and aerodynamic flight.
+      15. Cyclic/Rudder Input and Trim Indicator. The CRIT box provides the PIC with cyclic and rudder position input information. CRIT also overlays trim axis information for maintaining aerodynamic flight.
+      16. Rudder Input Indicator. Vertical line in the CRIT box indicating the current rudder input.
+      17. Rudder Trim Indicator. Chevron above the CRIT box indicating current rudder trim setting.
+      18. Cyclic Trim Indicator. Hollow Circle in the center of the CRIT box indicating current cyclic trim setting
+      19. Cyclic Input Indicator. Solid Circle inside of the CRIT box indicating current cyclic input.
+      20. Weapon Select Indicator. Indicates if the rotorcraft is armed, and the selected weapon type.
+      21. TADS FOV Reticle. Indicates real-time TADS FOV providing additional situational awareness to the crew.
+
+
+NOTES:
+This section covers all major aspects of the HMDS, however, the TADS FOV reticle, radar warning symbols, and weapon reticles are not displayed. References to these are present in other chapters.
+
+
+
+
+DESCRIPTION:
+
+
+Developed by Elbit Systems, the AH-94’s Heads Mounted Display is a marvel of modern engineering. Through a combination of advanced optics and ultra-high-resolution displays, the HMDS delivers clarity never seen before. The pilot can clearly distinguish HMDS markings and the outside world, but the HMDS electrochromic tint option allows the pilot to prioritize HMDS symbology over visibility, making it a powerful tool to aid in Target Acquisition and Situational Awareness . The system operates in tandem with the HMDS, delivering extremely powerful systems to the crew, such as head-track for TADS, increasing situational awareness and decreasing target acquisition time.
+________________
+
+
+2.7 - Sikorsky Fly-By-Wire System
+2.7.1 - Autopilot/AutoCollective
+BASIC OPERATION:
+      1. Power ON EUFD
+      2. Navigate to Autopilot Page
+      3. Ensure Stable Aero-Trim
+      4. The Autopilot has 4 modes of operation:
+      1. NAV - When set to NAV, the autopilot will fly to a predetermined altitude and heading in order to reach the selected waypoint. Waypoints have to be selected through the mission computer for NAV mode to function
+      2. ALT - When set to ALT, the autopilot will attempt to hold the current altitude. The altitude to hold can be changed using the arrows located to the left and right of the input altitude on the EUFD. When combined with HDG AP the aircraft will maintain the input heading and altitude on the EUFD
+      3. HDG - When set to HDG, the autopilot will hold the current heading. The heading to hold can be changed using the HDG arrows located in the to the left and right of the input heading on the EUFD. Note that the autopilot can only bank up to 10°
+      4. HVR - When set to HVR, the autocollective will attempt to maintain a stable hover. When combined with ALT AP mode, the aircraft will attempt to maintain a hover at the input altitude on the EUFD
+      5. Press the desired autopilot button to enable the autopilot in the selected mode.
+      1. Multiple autopilots can be selected at a time
+      2. NAV and HDG are mutually exclusive
+      3. ALT can be used in conjunction with HDG
+      4. ALT can be used in conjunction with HVR (HVR/AP, Flight Collective)
+   6. Release the Cyclic.
+   7. The autopilot suite features an emergency disconnect. Apply strong roll or pitch input to disconnect all autopilots. Toggle HVR/AP Button on Flight Collective to disconnect the autocollective (RESETS TRIM).
+________________
+
+
+2.7.2 - Stability Augmentation Systems (SAS)
+DESCRIPTION:
+Stability Augmentation Systems in the AH-94 are ON by default. SAS assists the PIC with small control surface inputs to keep the rotorcraft in stable flight or hover. SAS reduces overall maneuverability of the rotorcraft in return for more stability assistance. The SAS Control Dial on the T/O Panel allows the PIC to determine how much stability assistance they need at any given moment. 
+More experienced pilots may find less SAS desirable for higher fidelity control over the rotorcraft. 
+SAS reduces pilot workload by improving basic aircraft control harmony and decreasing disturbances. These systems are very useful when the pilot is required to perform other duties
+
+
+2.8 Viasat STT KOR-24A Two-Way UHF Radio
+BASIC OPERATION:
+      1. Set Main Output Dial to Team
+      2. Set Main Output Dial to Global (GUARD FREQ)
+      3. Set Microphone Mode Dial AS REQUIRED (Hot Mic/PTT/Off)
+      4. Microphone Indicator Light
+      5. Main Channel Volume (Rotary)
+      6. Intercom Power (Off/On)
+      7. Intercom Volume (Rotary)
+      8. PTT (Trigger)
+
+
+DESCRIPTION:
+The Viasat STT KOR-24A Two-Way UHF Radio is the all-in-one encrypted communications unit built for the AH-94. 
+Featuring 2 Channels and an Intercom (Love) Channel.
+
+
+Channel 1 (Global) also referred to as GUARD Frequency transmits to all players in the lobby.
+Channel 2 (Team) also referred to Tower Frequency transmits to all players on your team.
+Intercom Channel(Love) transmits within your rotorcraft to your CPG/PIC.
+2.9 Exterior Lighting
+2.9.1 Ground Ext. Lighting
+WHILE Engine On: Strobe
+WHILE Rotor in Motion: Strobe, Anti-Collision
+
+
+2.9.2 Day Ext. Lighting
+Taxi: Strobe, Anti-Collision
+In-Flight: Anti-Collision
+
+
+2.9.3 Night Ext. Lighting
+Taxi: Strobe, Anti-Collision, Landing Lights
+In-Flight: Strobe, Anti-Collision
+
+
+2.9.4 FENCED IN Ext. Lighting 
+OFF
+________________
+
+
+3 - Weapons Employment
+
+
+3.0.1 - WEAPONS ARMING
+Before any weapons can be fired, they must be armed. This feature is nothing new, being standard in military aircraft for decades. In the AH-94, there are 2 ways to arm weapons. 
+      * The first is the MASTER ARM button. The MASTER ARM button is a momentary switch that when activated, will arm all equipped weapons. 
+      * The second way is through the MPD EQUIP page. First Master Arm the rotorcraft. Then by switching the mark mode to ARM (RX) the pilot is able to mark individual hardpoints to ARMED. This will arm only selected hardpoints - useful for munition conservation.
+
+
+3.0.2 - EQUIP MPD PAGE
+The AH-94’s EQUIP MPD page shows all hardpoints and munitions that may be stored on them. When a specific weapon is selected on the MFCD page, there is the option to arm (mentioned above) and change options for weapons (mentioned below). Examples of options with the EQUIP page are: Uncage Mode, Ripple and Salvo settings for rockets, etc. 
+
+
+3.0.3 - GPS MPD PAGE
+The GPS MPD page allows for centralized upload, download, management, and designation of GPS Coordinates. Coordinates can be obtained in one of three ways:
+      1. From the mission computer (MSN Prefix)
+      2. From onboard systems (TADS, NAV, FCR) (GRP Prefix)
+      3. From other aircraft (First 3 letters of sender's name prefix)
+The GPS page is split into two segments: the group list on the left and the coordinate list on the right. The group list can be navigated with the arrow buttons on the left, and the coordinate list with the ones on the right. Group prefixes indicate their source (see list above). New groups can be created and deleted with buttons on the bottom left. Selected coordinates can be set as a waypoint with the WPT button, and a group can be made into a path for cruise missiles with the PATH button. Currently selected coordinates are displayed on the NAV and HMDS as a large triangle. Coordinates in a group are displayed on the NAV as small triangles. When using GPS bombs, the bombs will guide to the currently selected coordinates. If set to AUTO mode, the selected coordinates will automatically cycle down in the list after release of a bomb.
+
+
+3.0.4 - Dynamic Launch Zone (DLZ) Indicator
+The Dynamic Launch Zone (DLZ) indicator is used in the employment of all munitions, air to air or air to ground, to show the effective launch limits of the weapon. The DLZ resembles an elongated six (6), and it appears directly left of the altitude tape when a suitable missile and target has been selected. The DLZ has three elements: the Minimum Range Indicator (MRI), the Weapon Employment Zone (WEZ), and the Range Indicator (RI). The MRI is a horizontal line below the DLZ. The WEZ is the elongated six. The RI is the arrowhead on the left of the WEZ. Follow the guide below to read the DLZ.
+      * If the RI is above the WEZ, the weapon is out of range.
+      * If the RI is within the section of the WEZ with only one line, the weapon is within maximum range (RMAX).
+      * If the target is heading away from the launch aircraft or turns away from the launch aircraft after the weapon is employed, the weapon will miss.
+      * If the RI is within the section of the WEZ with 2 lines, the weapon is in Minimum Abort Range (MAR).
+      * If the weapon is employed within MAR, the weapon will hit the target, even if it is nose cold or recommits.
+      * If the RI is below the WEZ and above the MRI, the weapon is below minimum range.
+      * If the RI is below the WEZ and the MRI, there may be a possible rift in time or an issue with the range computer.
+      * If this occurs, contact the maintenance department post-flight and note it in the debrief.
+When in doubt, if the shoot lights are illuminated and there has been a "Shoot" enunciation, you should be in range.
+
+
+________________
+3.0.5 - Pylon Tilt Modes
+Pylon Tilt is a feature of the Dragonfly's underwing hardpoints, there are several ways to manipulate vertical pylon tilt on the AH-94.
+
+
+Manual Pylon Tilt:
+Pylon tilt can be manually adjusted by either the PIC or CPG by pressing and holding the MOD trigger on the Combat Collective/Left TEDAC Controller respectively and slewing the Left Joystick up/down.
+
+
+Horizon Track:
+Horizon Track is an Auto-Pylon Tilt Mode that attempts to maintain Pylon Tilt level with the HMDS horizon.
+Either the PIC/CPG can enter Horizon Track Mode by pressing and holding the MOD trigger on the Combat Collective/Left TEDAC Controller respectively and depressing the Left Joystick. "Auto-Pylon" HMDS Symbology will appear below the Weapon Select Indicator if the weapon is capable of pylon tilt.
+
+
+TADS Elevation Track:
+TADS Elevation Track is an Auto-Pylon Tilt Mode that attempts to maintain Pylon Tilt level with the TADS FOV Reticle. Either PIC/CPG can enter TADS Elevation Track Mode by first entering Horizon Track Mode, and selecting PIP mode (Predicted Impact Point). "Auto-Pylon" HMDS Symbology will appear below the Weapon Select Indicator if the weapon is capable of pylon tilt. While slewing the TADS vertically, TADS Elevation Track Mode will attempt to adjust Pylon Tilt to the TADS current point track elevation.
+________________
+3.1 - GBU-39ER
+PREFACE:
+The GBU-39ER is a precision guided, air to surface, small diameter bomb, equipped with a booster stage for extended range. Racks of 4 GBU-39ER’s can be loaded on to underwing hardpoints of the AH-94 
+
+
+BASIC OPERATION:
+      1. Set Master Arm ON
+      2. Select GBU-39ER (WAS)
+      3. Power TADS
+      4. Designate target using TADS
+      5. Designate target using FCR
+      6. Press GPS-S to send GPS coordinates of target
+      7. Check target is selected in GPS MPD page
+      8. Align bomb diamond inside firing reticle (Ideal Launch Parameters: Inner circle, No Sideslip)
+      9. Press trigger to release
+      10. Brevity Code: “Pickle”
+      11. Call for Effect
+
+
+EMPLOYMENT STRATEGIES:
+The GBU-39ER is a variant of the GBU-39 JSW exclusively available to the AH-94. Unlike regular GBU-39s, the GBU-39ER has a brief booster stage, allowing them to gain velocity on deployment to account for the AH-94’s relatively low top speed. Lateral movement, or sideslip can greatly affect launch parameters, it is recommended to launch the GBU-39ER with little to no sideslip. It is the only weapon on the AH-94 capable of penetrating concrete structures.
+________________
+
+
+3.2 - Air to Ground Guided Missiles
+3.2.1 - AGM-114 Hellfire
+
+
+PREFACE:
+The AGM-114 Hellfire is a lightweight, laser guided, air to ground missile, capable of loading up to 4 Hellfire missiles per rack on each underwing hardpoint of the AH-94.
+
+
+BASIC OPERATION:
+      1. Set Master Arm ON
+      2. Select AGM-114(WAS)
+      3. Start TADS
+      4. Acquire target using TADS
+      5. (IF TRIG UNCAGE OFF) Maneuver aircraft towards target until targeting circle is slewed to TADS and tone is audible.
+      6. (IF TRIG UNCAGE ON) Hold trigger. Ensure that the targeting circle has slewed to the TGP and tone is audible.
+      1. If the targeting circle does not slew, maneuver the aircraft towards the target.
+      7. Ensure the target is within range (See 3.0.4)
+      8. (IF TRIG UNCAGE OFF) Press trigger to launch
+      9. (IF TRIG UNCAGE ON) Press weapon switch to launch
+      10. Brevity Code: “Rifle”
+      11. Maintain Lase until Impact
+      12. Call for Effect
+
+
+EMPLOYMENT STRATEGIES:
+Laser Guided Air-to-Ground Missiles (AGMs), are best suited for attacks on armored and soft targets and are NOT Fire and Forget. 
+________________
+3.2.2 - AGM-145 Ballista
+
+
+PREFACE:
+The AGM-145 Ballista is a Next-Generation, FAF, LOAL optically guided air to ground missile, capable of loading up to 4 Ballista Missiles per rack on each underwing hardpoint of the AH-94.
+
+
+BASIC OPERATION:
+      13. Set Master Arm ON
+      14. Select AGM-145 (WAS)
+      15. Start TADS
+      16. Acquire target using TADS
+      17. (IF TRIG UNCAGE OFF) Maneuver aircraft towards target until targeting circle is slewed to TADS and tone is audible.
+      18. (IF TRIG UNCAGE ON) Hold trigger. Ensure that the targeting circle has slewed to the TGP and tone is audible.
+      1. If the targeting circle does not slew, maneuver the aircraft towards the target.
+      19. Ensure the target is within range (See 3.0.4)
+      20. (IF TRIG UNCAGE OFF) Press trigger to launch
+      21. (IF TRIG UNCAGE ON) Press weapon switch to launch
+      22. Brevity Code: “Rifle”
+      23. Call for Effect
+
+
+EMPLOYMENT STRATEGIES:
+Optically Guided AGM’s have one major advantage over Laser Guided AGM’s: They ARE fire-and-forget. This allows the PIC to go nose cold maintaining standoff capability. Also supporting the launch of multiple missiles at multiple targets. The AGM-145 also features a Lock on After Launch (LOAL) mode available in the EQUIP page. LOAL functionality in the Ballista allows it to be fired without line of sight to a target.
+________________
+
+
+3.2.2 - AGM-27 APKWS
+
+
+PREFACE:
+The AGM-27 Advanced Precision Kill Weapon System or APKWS is a design conversion of Hydra 70 unguided rockets with a laser guidance kit to turn them into precision-guided munitions. AGM-27 Rocket Pods come in 2 Rocket Capacities, x7 and x19, and can be loaded on the AH-94’s underwing hardpoints. 
+
+
+BASIC OPERATION:
+      24. Set Master Arm ON
+      25. Select AGM-27
+      26. Start TADS
+      27. Acquire target using the TADS
+      28. (IF TRIG UNCAGE OFF) Maneuver aircraft towards target until targeting circle is slewed to TADS and tone is audible.
+      29. (IF TRIG UNCAGE ON) Hold trigger. Ensure that the targeting circle has slewed to the TGP and tone is audible.
+      1. If the targeting circle does not slew, maneuver the aircraft towards the target.
+      30. Ensure the target is within range (See 3.0.4)
+      31. (IF TRIG UNCAGE OFF) Press trigger to launch
+      32. (IF TRIG UNCAGE ON) Press weapon switch to launch
+      33. Brevity Code: “Rifle”
+      34. Call for Effect
+
+
+EMPLOYMENT STRATEGIES:
+The AGM-27 Advanced Precision Kill Weapon System, is approximately one-third the cost and one-third the weight of the currently used AGM-114, and has a lower blast yield more suitable for avoiding collateral damage.
+________________
+3.3 - Hydra-70 Unguided Rockets
+PREFACE:
+Hydra-70 Rocket Pods come in 4 rocket capacities, x7, x16, x19, and x57 (3x19 Pods). Hydra Rocket Pods have customizable launch options. Before engagement, view the EQUIP page in the MPD and customize the settings to your liking.
+      * RIPPLE - Indicates how often rockets will be launched. Measured in Releases Per Minute.
+      * SALVO - Indicates how many rockets will be fired at once. Set to 1 as default.
+
+
+BASIC OPERATION:
+      1. Set MASTER ARM ON
+      2. Confirm Hydra-70 ARMED in MPD EQUIP PAGE
+      3. Select Hydra-70(WAS)
+      4. (OPTIONAL) Designate Target with TADS
+      5. Confirm target is within range (See 3.0.4)
+      6. Use CCIP Rocket Reticle for aiming (See 2.6.X)
+      7. Press (and hold if ripple) right trigger to launch
+      8. Call for Effect
+
+
+EMPLOYMENT STRATEGIES:
+The Hydra-70 rocket pod; with its 10lb warhead, it can penetrate armored targets in a 30ft area and destroy soft targets in a further 160ft. Unguided Rockets are traditionally fired with a dramatic pitch high/low attitude as an area effect weapon. Alternatively, the AH-94 features a CCIP reticle allowing unguided rockets to be fired from a relatively low airspeed or hover, combine this with pylon tilt employed correctly, allowing for high or low airspeed rocket volleys without drastically adjusting nose attitude offering the Hydra-70 rocket enhanced accuracy and capability.
+________________
+3.4 - AIM-92 Air-to-Air Stinger
+PREFACE:
+The AIM-92 ATAS is an Air-to-Air variant of the shoulder fired FIM-92 Stinger MANPADS available for anti-drone operations, and defensive combat proven by the OH-58, AH-64, and MQ-1 Predator platforms.
+
+
+BASIC OPERATION:
+      1. Check Master Arm ON.
+      2. Select AIM-92
+      3. Align targeting reticle with enemy aircraft
+      4. Wait for high-pitched tone
+      5. Press right trigger to launch
+      6. Brevity Code: “Fox Two”
+EMPLOYMENT STRATEGIES:
+IR-Guided missiles are best-suited for engagements of less than 4NM due to them not being able to detect heat signatures at medium ranges.
+________________
+
+
+3.5 - Chin-Mounted Cannons
+3.5.1 - M230 Chain Gun
+PREFACE:
+The M230 Cannon is a 30 mm (30×113mm), single-barrel electrically-driven autocannon, using external electrical power (as opposed to recoil or expanding gas generated by the firing cartridge) to cycle the weapon between shots. 1200 Rounds of 30x113mm can be loaded into the AH-94
+
+
+BASIC OPERATION:
+      1. Check Master Arm ON
+      2. Select the M230 (WAS)
+      3. Lock target with TADS to activate the Linear Motion Compensator. The LMC will not function if either:
+      1. Out of Gimbal Limits
+      2. Airspeed above Gimbal Slaving Speed Limit (213kn)
+      3. In Head-Track Mode
+      4. OPTIONAL: If TADS is NOT SOI, Gimbal will default to head-track mode and slave to LOS Reticle (see 2.6.X) of crew member who armed the M230
+      5. Ensure target is in range (1.5NM)
+      6. Press right trigger to fire
+
+
+EMPLOYMENT STRATEGIES:
+The M230 is an Area Weapon System meant for lightly armored and soft targets, and both precision kill and fire suppression of the enemy. The M230 fired in short bursts maintains accuracy and conserves munitions. The M230 is the shortest range weapon available to the AH-94, but is the most capable weapon inside of that threat range.
+________________
+
+
+3.5.2 - GAU-94 Rotary Cannon
+PREFACE:
+The GAU-94 is a triple-barreled Gatling style rotary cannon, chambered in the 20x102mm round shot by the M61 Vulcan and available only to the AH-94. It operates similarly to the M230 Chain Gun, as it is mounted on a gimbal.
+
+
+BASIC OPERATION:
+      7. Check Master Arm ON
+      8. Select the GAU-94 (WAS)
+      9. Lock target with TADS to activate the Linear Motion Compensator. The LMC will not function if either:
+      1. Out of Gimbal Limits
+      2. Airspeed above Gimbal Slaving Speed Limit (190kn)
+      3. In Head-Track Mode
+      10. OPTIONAL: If TADS is NOT SOI, Gimbal will default to head-track mode and slave to LOS Reticle (see 2.6.X) of crew member who armed the GAU-94
+      11. Ensure target is in range (2.5NM)
+      12. Press right trigger to fire
+
+
+EMPLOYMENT STRATEGIES:
+The GAU-94 is a high rate of fire Area Affect Weapon meant for lightly armored targets, soft targets, and fire suppression of the enemy. The GAU-94 fired in short bursts maintains accuracy and conserves munitions. The GAU-94’s higher rate of fire decreases overall accuracy, but allows the operator to successfully suppress any return fire while returning to standoff ranges.
+________________
+
+
+
+
+4 - Advanced Procedures
+
+
+4.1 - Overview & Multi-Crew Procedures
+
+
+Overview:
+The AH-94 Dragonfly is a Tandem Cockpit Rotorcraft requiring high levels of situational awareness, communication, and coordination to operate combat effectively. This chapter will delve into advanced multi-crew communication, responsibilities, and procedures in the AH-94 as well as Advanced Maneuvers and Firing Techniques. Individual crews may see fit to make adjustments to SOP's to best fit their needs and mission. Assigning responsibilities can be useful in after action reports to determine what went right, and what went wrong. Blame is NOT the name of the game. Pilots interested in expanded explanations of Advanced Procedures see References (Pg. 65).
+________________
+4.1.1 - Responsibilities
+Determining Crew Responsibilities prior to take off reduces the need for unnecessary communications between crew members in flight. This decreases workload and prevents crew from getting in each other's way. Also preventing redundant actions and/or communications. Individual Crews may see fit to make adjustments to Responsibility and SOP’s to best fit their needs and mission.
+
+
+PIC RESPONSIBILITIES:
+      1. Maintaining Stable Aerodynamic Flight
+      2. Maintaining Altitude Clearance from Ground Obstacles
+      3. Maintaining Stand-Off Range based on Weapons Capability
+      4. Navigating and Operating the IND
+      5. Deconfliction and Coordination with Friendly Aircraft
+      6. Communications with CPG, Clearance to Engage Targets
+
+
+CPG RESPONSIBILITIES:
+      1. Maintaining Situational Awareness
+      2. Navigating and Operating EQUIP Page
+      3. Navigating and Operating the M-TADS
+      4. Navigating and Operating the AN/APG-108 FCR
+      5. Navigating and Operating Countermeasure Dispensing System
+      6. Deconfliction and Coordination with Friendly Ground Forces
+      7. Managing and Operating Sensors and Munitions
+      8. TPMR/9 Lines
+      9. Managing Mission Objectives and Data
+      10. Managing Rotorcraft Location, Heading, and Situational Awareness
+      11. Communications with PIC
+________________
+
+
+4.1.2 - Communication
+Communication is essential, crew members can easily end up confused, or receiving redundant information in a high-stress, high-workload environment. Dividing communications workload between crew can speed up single ship operation, and is essential when working in a multi-ship, or high threat environment. Individual crews may see fit to make adjustments to Communication SOP’s to best fit their needs and mission.
+
+
+PIC COMMUNICATIONS:
+      1. Communications with ATC
+      2. Communications with Other Aircraft within Flight
+      3. Communications with other Flights (Flight Lead)
+      4. Communications with CPG regarding;
+Location
+Altitude
+Heading
+Distance to Target
+Munition Choice
+
+
+A Standard FARM Call looks something like this;
+
+
+[TACTICAL CALLSIGN] to [Other Rotorcraft] BREAK
+
+
+[Fuel State], [Ammunition(CANNON)State], [Rocket State], [Missile State]
+
+
+CPG COMMUNICATIONS:
+      1. Communications with Ground Units
+      2. Communications with JTAC/FAC
+      3. Communications with PIC regarding;
+Location
+Altitude
+Heading
+Distance to Target
+Munition Choice
+
+
+A Standard On-Station Call looks something like this;
+
+
+[TACTICAL CALLSIGN] to [FAC(A)/JTAC/FO] BREAK
+
+
+[Distance] to target area, [Flight Munitions State], Playtime:[Fuel State], Awaiting Tasking.
+________________
+Technique, Pattern, Munitions, Range (TPMR):
+A TPMR Brief is the communication between CPG and TAC or CPG and PIC to deconflict and prepare engagements in a danger close or high threat environment. Aviators can begin by applying specific techniques, such as diving fire to reduce dispersion and the risk of ricochet, dependent on the terrain. Aviators also select specific flight patterns to orient the aircraft’s weapon systems and to minimize risks to friendly troops. For example, when Soldiers are danger close, aviators may execute a racetrack pattern parallel to friendly troops to minimize the risk of long or short rounds. Aviators then select the available munitions best suited for the target and situation. Finally Aviators discuss engagement and disengagement ranges prior to ingress. Once both the CPG and PIC or CPG and TAC(see Clearance to Fire) have completed a TPMR Brief, the TAC will clear the rotorcraft Hot for one pass. If the engagement is unsuccessful, the TPMR Brief will begin again to ensure an accurate and safe engagement. When a TAC is not available, a more fluid TPMR Brief can be enacted between PIC and CPG.
+Technique Pattern Munitions Range
+An example TPMR Brief between a FAC(A)/JTAC/FO and CPG looks something like this;
+[FAC(A)/JTAC/FO] to [TACTICAL CALLSIGN] BREAK
+“I have friendly infantry 100m South of my designated GPS point taking small arms and RPG contact in the field to the North of the road” OVER
+[TACTICAL CALLSIGN] to [FAC(A)/JTAC/FO] BREAK
+“We are flying North to South [Figure Eights] to the East and have a visual on friendly infantry South of the designated GPS point and the field North of the road” OVER
+[FAC(A)/JTAC/FO] to [TACTICAL CALLSIGN] BREAK
+“Copy last, you are cleared hot East to West on Infantry North of the Road” OVER
+[TACTICAL CALLSIGN] to [FAC(A)/JTAC/FO] BREAK
+“Copy, turning in East to West, performing a [Bump] at [2nm], Engaging with [70mm Rockets] switching to [30mm] at [1nm], turning out South at [.5nm]” OVER
+ [FAC(A)/JTAC/FO] to [TACTICAL CALLSIGN] BREAK
+“Fire mission ineffective, we are still in contact, you are cleared hot West to East for a repeat strike on Infantry North of the road” OVER
+
+
+
+
+Battle Damage Assessment (BDA):
+Calling for a BDA happens after the Target(s) have been neutralized. A Standard BDA consists of; visually inspecting friendly rotorcraft for damage, and visually confirming destruction of enemy target(s).
+Traveling and Bounding Overwatch:
+Traveling Overwatch is a technique used in Medium-High Threat environments to provide cover to rotorcraft performing fire missions. The Overwatch rotorcraft maintains sensors on the target area while the attacking rotorcraft engages, providing additional situational awareness and relay additional target data for re-engagements. Bounding Overwatch is also a technique used in Medium-High Threat environments to provide cover to rotorcraft performing terrain bounding maneuvers to navigate the area of operations. The Overwatch rotorcraft maintains sensors on the target area while the Bounding rotorcraft repositions. The roles are then reversed each time the flight needs to reposition, the Bounding rotorcraft becomes Overwatch and the Overwatch rotorcraft then begins their own relocation.
+Secondary Fire Missions:
+After unsuccessful fire missions, requesting a secondary fire mission can be quicker than repositioning for a second approach. Provide target and terrain information, as well as any variables that foiled the first fire mission to other rotorcraft.
+Clearance to Fire:
+Clearance to fire is ultimately given by the TAC. NOT the PIC, or CPG. The TAC or Terminal Attack Controller, usually a FAC(A) or JTAC, is the individual given the authority to control the maneuvering of attacking aircraft and grant weapons release clearance to the same aircraft in Close Air Support missions. 
+*If the mission type is not CAS (defined in Index), clearance to fire is granted by the PIC.
+Lase & Store:
+Lasing and Storing is the practice of acquiring and storing Target GPS data in the IND. This practice builds situational awareness and allows for rapid acquisition of multiple targets. Lasing and Storing also reduces necessary communication between PIC and CPG. Transmitting target GPS coordinates between aircraft may be required for secondary fire missions, or target deconfliction. 
+
+
+Target Deconfliction:
+Target Deconfliction is the practice of identifying and designating targets to separate aircraft. This prevents multiple aircraft engaging the same target, decreasing combat effectiveness.
+The Bump:
+The Bump is a high-pitch attitude, unguided rocket and fixed gun firing technique used in medium to high threat environments. 
+      1. Maintain Airspeed 90kn-170kn
+      2. Pitch up (+20° to +30°)
+      3. Attain 700-1200ft in altitude
+      4. Pitch down (-10° to -25°)
+      5. Acquire firing solution
+      6. Engage targets
+Orbits/Eights:
+Orbits are utilized in low threat environments to maintain TADS within gimbal limits on the target area. Orbits can also be used in low threat environments to support ground units in transit or in densely populated areas.
+Eights is short form for Figure Eights. Maneuvering in a figure eight pattern perpendicular to the target area allows for rotorcraft to maintain airspeed in medium to high threat environments AND keep the TADS within gimbal limits on the target area. ‘Flying Eights’ also allows for easy transition between 2 pairs of ingress and egress points, this prevents repeat attack runs.
+Unmasking in Flight:
+Unmasking in Flight is a technique of temporarily increasing altitude allowing the CPG to slew the TADS on target to Lase & Store. Similar to the infantry tactic of “I’m up, they see me, I'm down”.
+Set/Stack:
+Set/Stack is terminology used by flight leads to communicate with their flight where and how to maneuver in relation to the lead rotorcraft in a battle state. The Lead Rotorcraft will state the area of the zone they wish to occupy and will order wingmen to occupy a zone left or right of the lead.
+A Standard Set/Stack Order looks something like this;
+
+
+[TACTICAL CALLSIGN] to [Other Rotorcraft] BREAK
+Lead is SET: [LEFT/RIGHT], STACK [LEFT/RIGHT]
+________________
+
+
+Rapid Fire:
+The AGM-114 Hellfire fired in quick succession can allow crews to engage multiple targets simutaneously in medium to high threat environments. A standard 6 second spacing is allowed for adequate time for the missile to maneuver on to a nearby target. 
+A rapid Hellfire engagement looks something like this;
+      1. Maintain Target(s) in TADS
+      2. “Rifle”
+      3. Count 6 Mississippi
+      4. “Rifle”
+      5. Repeat AS REQUIRED
+      6. Guide first Hellfire on Target
+      7. Switch Target
+      8. Guide second Hellfire on Target
+      9. Repeat AS REQUIRED
+Pitchback Turn:
+A Pitch Back Turn is a high pitch angle unguided rocket firing technique similar to ‘The Bump’. The Pitchback Turn can be used by aircrews to quickly engage close proximity targets otherwise unknown to the aircrew.
+      1. Maintain Airspeed 90kn-170kn
+      2. Pitch up (+20° to +30°)
+      3. Attain 700-1200ft in altitude
+      4. Perform 180° Cyclic Turn
+      5. Pitch down (-10° to -25°)
+      6. Acquire firing solution
+      7. Engage targets
+________________
+
+
+4.2 - Emergency Procedures
+In case of complete loss of control of the rotorcraft, Pull BAIL handle to activate Crew Survival Systems (CSS)
+4.2.1 - Single Engine Failure:
+      1. Start APU
+      2. Enter Stat Page on EUFD
+      3. Achieve Stable Flight Conditions and Land
+      4. Shut Down Engines/APU
+      5. Disembark (BAIL)
+
+
+4.2.2 - Dual Engine Failure:
+      1. Start APU
+      2. Enter Stat Page on EUFD
+      3. Perform Auto-Rotation Procedure (4.2.4)
+      4. Shut Down Engines/APU
+      5. Disembark (BAIL)
+
+
+4.2.3 - Anti-Torque Failure:
+      1. If altitude below 700ft AGL:
+      1. Assess landing zones within immediate proximity
+      2. Perform Emergency Landing
+      3. Shut Down Engines/APU
+      4. Disembark (BAIL)
+      2. If altitude above 700ft AGL:
+      1. Assess landing zones within range
+      2. Begin Auto-Rotation Procedure (4.2.4)
+      3. Shut Down Engines/APU
+      4. Disembark (BAIL)
+
+
+________________
+4.2.4 - Auto-Rotation Procedure:
+OVERVIEW:
+Autorotation refers to the descending maneuver in which the engine is disengaged from the main rotor system and the rotor blades are driven solely by the upward flow of air through the rotor. It is analogous to the gliding flight of a fixed-wing aircraft. The most common reason for autorotation is an engine malfunction or failure, but autorotation can also be performed in the event of a complete tail rotor failure, or following loss of tail-rotor effectiveness. Primary control of the rate of descent is airspeed. Higher or lower airspeeds are obtained with the cyclic pitch control just as in normal flight. Rate of descent is high at zero airspeed, but even with no airspeed the rotor is quite effective, as it has nearly the drag coefficient of a parachute. An optimum landing maneuver stops all of vertical movement, horizontal movement and rotational movement within the craft to a perfect standstill. In practice a perfect landing is rarely achievable
+
+
+AUTO-ROTATION PROCEDURE:
+      1. Immediately reduce Collective Input
+      2. Apply Left Pedal
+      3. Maintain 50kn-90kn Airspeed
+      4. Confirm Master Arm OFF
+      5. Jettison ALL
+      6. Begin -15° to -20° Glide Slope toward LZ
+      7. Manage Rate of Descent and Airspeed with Cyclic
+      8. Increase Collective Input AS REQUIRED
+      9. Perform Landing
+________________
+4.3 - Missile Evasion
+Overview:
+Missile Evasion in a Rotorcraft is similar to Missile Evasion in a Fixed Wing Aircraft in many ways. The main differences being Manouverability and Top Airspeed. The Dragonflies first line of defense against attack is keeping out of range. The helicopter is specifically designed to fly low to the ground, hiding behind cover whenever possible.
+4.3.1 - TERRAIN MASKING
+WHAT: Terrain Masking is the most reliable maneuver that can be used to break a radar missile lock. In this maneuver, the defending aircraft simply use ground obstacles to break line-of-sight with the radar source.  This radar source can be the ground control radar, hostile aircraft radar, or the missile itself.
+WHEN: This maneuver is ineffective: at sea, or when the radar source is a high-flying aircraft. This maneuver can be used at any time before or after a missile is launched.
+HOW:
+1.  Identify radar source using RWR (HMDS most effective).
+2.  Maneuver in such a way that terrain or obstacles break radar source’s line-of-sight with DA.
+3.  Ensure the warning tone has gone silent before emerging.
+4.  IF warning tone continues, identify incoming missile and mask.
+
+
+
+
+________________
+4.2.3 - DOPPLER NOTCHING
+WHAT: Doppler Notching is a precise maneuver that, if done successfully, can completely break lock from an incoming missile. Doppler notching takes advantage of a radar missile’s tracking system in a way that makes the DA “blend” into the terrain.  Radar guided missiles distinguish their targets from the terrain below them by looking at the doppler shift of the reflection. If a DA is flying below, and perfectly perpendicular to the radar sensor, the missile or sensor will be unable to distinguish it from the passing terrain.
+WHEN: Notching can ONLY be used when the missile is significantly above the target. This means it is a good strategy to be used with some slight dragging. It is also good to use with beaming, as notching obligates beaming (unless you are a VTOL). The effectiveness of this maneuver varies based on distance (farther = better), quality of the radar missile, and the source of the radar signals. Notching can only be effective against one missile at a time unless multiple are fired from the same source.  It is good practice to not solely rely on notching when trying to evade.
+HOW:
+1.  Identify radar source
+2.  Fly below radar source if not already
+3.  Turn so that the radar source is to your 3 or 9 o’clock.
+4.  Fly so that the source stays at 3 or 9 o’clock.
+5. Chaff
+If missile lock is not lost after a few seconds;
+1.  Identify missile
+2.  Turn so that the missile is at your 3 or 9 o’clock.
+3. Chaff
+If missile lock is not lost after a few seconds, abandon the notch attempt and employ other defensive tactics.
+________________
+4.2.4 - IR-GUIDED 
+OPERATION OF IR-GUIDED MISSILES:
+IR-Guided air-to-air and surface-to-air missiles, commonly referred to as “heat seekers”, acquire their targets by locking on to the infrared radiation (heat) of the target aircraft, usually the engine(s). Due to this, they have a relatively short range. Most, if not all, IR-guided missiles are all-aspect, meaning that they can acquire a lock from all aspects of a plane, not just the rear, where the engine(s) are located. If there are multiple targets in a close area, the missile will lock on the strongest (warmest). The missile will lock on to the stronger heat signature of the flares and strike them instead of the rotorcraft.
+
+
+EVASION:
+         1. Turn to the 9 o’clock or 3 o’clock of the missile (if possible)
+         2. Dive or Climb depending on current altitude and airspeed
+         3. Dispense Flares in bursts of 5-10.
+________________
+
+
+INDEX: CALLOUTS
+         * (Package/Target) As Fragged: Package/Target is as stated in mission briefing
+         * (Target) Cold: Target is heading away
+         * (Target) Flanking: Target has a stable aspect of 30°-60° (Heading perpendicular)
+         * (Target) High: Target is between 10000ft and 40000ft ASL
+         * (Target) Hot: Target is heading towards
+         * (Target) Low: Target is below 10000ft ASL
+         * (Target) Very High: Target is above 40000ft ASL
+         * Bingo Fuel: Minimum fuelstate needed to return to base has been reached
+         * Bruiser: Launch of Anti-Ship Missile (ASM)
+         * Dirt: Enemy Ground Radar Searching
+         * Engaged Defensive: Defending against an enemy missile
+         * Engaged: In a fight with an enemy
+         * Faded: Target radar lock has been lost
+         * Fox 1: Launch of semi-active radar-homing (SARH) air-to-air missile (AAM)
+         * Fox 2: Launch of IR-Guided AAM
+         * Fox 3: Launch of active radar-homing (ARH) AAM 
+         * Greyhound: Launch of cruise missile
+         * Guns, Guns, Guns: Cannon is being used
+         * Magnum: Launch of anti-radiation missile
+         * Merged: within 5nm of enemy aircraft
+         * Mud: Enemy Ground Radar Tracking
+         * Nails: Enemy Air Radar Searching
+         * No Joy: No visual/radar lock. Opposite of tally.
+         * Pickle: Release of bomb 
+         * Pitbull: Active radar-guided AAM has switched to internal tracking
+         * Rifle: Launch of air-to-ground missile (AGM)
+         * Singer: Surface to Air Missile has been launched
+         * Spike: Enemy Aircrafts Radar is tracking
+         * Splash: Enemy air and ground target destruction
+         * Tally: Detection of enemy
+         * Winchester: Weapons load depleted or otherwise empty
+________________
+INDEX: ABBREVIATIONS, ACRONYMS, AND TERMINOLOGY
+         * AAA: Anti-aircraft-artillery
+         * AAM: Air-to-air missile
+         * AGM: Air-to-ground missile
+         * AMRAAM: Advanced Medium-Range Air-to-Air Missile
+         * APU: Auxiliary Power Unit
+         * ASE: Aircraft Survivability Equipment
+         * ASM: Anti-Ship Missile
+         * ATAS: Air-to-Air Stinger
+         * ATC: Air Traffic Control
+         * AWACS (also referred to as AEW&C): Airborne Warning and Control System (Airborne Early Warning & Control)
+         * Ball/Meatball: IFLOLS (Improved Fresnel Lens Optical Landing System)
+         * Bandit: Enemy air target
+         * Bird: Friendly SAM
+         * Blue on Blue: Friendly Fire
+         * Bogey: Unidentified air target
+         * BDA: Battle Damage Assessment
+         * BRA(A): Bearing, range, altitude (aspect)
+         * BVR: Beyond Visual Range
+         * C2: Command and Control
+         * CAP: Combat Air Patrol
+         * CAS: Close Air Support
+         * Cat: Aircraft carrier catapult
+         * Cherubs: Altitude in hundreds of feet
+         * Chick: Friendly Aircraft
+         * CPG: Co-Pilot Gunner
+         * ECM: Electronic Countermeasures
+         * ETL: Effective Translational Lift
+         * EUFD: Electronic Up Front Display
+         * FCR: Fire Control Radar
+         * Flight Level (rarely used): Altitude in thousands of feet (over 18,000ft MSL)
+         * HMDS: Head-Mounted-Display System
+         * IFF: Interrogate - Friend or Foe
+         * IGE: Inside Ground Effect
+         * IND: Integrated Navigation Display
+         * L/G: Landing Gear
+         * Mother/Mom: Home aircraft carrier
+         * MPD: Multi-Purpose Display
+         * NAV: Navigation
+         * OGE: Outside Ground Effect
+         * Talking On Love: Intercom Radio Channel
+         * Overlord: Nearest or otherwise on station AWACS aircraft
+         * Package: Group of targets
+         * PIC: Pilot In Command
+         * RPM: Rotations Per Minute
+         * RTB: Return To Base
+         * RWR: Radar warning receiver
+         * SAM: Surface-to-air missile
+         * SAS: Stability Augmentation System
+         * SCUD: Theater (non-intercontinental) ballistic missile
+         * SEAD: Suppression of Enemy Air Defenses
+         * Shooter:
+         * Aircraft launching/releasing munitions
+         * Crew member controlling aircraft carrier catapult
+         * SOP: Standard Operating Procedure
+         * TACAN: TACtical Air Navigation. Used to automatically set
+WPT to RTB. 
+         * T/O: Take Off
+         * TADS: Target Acquisition and Designation Sight 
+         * TWR: Thrust to Weight Ratio
+         * WAS: Weapon Action Switch
+         * U(C)AV: Unmanned (Combat) Aerial Vehicle
+         * Yardstick: The use of TACAN for rangefinding
+
+
+
+
+END OF TECHNICAL MANUAL
+----------------------------------------------------------------------------------
+CREDITS & AFTERWORDS BELOW
+________________
+Credits, Afterwords, References, and Disclaimer
+
+
+This manual was made possible by:
+         * Dubya - Lead Writer
+         * Freedomplaza - Formatting
+         * Neo - HMDS Images
+         * Chieh (Shamebird) - Missile Evasion
+
+
+Afterwords
+Dubya:
+I like helicopters. If you enjoy Rotorcraft as much as I do, you may find this manual useful. I highly recommend checking out the References section if you need additional understanding of concepts discussed in this manual. Vortex Ring State, Mushing, Blade Damage, and Drivetrain Stress is not modeled in VTOL VR. Additionally, Torque and Transient Torque Spikes are not modeled realistically although I wish they were...  I therefore do not discuss VRS, Mushing, or Transient Torque Spikes and their nuances. I otherwise cover rotary physics modeled by VTOL VR in this manual. Radar Left, Center Stick Based.
+ Always Remember: 
+Slow is Smooth, Smooth is Fast! 
+Thanks for Reading! 
+________________
+References
+Helicopter Lessons in 10 minutes or Less. “The Basics of Helicopter Aerodynamics.” YouTube, YouTube, https://youtube.com/playlist?list=PLCEJTqvfJC1Owxc-MIWfRt_r900CNU7N0
+
+
+“Landing Helicopters in DCS; Understanding the Rotor #1.” YouTube, YouTube, 30 Apr. 2021, https://www.youtube.com/watch?v=obENn8hraoc&t=426s&ab_channel=CasmoTV. 
+
+
+“Landing DCS Helicopters; Practical Application and Understanding the Rotor #2.” YouTube, YouTube, 2 May 2021, https://www.youtube.com/watch?v=7-g0b1lMbm8&ab_channel=CasmoTV
+
+
+“Maneuvering Your Aircraft | Do's and Don'ts | DCS AH-64 Apache.” YouTube, YouTube, 30 Dec. 2022, https://www.youtube.com/watch?v=IokYWSBNj9w&t=497s&ab_channel=CasmoTV. 
+
+
+“DCS Ah-64| Front Seat Flow | A Way to Operate in the CPG Seat.” YouTube, YouTube, 26 Apr. 2022, https://www.youtube.com/watch?v=Npt0XjBwSIk&t=1071s&ab_channel=CasmoTV. 
+
+
+“Shoot More Missiles! | Rapid Fire Hellfire | AH-64D Apache | DCS World.” YouTube, YouTube, 22 Dec. 2022, https://www.youtube.com/watch?v=gxXMNOIy5Jg&ab_channel=CasmoTV. 
+
+
+“DCS: AH-64D- Stop Hovering so Much.” YouTube, YouTube, 25 Mar. 2022, https://www.youtube.com/watch?v=IwTjQZN9EUQ&ab_channel=CasmoTV. 
+
+
+“How to Avoid an Unstable Hover and Take off | DCS AH-64D Quick Vid.” YouTube, YouTube, 10 Jan. 2023, https://www.youtube.com/watch?v=2IdmhX5nWUY&ab_channel=CasmoTV. 
+
+
+“DCS: AH-64D Tutorial | Night Operations | DCS World.” YouTube, YouTube, 19 Mar. 2022, https://www.youtube.com/watch?v=4EbZ7I6tPT0&ab_channel=CasmoTV. 
+
+
+“Apache Pilot Teaches You How to Talk like a Pilot; DCS Helicopters.” YouTube, YouTube, 11 Sept. 2020, https://www.youtube.com/watch?v=8IlpdlxPv_I&ab_channel=CasmoTV. 
+
+
+“Apache Pilot Explains ‘Do Helicopters Actually Do Cas?" DCS Helicopters.” YouTube, YouTube, 25 Sept. 2020, https://www.youtube.com/watch?v=TZw6pLycetg&t=193s&ab_channel=CasmoTV. 
+
+
+“Ka-50 Scout/ Attack Team Tactics 101- Movement Techniques and Terrain Flight Tactics (DCS Ka-50).” YouTube, YouTube, 30 Oct. 2020, https://www.youtube.com/watch?v=NJWad3InUTA&t=1243s&ab_channel=CasmoTV. 
+
+
+“Ka-50 Scout/ Attack Team Tactics 101- Fire Distribution (DCS World Black Shark).” YouTube, YouTube, 5 Nov. 2020, https://www.youtube.com/watch?v=jsPUelRcWTI&ab_channel=CasmoTV. 
+
+
+“DCS Ka-50- Kiowa/Apache Pilot Talks Quick and Dirty Air to Ground Comms for Helicopters.” YouTube, YouTube, 16 Oct. 2020, https://www.youtube.com/watch?v=ZnwlgKXyE5E&list=PLNtUtkZqN36mbQXJ52WdNyn2okBSstJfc&index=8&ab_channel=CasmoTV. 
+
+
+“DCS- Apache Pilot Explains How Helicopters Conduct Long Range Attacks.” YouTube, YouTube, 9 Oct. 2020, https://www.youtube.com/watch?v=MESDOxE3IPA&list=PLNtUtkZqN36mbQXJ52WdNyn2okBSstJfc&index=7&ab_channel=CasmoTV. 
+
+
+
+
+DISCLAIMER
+The AH-94 NATOPS Manual is in no way officially endorsed by the United States Navy, nor its NATOPS program, and is a work of fiction. The specified systems in this manual are based on non-copyrighted real systems, however the companies are not, therefore this manual is under Creative Commons. This manual is completely independent and in no way sponsored by Sikorsky-Boeing, ViaSat, Elbit, or any other specified companies. The AH-94 is part of the flight simulator VTOL VR, developed by Paolo Encarnacion of Boundless Dynamics PLC.
+The AH-94 and VTOL VR are the intellectual property of BahamutoD, Paolo Encarcion, and as such this manual is a completely open-source project under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). You are free to build upon the document and submit changes to dubya#5066 on Discord for approval. You MUST credit Dubya and Freedomplaza when distributing sections under CC BY-SA 4.0. This manual is furthermore solely to be used in VTOL VR for your own recreational purposes. Use of procedures outlined in this manual, such as CASE 1 landing procedures and landing technique for real-life flying is completely prohibited and unsafe.
+
+
+This Disclaimer was last updated on 3/16/2023.
+
+
+UPDATE LOG:
+         * Rotary Basics Update + Pylon Tilt Modes
+         * Chapter 4 Doctrine Refresh + TPMR Brief (Thanks to Pipe!)
+~ Future Image/Visual Aid Refresh + FCR Functionality
+~ Future Included Mission Pack
+Page

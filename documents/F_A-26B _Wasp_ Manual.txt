@@ -1,0 +1,1557 @@
+﻿NATOPS FLIGHT MANUAL - NAVY MODEL F/A-26B
+A1-F26B-NFM-002
+
+NATOPS FLIGHT MANUAL
+NAVY MODEL F/A-26B 167988
+AND UP AIRCRAFT
+  
+
+A1-F26B-NFM-002
+
+
+THIS PUBLICATION SUPERSEDES A1-F26AB-NFM-001 DATED 28 AUGUST 2023 CHANGED 12 JANUARY 2025
+  
+
+ DISTRIBUTION STATEMENT C: Distribution Authorized to US government agencies and their contractors to protect publications required for official use or administrative purposes only, determined on August 28, 2023. Other requests for this document shall be referred to Commanding Officer, Naval Air Technical Data and Engineering Service Command, Naval Air Station North Island, P.O. Box 357031, Building 90 Distribution, San Diego, California 92135-7031
+ISSUED BY AUTHORITY OF THE CHIEF OF NAVAL OPERATIONS AND UNDER THE DIRECTION OF THE COMMANDER NAVAL AIR SYSTEMS COMMAND
+
+
+
+
+COMNAVAIRFOR A1-F26B-NFM-002
+N45
+12 January 25
+
+
+COMNAVAIRFOR MANUAL A1-F26B-NFM-002
+From: Commander, Naval Air Forces
+Subj: NAVAL AIR TRAINING AND OPERATING PROCEDURES STANDARDIZATION (NATOPS) FA26 GENERAL FLIGHT AND OPERATING INSTRUCTIONS
+1. Purpose. To issue policy and procedural guidance applicable to a broad spectrum of users and complement individual NATOPS manuals. This is a complete revision and should be reviewed in its entirety.
+2. Background. The NATOPS program is a positive approach toward
+improving combat readiness and achieving a substantial reduction in the aircraft mishap rate. Standardization, based on professional knowledge and experience, provides the basis for development of sound operating procedures. The standardization program is not intended to stifle individual initiative, but rather to aid commanding officers in increasing their unit's combat potential without reducing command prestige or responsibility. With the objective of maintaining agile standardization guidance, Commander, Naval Air Forces accepted responsibility for NATOPS program management previously contained in OPNAVINST 3710.9.
+3. Reproduction. Duplication of this publication for other than
+military use, without specific authority of Commander, Naval Air
+Forces, is not authorized.
+4. Records Management. Records created as a result of this
+instruction, regardless of media or format, shall be managed per
+the Secretary of the Navy (SECNAV) Manual 5210.1.
+5. Reports and Forms. Reports and forms required by this
+instruction are listed in appendix L.
+TABLE OF CONTENTS
+
+
+1 - Overview & Standard Procedures
+1.1 - Overview - Page 4
+1.2 - Aircraft Overview - Page 4
+1.3 - Cockpit Instruments - Page 5
+1.4 - Startup Procedure - Page 15
+1.5 - Takeoff & Landing Procedure (Runway) - Page 16
+1.6 -Takeoff & Landing Procedure (Carrier) - Page 17
+2 - Systems Employment
+2.1 - Multi-Function Color Displays (MFCD) - Page 20
+2.2 - Garmin-54MNAV Navigation Display - Page 22
+2.3 - AN/AAQ-28 LITENING Targeting Pod (TGP) - Page 23
+2.4 - AN/APG-75 Radar - Page 25
+2.5 - Wasp Active Passive Survival Suite (WAPSS) - Page 27
+2.6 - Heads Up Display (HUD) - Page 31
+2.7 - Garmin-MILSPEC Autopilot/Autothrottle - Page 36
+2.8 - Horizontal Situation Indicator (HSI)- Page 38
+3 - Weapons Employment
+3.0 - General Preface - Page 43
+3.1 - GBU-12 Laser-Guided Bomb - Page 44
+3.2 - GPS-Guided Bombs - Page 45
+3.3 - Unguided Bombs - Page 46
+3.4 - Anti-Radiation Missiles - Page 49
+3.5 - Misc. Air-to-Ground - Page 50
+3.6 - Optically Guided Air-to-Ground Missiles - Page 53
+3.7 - AIM-120J Advanced Medium Range Air-to-Air Missile (AMRAAM) - Page 54
+3.8 - IR-Guided Air-to-Air Missiles - Page 55
+3.9 - M61A1 Vulcan 20mm Rotary Cannon - Page 57
+4 - Advanced Procedures
+4.1 - Emergency Procedures - Page 58
+        4.2 - Missile Evasion: Radar-Guided - Page 60
+        4.3 - Missile Evasion: IR-Guided - Page 77
+Index: Callouts - Page 79
+        Index: Abbreviations, Acronyms, and Terminology - Page 80
+Credits & Afterwords - Page 81
+1.1 - OVERVIEW
+
+
+In this manual, you will find instructions to help pilot the F/A-26B Wasp in a modern combat theater. Begin by reading the aircraft overview, and read Cockpit Instruments to gain a situational understanding of the cockpit’s layout. It is mandatory to memorize the F/A-26B Wasp’s procedures.
+
+
+
+
+1.2 - AIRCRAFT OVERVIEW
+
+
+The F/A-26 Wasp is a carrier-based, air-superiority aircraft that can be fitted for ground operations. Originally developed in 2023 by McDonnell Douglas (Boeing), the original “A” model has since been replaced by the newer “B” model, developed in 2025, which features a new radar (The AN/APG-75), a new, exclusive version of the AIM-120 (the AIM-120J), and variable geometry air intakes. The aircraft also features an all-in-one situational awareness, navigation, and Datalink display (the Garmin-54MNAV). In addition to technological updates, the “B” model comes standard with modifications from 2024’s Pilot Improved Morale Program (PIMP) that adds several quality-of-life features for the pilot (See below for details). The Wasp is fitted with 5 underbelly hardpoints and 8 wing-mounted hardpoints for mounting munitions, totaling 13. The AN/AAQ-28 Targeting Pod can also be mounted externally without the use of a hardpoint. Fuel capacity is 15,840 Pounds but can be expanded to 43,560 Pounds with external fuel tanks (that take up hardpoints) and a further 29,700 Pounds with the use of conformal tanks attached to the sides of the air intakes.
+
+
+
+
+
+
+________________
+
+
+1.3 - COCKPIT INSTRUMENTS
+
+
+RIGHT CONSOLE:
+  
+
+Bottom: Comms Microphone Switch and Volume Adjustment (Picture cropping error, will fix soon)        
+Middle Right: Wing Fold Switch
+Middle Left: Parking Brake Switch
+Top Left: Left Engine Switch With RPM Indicator Above
+Top Left Bottom: Main Battery Switch
+Top Middle: Right Engine Switch With RPM Indicator Above
+Top Right: APU Switch With RPM Indicator Below
+Top Right High: Canopy Swit
+TOP CENTER CONSOLE:
+  
+
+Top Left: HUD Tint
+Top Center Left: Master Caution Light
+Top Center: Alt. Mode Switch
+Top Center Right: Clear Waypoint Switch
+Top Right: HUD Switch
+Middle Left: HUD Brightness
+Middle Center Left: NAV Autopilot Toggle
+Middle Center: Autopilot/Autothrottle Master Disengage Switch
+Middle Center Right: Heading Hold Toggle
+Middle Right: Head-Mounted Cueing System (HMCS) Switch
+Bottom Left: HUD Detail Knob
+Bottom Upper Left: Autothrottle Toggle
+Bottom Lower Left: MFD Brightness Knob
+Bottom Upper Right: Altitude Hold Toggle
+Bottom Lower Right: MFD Screen Swap Button
+
+
+
+
+
+
+MIDDLE CENTER CONSOLE:
+  
+
+Top Left: IAS Indicator 
+Top Right: Altitude Indicator
+Middle Left: Radar Switch
+Middle Center: Artificial Horizon 
+Middle Right: Vertical Speed Indicator
+Bottom Left: RWR Knob
+Bottom Center: Horizontal Situation Indicator
+Bottom Right: Altitude Hold Adjustment Knob 
+
+
+
+
+
+
+
+
+
+
+
+
+BOTTOM CENTER CONSOLE:
+  
+
+Left: Jettison Switch
+Top Left: Jettison Arm Light
+Center Left: Jettison Selector - All
+Center: Jettison Selector - Empty
+Center Right: Jettison Selector - Tanks
+Right: Jettison Selector - None
+
+
+All Selector - Jettisons all pylons. This includes external fuel tanks.
+Empty Selector - Jettisons all empty pylons. Saves weight, and prevents clutter when switching weapons.
+Tanks Selector - Jettisons all external fuel tanks, regardless of whether they are empty or not.
+None Selector - Overrides all selectors, and disarms the jettison panel
+TOP LEFT CONSOLE:
+  
+
+1. Top Left: Flaps Lever
+2. Top Right: Landing Gear Lever
+3. Bottom Left: Nose Wheel Launch Bar Switch
+4. Bottom Right: Tailhook Switch
+
+
+________________
+
+
+CENTER LEFT CONSOLE:
+  
+
+1. Top: Flight Assist Master Switch
+2. Middle Left: Flight Assist Roll Switch
+3. Middle: Flight Assist Yaw Switch
+4. Middle Right: Flight Assist Pitch Switch
+5. Bottom Left: G-Limit Switch
+6. Bottom Right: Carrier Takeoff Trim Switch
+
+
+
+
+
+
+LIGHT CONSOLE:
+  
+
+1. Top Left: Interior Light Switch
+2. Top: Instrument Light Brightness Knob
+3. Top Right: Instrument Light Switch
+4. Bottom Left: Navigation Light Switch
+5. Bottom: Strobe Light Switch
+6. Bottom Right: Landing Light Switch
+
+
+
+
+
+
+LEFT CONSOLE:
+  
+
+
+
+1. Top: Fuel Port Switch
+2. Middle Left: MP3 Stream Previous Track Button
+3. Middle: MP3 Stream Pause/Play Track Button
+4. Middle Right: MP3 Stream Next Track Button
+5. Bottom: Fuel Dump Switch
+To add songs to the MP3 Stream, simply drag and drop them into the RadioMusic folder, then press the Play Track button inflight. 
+NOTES:
+The player was included as part of the Pilot Improved Morale Program, or ‘PIMP’, which was aimed at helping keep pilots’ morale up during long and/or stressful operations, using suggestions made by pilots themselves. Other improvements from the program included restructuring the flight chair for comfort, improving the flavor of the survival kit protein bars, and the inclusion of an IR strobe light into the ejection seat for rescue signaling after a bailout. Recent reports that have attributed the music player to the heightened aggression and lessened inhibitions seen in some pilots are so far just speculation. - PIMP project review.
+
+
+________________
+
+
+MISC. LEFT:
+  
+
+
+
+1. Top Left: Master Arm Switch
+2. Top Right High: HMCS Visor Toggle Button
+3. Top Right Low: Night Vision Goggles Toggle Button
+4. Bottom Left: Flare Countermeasures Toggle Switch
+5. Bottom Right: Chaff Countermeasures Toggle Switch
+1.4 - STARTUP PROCEDURE
+
+
+1. Start BATTERY
+2. Set Lights AS REQUIRED
+3. Start APU and confirm RPM NOMINAL
+4. Start RIGHT ENGINE and confirm RPM NOMINAL
+5. Start LEFT ENGINE and confirm RPM NOMINAL
+6. Start HUD and HMCS
+7. Set MFCDs AS REQUIRED
+8. Shut down APU
+9. Check Flight Assist ON
+10. Check Microphone ON
+11. Check Wings DOWN
+12. Check Master Arm OFF
+13. Contact Tower for takeoff
+
+
+Note - Nominal refers to the RPM being in the green zone of the dial. Starting engines before the APU is fully spun up will lead to ignition failure.
+In the event of ignition failure, shut down both engines, and confirm APU RPM NOMINAL. Once NOMINAL, repeat steps 4 and 5.
+
+
+
+
+________________
+1.5 - TAKEOFF AND LANDING (RUNWAY)
+
+
+TAKEOFF:
+1. Set Flaps 1
+2. Set Parking Brake ON
+3. If TWR is under 0.8:
+   1. Advance throttle to AFTERBURNER
+4. If TWR is above 0.8:
+   1. Advance throttle to MIL POWER (Maximum dry thrust)
+5. Disengage Parking Brake
+6. Rotate to 5 degrees at 180KIAS
+7. Set Flaps 0
+8. Set Landing Gear UP
+
+
+LANDING:
+1. Contact Tower For Permission to Land
+2. Line Up with Runway (Note: Runway Number Indicates its Heading in Tens of Degrees)
+3. Set Flaps 2
+4. Set Landing Gear DOWN
+5. Slow to 200KIAS, descend to 1500 feet.
+6. Slow to 175KIAS once within 3NM
+7. Descend to 750ft
+8. Slow to +8 degrees AoA (Angle Of Attack)
+9. Descend to 250ft
+10. Once Within 100ft, Flare (5 to 10 Degrees)
+11. Set Throttle IDLE
+12. Set Speedbrake FULL
+
+
+Note: Unlike with USAF aircraft, flaring is not strictly required, as the F/A-26B features strong landing gear designed for high-stress carrier landings.
+
+
+
+
+________________
+
+
+1.6 - TAKEOFF AND LANDING (CARRIER)
+
+
+PREFACE:
+When Landing Gear is DOWN, Hook DOWN, and Carrier Lights ON (Final Approach), the IFLOLS is visible in your lower-left HUD. Information is relayed via a data-link connection to the carrier. Prioritize use of the HUD IFLOLS over the physical IFLOLS whenever possible, especially in low visibility.
+During carrier landings, aim to keep your AOA at 8 degrees. Adjust speed accordingly.
+TAKE OFF:
+1. Contact Tower For Taxi To Catapult
+2. Check Launch Bar DOWN
+3. Check CATO Trim ON
+4. Taxi To, and Attach to Catapult (USE NOSE GEAR CAMERA FOR ASSISTANCE)
+5. Set Wings DOWN
+6. Set Flaps 1
+7. Wait Until Shield Raised. Set Launch Bar UP.
+8. Salute Catapult Shooter, Grip Right Handlebar
+9. Advance throttle to Afterburner
+10. After Launch, Wait 3 Seconds, Then Take Control
+11. Perform Clearing Turn As Required
+12. Set Flaps UP
+13. Set Landing Gear UP
+14. Set CATO Trim OFF
+
+
+LANDING - CASE 1 (See Graphic Below):
+ Optical landing system - Wikipedia 
+
+1. At 800ft, Set Tailhook DOWN
+2. Engage Speedbrake
+3. Lower Landing Gear, Slow to 250KIAS.
+4. Set Flaps 2
+5. Descend to 600ft
+6. Contact Tower For Landing Information
+7. Turn to Intercept Glideslope
+8. Slow to AoA 8 (Adjust power accordingly)
+9. At ¾ miles, LSO will call out “[CALLSIGN], Call the Ball.”
+Response format - “[CALLSIGN], Ball.”
+Example: 
+LSO - “Kilo 1-1, call the ball.”
+Pilot - “Kilo 1-1, Wasp Ball”
+NOTE: IF BALL NOT VISIBLE OR INSTRUCTIONS ARE REQUIRED EARLY, RESPOND “[CALLSIGN], Clara Ball” AND LSO WILL PROVIDE INSTRUCTIONS IMMEDIATELY RATHER THAN AT ¾ MILES.
+10. Follow the “Meatball” to landing: If the Light is low, so are you. If the Light is high, so are you. Try to keep the Ball in the Center. (BALL WILL INCREASE BRIGHTNESS WHEN CENTRED)
+11. In final stages of approach, follow LSO TO THE LETTER.
+12. Maintain AoA of 8. Do NOT Flare.
+13. Upon Contact, Advance Throttle to Afterburner
+14. (If Wire Caught) Hold Afterburner for 4 seconds. Set Throttle IDLE. Set Hook UP, Set Wings UP, Set Flaps 0, Taxi to Parking Area
+15. (If Wire Missed) Bolter! (SEE WAVE OFF PROCEDURES ON NEXT PAGE.) Monitor Fuel Levels.
+
+
+LSO GUIDANCE
+
+
+After calling the ball, the LSO will give guidance down from ¾ miles. If Clara Ball has been called, it will begin immediately.
+
+
+The commands are as follows:
+* Come left - turn slightly left
+* Right for lineup - turn slightly right
+* Power - climb slightly, add some power to compensate resulting loss of airspeed
+* You’re too high - descend slightly, reduce power to compensate
+* Wave off! - WAVE OFF IMMEDIATELY, RE-ENTER A HOLDING PATTERN TO THE LEFT. SEE NEXT PAGE FOR PROCEDURES
+* Bolter! - You’ve touched the deck but missed the wires - go around! SEE BELOW FOR PROCEDURE
+
+
+WAVE OFF PROCEDURES
+On Wave Off/Bolter Callout:
+1. Advance Throttle to Afterburner
+2. Pull up to +10 Degrees (WARNING: Maintain Safe AOA.)
+3. Keep Airspeed Above 180KIAS
+4. Once Airspeed 250KIAS, Power Back and Hold Airspeed
+5. Turn Onto Downwind
+After Procedure Complete, See Landing (CASE 1) Checklist
+
+
+CASE 1 Diagram:
+
+
+  
+
+2.1 - BDYNAMICS MULTI-FUNCTION COLOR DISPLAY (MFCD)
+  
+
+1. Turn MFCD knob
+2. Use the Buttons Located on the sides of the MFD to select screens and options
+3. The SOI (Sensor Of Interest) button will make the page interactable with the stick thumbstick
+4. IF THUMBSTICK CONTROL RUDDER OFF: Move the throttle thumbstick left/right to set the left/right MFCD as SOI
+5. Press Home to revert to the home screen
+6. THE MFCD IS NOT A TOUCHSCREEN
+
+
+ MINI-MFCD (MMFCD):
+  
+
+1. Press Top Button to Switch On
+2. Select Screen Using the Lower 2 Buttons
+3. To Bring Back to Home, Restart the Mini-MFD
+4. THE MINI-MFCD IS NOT A TOUCHSCREEN
+
+
+
+
+________________
+2.2 - GARMIN-54MNAV NAVIGATION DISPLAY
+
+
+BASIC OPERATION:
+1. Click the button on the MFCD that corresponds with NAV
+2. Press the Zoom +/Zoom - buttons to zoom the display in or out.
+3. All friendly units are shown in blue on the display.
+   1. Ground and sea units are shown as circles with a dot in the middle.
+   2. Air units are shown as a semicircle with a dot in the middle.
+   3. Units assigned a callsign display the first letter of the callsign followed by the flight and unit numbers under the unit icon.
+   4. Aircraft carriers show lineup guidelines behind them.
+4. Any enemy unit that has been detected by a friendly unit and transmitted by datalink or has been inputted into the mission computer is shown in orange.
+   1. Ground and sea units are shown as diamonds with a dot in the middle.
+   2. Air units are shown as a triangles with a dot in the middle.
+
+
+DESCRIPTION:
+The GARMIN-54MNAV is a TACAN-eqipped avionics suite designed to aide with navigation as well as situational awareness. Made in 2022, this display incorporates one of the most advanced systems developed by Garmin. A new and critical feature is Datalink, through which friendly aircraft can point out targets as well as connect directly to an E-2, E-3, and/or E-4 AWACS aircraft. Datalink provides global IFF for all aircraft, setting new standards in military safety.
+________________
+2.3 - AN/AAQ-28 LITENING TARGETING POD (TGP)
+
+
+BASIC OPERATION:
+1. Ensure the Pod is equipped on the appropriate station.
+2. Navigate to the TGP page on the MFCD.
+3. Press the PWR button to activate the pod.
+4. Set the Pod as SOI
+5. Slew the Pod with the thumbstick.
+6. Zoom the Pod in/out by pressing the Zoom +/- buttons.
+7. To change sensor color, press SENS. The sensor can switch between color, Day-IR, and Night-IR
+8. To send GPS Coordinates of the location targeted by the TGP, Press The GPS-S Button.
+9. To slew the pod to the currently selected GPS Coordinates, press GPS-A.
+10. To slew the pod to the currently selected waypoint, press WPT.
+11. Press HEAD to enter HEAD Mode.
+   1. Press HMD to toggle the HMCS see-through.
+   2. Depress the thumbstick to lock the Pod to the point you are looking at and exit HEAD mode.
+   3. Move the thumbstick up/down to zoom in/out.
+12. Press LIM to show/hide the gimbal limit visualizer.
+13. Press MARK to toggle the IR marking laser.
+14. To lock the gimbal on a target, slew the reticle over the target. An IFF indicator will be shown upon successful acquisition. 
+   1. If a successful lock is not acquired, it may be necessary to zoom in further.
+
+
+DESCRIPTION:
+The AN/AAQ-28 LITENING Targeting Pod is an advanced precision targeting system currently in use with many military aircraft. LITENING is instrumental in the employment of many air-to-ground weapons, being necessary for use of optically-guided and laser-guided weapons. LITENING can also dramatically improve the accuracy of GPS guided and iron bombs. LITENING must be mounted externally to the aircraft prior to startup to function. The targeting pod contains a high-resolution, forward-looking infrared (FLIR) sensor that displays an infrared image of the target to the pilot. The pod has 7 zoom levels, allowing it to be effectively used as both a targeting and reconnaissance system. The pod also contains a CCD camera used to obtain target imagery in the visible portion of the electromagnetic spectrum. The pod is equipped with a laser designator for precise delivery of laser-guided munitions and an Infrared marker for targeting coordination at night. The guidance laser is always on, but the marking laser can be toggled on/off. A laser rangefinder provides accurate ranging information up to 23NM. The targeting pod is POINT and AREA stabilized, simplifying target acquisition and weapons employment. The pod can be locked at ranges up to 23NM, however it is possible to observe with limited resolution for an additional 5NM.
+________________
+2.4 - AN/APG-75 RADAR
+
+
+BASIC OPERATION:
+1. Activate The Radar by turning the RADAR knob to the ON position.
+2. Open the radar page by pressing the RADAR button on the MFCD.
+3. Set the Radar as SOI and move the thumbstick to slew the radar cursor.
+4. Contacts in blue are friendly and contacts in orange are enemies. Targets that appear as a red circle are fired missiles.
+5. Move the target cursor over a contact. Ensure that the cursor anchors to the contact.
+6. Depress the thumbstick to select, or “Softlock” a contact. The AN/APG-75 can select up to 4 targets at a time.
+   1. Softlocking a contact will drastically increase the refresh rate of the tracked contact.
+   2. Softlocking contacts will decrease the scan rate of the radar for non-softlocked contacts.
+   3. A softlock will not alert the tracked aircraft.
+7. Depress the thumbstick again or press number 1-4 to lock a contact.
+   1. Locking a contact provides constant tracking information. 
+   2. A lock will alert the locked contact.
+8. The Bearing, Range, Altitude, and Airspeed (BRAA) of the target is shown in the bottom right of the display. The type of contact locked is shown above the BRAA information.
+ACM BORESIGHT:
+1. Press MODE to enable the BORE mode.
+   1. While in BORE mode, the radar search pattern is fixed to a cone, displayed on the HUD.
+2. (HMCS REQUIRED) Press HEAD to enable the H-BORE mode.
+   1. While in H-BORE mode, the radar search pattern is fixed to a cone that moves with the pilot’s head, displayed on the HMCS.
+3. Any contact (aircraft OR missile) that enters the search area and is detected will be immediately locked.
+
+
+DESCRIPTION:
+The AN/APG-75 Radar is an advanced Active Electronically Scanned Array (AESA) radar that can select and provide post-launch guidance information on up to 4 targets at a time. It has a maximum range of 64 Nautical Miles and an effective launch range of 30 Nautical Miles. It is important to note that the Locking function does not function as a traditional Single-Target-Track (STT) would. In addition to providing a large amount of radar energy to the locked target, the APG-75 can also maintain track of selected targets while in a locked state. The APG-75 was first developed in 2024 and was not installed in the previous iteration of the jet; the F/A-26A. Along with the new radar, a new version of the AIM-120 AMRAAM was developed; the AIM-120-J, to be used only in conjunction with the APG-75 system. The APG-75 can also connect directly to the E-2, E-3, and E-4 AWACS Systems through an advanced datalink system.
+________________
+2.5 - WASP ACTIVE PASSIVE SURVIVAL SUITE (WAPSS)
+
+
+OVERVIEW OF WAPSS SYSTEMS:
+1. AN/ALR-96 Radar Warning Receiver (RWR)
+   1. Passive system (use is undetectable).
+   2. Radar detection, identification, lock status, and launch status information.
+   3. Terminal-stage ("Pitbull") ARH missile detection.
+   4. Feeds data to the Anti-Radiation (ARAD) system.
+2. AN/AAR-60 Enhanced Missile Approach Warning System (EMAWS)
+   1. Passive system (use is undetectable).
+   2. Missile launch detection.
+   3. Missile approach detection.
+3. ALE-47 Countermeasures Dispensing System (CMDS)
+   1. Active system (use is detectable).
+   2. Dispension of Chaff.
+   3. Dispension of Flares.
+
+
+2.5.1 - AN/ALR-96 RWR (RADAR WARNING RECEIVER)
+
+
+BASIC OPERATION:
+1. Turn on the RWR by turning the RWR knob located in the center middle console to either MUTE or ON. When on mute, the RWR will act just like the normal RWR, just without audio cues.
+2. Select the RWR by turning on the left MMFCD and pressing the bottom button labeled “RWR”.
+3. Enemies first start with a semicircle on top, then a circle will appear over them and a tone will play when they acquire a lock.
+4. Targets that the RWR believes to be of the greatest threat are marked with a diamond symbol.
+5. Airborne targets will have a triangle on top.
+6. Missiles gone "Pitbull" that are searching for targets are shown as a red M.
+7. Missiles gone “Pitbull” that are guiding with a Continuous Wave (CW) beam will show as a red circle with an M inside, accompanied by an aggressive tone.
+8. A Continuous Wave (CW) radar beam originating from a non-missile based Radar is indicated with a change of the source radar to red with a flashing circle, accompanied by an aggressive tone. CW beams (that do not originate from the missiles themselves) indicate the launch of a SARH missile.  
+9. Terminology:
+   1. 4 - MAD-4 Radar
+   2. A - AAA Fire Control Radar
+   3. DC - Unmanned Cruiser
+   4. DF - Drone Fighter
+   5. DS - Rotating Fire Control Radar
+   6. E4 - E4 AWACS Plane
+   7. F - Fighter
+   8. F+ - Air Superiority Fighter
+   9. HC - Catamaran Carrier
+   10. LR - NMSS Cruiser (Long Range Missiles)
+   11. MC - NMSS Cruiser (Medium Range Missiles)
+   12. SA - Self-Propelled Anti-Air Weapon (SAAW)
+   13. SR - SAM Radar
+   14. AE - AEW-50 AEW Plane
+   10. Listen for audio cues or look at the RWR screen for info on targets
+DESCRIPTION:
+The AN/ALR-96 Radar Warning Receiver (RWR) is an advanced electronic warfare suite developed by BAE Systems in 2023. It features the latest technology in attention-grabbing audio-visual cues, and easy to read symbols for fast target acquisition. With the ALR-96, situational awareness is at your fingertips - or ears! The RWR has a nearly unlimited range in all directions. The ALR-96 was developed as a response to the increasing threat of Russian and Chinese fighters launching missiles undetected and without warning until mere seconds to impact. Using a variety of classified high-tech systems, the RWR is the all-seeing eye of the sky.
+
+
+
+
+2.5.2 - AN/AAR-60 EMAWS (ENHANCED MISSILE APPROACH WARNING SYSTEM)
+
+
+BASIC OPERATION:
+   1. Missile launches detected by the EMAWS are displayed as a yellow line on the RWR display and are accompanied by an enunciation.
+   2. Incoming missiles (Both radar and IR-guided) are displayed as two orange lines on the RWR display and are accompanied by a tone.
+
+
+DESCRIPTION:
+The EMAWS system is a passive missile approach and launch detection system developed by Lockheed Martin. The EMAWS consists of multiple IR cameras placed around the aircraft. Missile launches are detected at a range of 10 Nautical Miles. Incoming missile detection ranges vary greatly from missile to missile. IMPORTANT: The EMAWS has two blindspots, located directly above and below the aircraft.
+
+
+2.5.3 - AN/ALE-47 CMDS (COUNTERMEASURES DISPENSING SYSTEM)
+
+
+BASIC OPERATION:
+   1. Place hand on throttle.
+   2. Press top circular button on controller to deploy chaff AND flares.
+   3. Open the CMS page to adjust countermeasures profiles.
+   4. ENUNCIATORS:
+   1. CHAFF/FLARE - Successful dispense of a Chaff/Flare
+   2. CHAFF/FLARE LOW - 10 Chaff/Flares remaining
+   3. CHAFF/FLARE EMPTY - 0 Chaff/FLares remaining
+
+
+DESCRIPTION:
+The ALE-47 CMDS has been the standard countermeasures dispensing system since 1998. In that time it has proved itself to be reliable and effective. It holds 120 chaff and flares each. See sections 4.2 and 4.3 for information on countermeasures strategies.
+
+
+________________
+2.6 - HEADS UP DISPLAY (HUD)
+SECTION OUTDATED AS OF 20/6/2020, EDITS REQUIRED
+  
+
+BASIC OPERATION:
+   1. Set HUD Switch ON (Center Upper Console)
+   2. Set Declutter OFF
+   3. HUD Tint and Brightness can be adjusted using knobs located on the Top Center console
+   4. Altitude mode can be switched between Radar Altitude (relative to the ground directly below) and Barometric Altitude (relative to sea level) by pressing the ALT MODE button on the Top Center console
+
+
+
+
+QUICK REFERENCE - SYMBOLOGY:
+
+
+  
+
+The F/A-26B’s HUD uses various symbols to allow maximum situational awareness while ensuring that the pilot’s vision through the HUD remains unobstructed.
+The following list is designed for quick reference to the above diagram. If there are any terms you are unfamiliar with, see below this list for a second list defining each term.
+When referencing this list, Confirm HUD Declutter OFF.
+Important items will be written in bold.
+   1. Throttle
+   2. IFLOLS Visualizer (ONLY VISIBLE DURING CARRIER APPROACHES)
+   3. AOA Readout (DEGREES)
+   4. G Readout
+   5. Mach Readout
+   6. Hull Integrity  DEFUNCT 
+   7. Airspeed (DEFAULT KIAS)
+   8. Master Arm Indicator (If Master Arm ON, this shows selected weapon and remaining ammunition.)
+   9. Heading
+   10. Flight Path Indicator
+   11. Pitch Ladder
+   12. Velocity Vector
+   13. ASL/AGL Altitude
+   14. Vertical Speed
+   15. Control Input Visualiser
+
+
+QUICK REFERENCE - SYMBOLOGY DEFINITIONS:
+   1. Indicates your current throttle setting. The line near the top of the bar indicates MIL setting (maximum dry thrust) - passing this line will start the afterburner. The afterburner is discontinuous and cannot vary in its strength.
+   2. Mirrors the IFLOLS on the carrier, used for vertical positioning on approach. See the Carrier Landings section for more information.
+   3. Shows the current Angle of Attack of the aircraft, in degrees. (NOTE: It is normal for the AOA indicator to indicate -179 to +179 degrees while landed. This is due to tiny airspeed changes, dipping above and below 0 knots.)
+   4. Shows current G load on the aircraft/pilot. The aircraft will limit the G around 9 to avoid LOC (Loss Of Consciousness). See the Center-Left Console section to disable this.
+   5. Shows airspeed in Mach
+   6. Shows hull integrity of the airframe.
+   7. Indicates airspeed. Will operate while on the ground, too.
+   8. Shows Master Arm status, and provides information on remaining ammunition.
+   9. Shows heading.
+   10. Shows the direction of the nose. Does NOT show the aircraft’s direction of travel - see item 12.
+   11. Gives a reference to the horizon, in 5-degree steps.
+   12. Indicates the actual direction of travel of the aircraft. Corresponds to the aircraft’s central body/landing gear.
+   13. Indicates altitude, either:
+a. above ground level
+b. above sea level.
+   14. Indicates vertical speed.
+   15. Shows a visualization of your control inputs, in real-time. The vertical line represents rudder, and the dot represents aileron and elevator input.
+
+
+NOTES:
+
+
+This section covers all major aspects of the HUD, however, in the shown diagram (a carrier landing) the TGP reticle, radar symbols, and weapon reticles are not displayed. References to these are present in other chapters.
+
+
+
+
+DESCRIPTION:
+
+
+Developed by Rockwell Industries, the F/A-26B’s Heads Up Display is a marvel of modern engineering. Through a combination of advanced optics and ultra-high-resolution displays, the HUD delivers clarity never seen before. The pilot can clearly distinguish HUD markings and the outside world, but the HUD’s electrochromic tint option allows the pilot to prioritize HUD symbology over visibility, making it a powerful tool to aid in Beyond-Visual-Range (BVR) dogfights. The system operates in tandem with the HMCS, delivering extremely powerful systems to the pilot, such as head-track for IR missiles; giving them the edge in close-in combat.
+However, the HUD serves as a crucial tool in calmer phases of flight, too. Prior to the development of the F/A-26B HUD, pilots often struggled with low-visibility carrier landings. An F/A-18C pilot stated that “...when operating from the ocean, fog is common, and fog does not mix well with bright lights. It scatters everywhere.” To address this issue, Rockwell Industries designed the HUD to directly operate with the Garmin 54-MNAV display, allowing a data-link to be made with the carrier and showing the IFLOLS in the lower-left corner of the HUD. This simplifies the recovery process and sets new standards for military safety.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+2.7 - GARMIN-MILSPEC AUTOPILOT/AUTOTHROTTLE
+
+
+BASIC OPERATION:
+      1. Set HUD switch ON
+      2. The Autopilot has 3 modes of operation:  
+         1. NAV - When set to NAV, the autopilot will fly to a predetermined altitude and heading in order to reach the selected waypoint. Waypoints have to be selected through the mission computer for NAV mode to function.
+         2. ALT - When set to ALT, the autopilot will hold the current altitude. The altitude to hold can be changed using the APALT knob located in the middle center console.
+         3. HDG - When set to HDG, the autopilot will hold the current heading. The heading to hold can be changed using the HDG knob located in the middle center console. Note that the autopilot can only bank up to 10 degrees.
+         3. The Autothrottle has one mode of operation:
+         1. SPD - When set to SPD, the Autothrottle will hold the current speed. The speed to hold can also be changed using the SPD knob located in the middle center console.
+         4. Press the desired autopilot button to enable the autopilot in the selected mode.
+         1. Multiple autopilots can be selected at a time.
+         2. NAV and HDG are mutually exclusive. 
+         3. ALT can be used in conjunction with NAV and HDG.
+         5. Release the stick.
+         6. Press the SPD button to enable the autothrottle.
+         7. Release the throttle.
+         8. Pressing OFF will disable all active autopilots/autothrottles
+         9. The autopilot suite features an emergency disconnect. Apply strong roll or pitch input to disconnect all autopilots. Apply any throttle input to disconnect the autothrottle.
+
+
+DESCRIPTION:
+The Garmin-MILSPEC all-in-one autopilot/autothrottle package is 
+a simplified autopilot package developed by Garmin for military aircraft in 2021. It focuses on reliability, safety, and ease of use. The system has seen great popularity with pilots for the latter reason. Where previous instruments needed precise calibration, the Garmin-MILSPEC system can be adjusted on-the-go anytime with ease.  
+________________
+
+
+2.8 - HORIZONTAL SITUATION INDICATOR (HSI)
+
+
+SYMBOLOGY:
+
+
+  
+
+
+
+         1. Distance From Waypoint Indicator: Indicates the current distance from a selected waypoint or runway in nautical miles
+         2. Current Heading Pointer: Displays the current heading
+         3. Autopilot Heading Pointer: Displays the selected heading for the autopilot to follow
+         4. Autopilot Heading Knob: Adjusts the heading for the autopilot to follow
+         5. Course Select Pointer: Displays the heading from which the pilot wants to enter the waypoint from (more detail in the Navigation section)
+
+
+         6. Course Deviation Bar: Displays how far off the pilot is from intercepting the desired course (TIP: Think of this bar as the runway relative towards you. If the bar is on the left of the Symbolic Aircraft, then the actual runway is to your left and vice versa.)
+         7. Course Select Knob: Adjusts the bearing that the pilot wants to enter the waypoint from. However, once the pilot is within 6-7 nautical miles of a runway, the Course Select Pointer will automatically adjust itself to the correct bearing and the knob will no longer adjust the course
+         8. TO/FROM Indicator: Indicates whether the pilot is flying towards or away from the waypoint (is normally parallel to the Course Select Pointer)
+         9. Glide Slope Pointer : Only displays when cleared to land by ATC. Displays the glide slope that the pilot must maintain for a safe and successful landing
+         10. Glide Slope Deviation Bar: Displays the pilot’s degree of deviation from the targeted glide slope. Once the Deviation Bar is lined up with the Glide Pointers, the pilot is on the correct glide slope.
+
+
+Basic Navigation With the HSI:
+
+
+Course Select:
+
+
+        The Course Select Pointer allows pilots to accurately line themselves up with a runway. For the Course Select Pointer to activate, the pilot must set a waypoint or request a landing from an airbase or carrier. Once the pointer appears, the pilot may adjust the heading of the pointer using the Course Select Knob. If the destination is the carrier or runway, the pointer will automatically adjust itself to the exact heading of the runway once within 6-7 nautical miles(the Glide Slope Indicator will also appear). 
+        The Course Select Pointer will guide the pilot to intercept a waypoint or runway at a desired heading. A way to think about this concept is to imagine a straight line coming out of your desired waypoint. The Course Select Knob will spin the line around the waypoint. The line represents the course that the pilot wants to take to enter that waypoint. The Deviation Bar represents that line relative to you. If the bar is to the right of the Symbolic aircraft, then the desired course is to the right of the aircraft. If the pilot is on the desired course, the Course Deviation Bar will be lined up with the pointer.
+        
+Lining up with the runway:
+
+
+         1. Request landing from desired runway or carrier
+         2. The air traffic controller will give you 2 pieces of information: The bearing of where the runway is from your location and the runway number. Generally, it is not recommended to head directly towards the runway due to the likelihood of not being properly lined up with it. This will result in an unstable approach and a potential crash. The runway number indicates the heading that the runway is facing. Runways are numbered between 00-36; multiply that number by 10 to know the true heading. (For the carrier, the runway number does not represent the direction of the carrier, but the direction of the runway on the carrier, which is angled slightly to the left.)
+         3. Once the ATC controller tells you the runway number, adjust the Course Selection pointer to the heading of the runway (e.g. If the runway number is 26, adjust the Course Pointer to heading 260).
+         4. Adjust current course depending on the Course Deviation Bar. (It is recommended to keep the current heading in between the Deviation Bar and the Course Select Pointer to smoothly turn into the desired course).
+
+
+
+
+Key:
+         1. Green: Aircraft
+         2. Path: A Potential Path To Take To Intercept Desired Course
+         3. Orange: Desired Course Indicated By Pointer
+         4. Blue: Runway
+ 
+  
+
+  
+
+
+
+
+
+
+
+GLIDE SLOPE:
+
+
+The glide slope is indicated by how high or low the Glide Slope Deviation Bar is relative to the Glide Slope Pointers. I.E. if the deviation bar is ABOVE the Glide Slope Pointers, then the pilot is too LOW and must either increase or maintain their altitude to intercept the targeted glide slope. If the bar is BELOW the Glide Slope Pointers, the pilot is too HIGH and must decrease their altitude to acquire the correct glide slope. Once the Glide Slope Deviation Bar and Glide Slope Pointers are lined up, the pilot is on the Glide Slope.   
+              
+       
+   Below Glide Slope     On Glide Slope    Above Glide Slope
+ 
+
+
+DESCRIPTION:
+
+
+The Horizontal Situation Indicator (HSI) is a tried and true aviation instrument used to guide pilots to waypoints and runways. The HSI allows pilots to accurately enter waypoints from a certain heading, approach a runway from the correct heading, and keep a nominal glide slope on the approach when landing. In low-visibility conditions, such as night-time or foggy weather, the HSI is used to navigate through waypoints and locate runways. For the F/A-26B, the HSI is pivotal for a CASE 2 and CASE 3 recovery.  
+
+
+
+
+________________
+
+
+3.0 - GENERAL PREFACE
+
+
+3.0.1 - WEAPONS ARMING
+Before any weapons can be fired, they must be armed. This feature is nothing new, being standard in fighters for decades. In the F/A-26B, there are 2 ways to arm weapons. 
+         * The first is the MASTER ARM switch. The MASTER ARM switch is a covered switch that when switched, will arm all equipped weapons. 
+         * The second way is through the MFCD EQUIP page. By switching the mark mode to ARM (upper-right MFCD) the pilot is able to mark individual hardpoints to ARMED. This will arm only selected hardpoints - useful if you are avoiding Winchester.
+
+
+3.0.2 - EQUIP MFCD PAGE
+The F/A-26B’s EQUIP MFCD page shows all hardpoints and munitions that may be stored on them. When a specific weapon is selected on the MFCD page, there is the option to arm (mentioned above) and change options for weapons (mentioned below). Examples of options with the EQUIP page are: CCIP/CCRP for bombs, guidance package on/off for GPS-Guided bombs, ripple for bombs/rockets, etc. 
+
+
+3.0.3 - GPS MFCD PAGE
+The GPS MFCD page allows for centralized upload, download, managment, and designation of GPS Coordinates. Coordinates can be obtained in one of three ways:
+         1. From the mission computer (MSN Prefix)
+         2. From onboard systems (TGP or NAV) (GRP Prefix)
+         3. From other aircraft (First 3 letters of sender's name prefix)
+The GPS page is split into two segments: the group list on the left and the coordinate list on the right. The group list can be navigated with the arrow buttons on the left, and the coordinate list with the ones on the right. Group prefixes indicate their source (see list above). New groups can be created and deleted with buttons on the bottom left. Selected coordinates can be set as a waypoint with the WPT button, and a group can be made into a path for cruise missiles with PATH button. Currently selected coordinates are displayed on the NAV and HUD as a large triangle. Coordinates in a group are displayed on the NAV as small triangles. When using GPS bombs, the bombs will guide to the currently selected coordinates. If set to AUTO mode, the selected coordinates will automatically cycle down in the list after release of a bomb.
+
+
+3.0.4 - DYNAMIC LAUNCH ZONE (DLZ) INDICATOR
+The Dynamic Launch Zone (DLZ) indicator is used in the employment of all missiles, air to air or air to ground (save for the AGM-89 and -161), to show the effective launch limits of the weapon. The DLZ resembles an elongated six (6), and it appears directly left of the altitude tape when a suitable missile and target has been selected. The DLZ has three elemets: the Minimum Range Indicator (MRI), the Weapon Employment Zone (WEZ), and the Range Indicator (RI). The MRI is a horizontal line below the DLZ. The WEZ is the elongated six. The RI is the arrowhead on the left of the WEZ. Follow the guide below to read the DLZ.
+         * If the RI is above the WEZ, the weapon is out of range.
+         * If the RI is within the section of the WEZ with only one line, the weapon is within maximum range (RMAX).
+         * If the target is heading away from the launch aircraft or turns away from the launch aircraft after the weapon is employed, the weapon will miss.
+         * If the RI is within the section of the WEZ with 2 lines, the weapon is in No-Escape Range (RNES).
+         * If the weapon is employed within RNES, the weapon will hit the target, even if it is turned around or turns around.
+         * If the RI is below the WEZ and above the MRI, the weapon is below minimum range.
+         * If the RI is below the WEZ and the MRI, there may be a possible rift in time or an issue with the range computer.
+         * If this occurs, contact the maintenance department post-flight and note it in the debrief.
+         * When in doubt, if the shoot lights are illuminated and there has been a "Shoot" enunciation, you should be in range.
+________________
+3.1 - GBU-12 LASER-GUIDED BOMB
+
+
+
+
+BASIC OPERATION:
+         1. Check Master Arm ON  
+         2. Select GBU-12
+         3. Start TGP
+         4. Select target using TGP
+         5. Align bomb diamond inside firing reticle (best shot inner circle)
+         6. Press trigger to release
+         7. Call out “Pickle”
+         8. Ensure that laser is on target until confirmed hit to hold tracking
+ 
+EMPLOYMENT STRATEGIES:
+Due to their lower payload and agility midair, laser-guided munitions are best suited for Close Air Support (CAS). They perform extremely well when attacking armored vehicles, and due to the ability to move mid-air, convoys. Laser-guided munitions are not recommended for use against heavy, fixed targets (i.e. Bunkers) due to their small payload.
+
+
+________________
+3.2 - GPS-GUIDED BOMBS
+
+
+GPS-GUIDED BOMBS IN OPERATION WITH THE F/A-26B:
+            1. GBU-38 500lb bomb
+            2. GBU-39 250lb glide bomb
+
+
+BASIC OPERATION:
+            1. Check Master Arm ON
+            2. Select weapon of choice
+            3. Start TGP
+            4. Designate target using TGP
+            5. Press GPS-S to send GPS coordinates of target
+            6. Check target is selected in GPS MFCD page
+            7. Align bomb diamond inside firing reticle (Best shot inner circle)
+            8. Press trigger to release
+            9. Call out “Pickle”
+
+
+EMPLOYMENT STRATEGIES:
+GPS-Guided bombs are best suited for precision strike roles, with the GBU-38 acting as a great bunker-buster, and the GBU-39 being able to take out long-distance targets with ease. The one downside of GPS-guided bombs is that due to their use of fixed coordinates, they are completely ineffective when being used against moving targets. GPS-Guided bombs can also disable their guidance package entirely through the EQUIP MFCD page, essentially serving as a dual-purpose weapon and making unguided bombs obsolete.
+
+
+
+
+________________
+3.3 - UNGUIDED BOMBS
+
+
+UNGUIDED BOMBS IN OPERATION WITH THE F/A-26B:
+            1. Mk.82 500lb bomb
+            2. Mk.82AIR 500lb High-Drag bomb
+            3. Mk.83 1000lb bomb
+            4. CBU-97 Cluster bomb
+
+
+BASIC OPERATION:
+            1. Check Master Arm ON
+            2. Select weapon of choice
+            3. Using Constantly Calculated Release Point Automatic (CCRP AUTO):  
+               1. Activate TGP
+               2. Designate target using TGP
+               3. Select “CCRP AUTO” in the EQUIP MFCD page for your bomb of choice
+               4. Line up with target using dotted line as guide
+               5. Hold trigger (Bomb will be automatically released)
+               4. Using Constantly Calculated Impact Point (CCIP)
+               1. Visually acquire target
+               2. Climb to 5000ft above target
+               3. Dive towards target
+               4. Press trigger to release when bomb pipper is over target
+               5. Call out “Pickle”
+
+
+
+
+
+
+EMPLOYMENT STRATEGIES:
+Unguided bombs perform well against fixed targets like bunkers, due to their heavier payload. They also work well as a suppression weapon; able to be fired repeatedly to decimate a large area of targets. If need be due to budget or other reasons, unguided bombs can be used for the purpose that GPS-Guided bombs fill - a precision strike weapon. However not recommended, it is possible with the use of CCRP AUTO.
+
+
+________________
+3.4 - ANTI-RADIATION MISSILES
+
+
+ANTI-RADIATION MISSILES CURRENTLY IN OPERATION WITH THE F/A-26B:
+               1. AGM-126 SideARM II
+               2. AGM-88 High-speed Anti-Radiation Missile (HARM)
+
+
+BASIC OPERATION:
+               1. Check Master Arm ON
+               2. Select weapon of choice
+               3. Acquire target using ARAD MFCD page (Note: The ARAD works in the same way as the RADAR, see above for operation information)
+               4. Align targeting circle over target
+               5. Confirm target is within range (See 3.0.4)
+               6. Press trigger to launch
+               7. Call out “Magnum”
+
+
+EMPLOYMENT STRATEGIES:
+It is suggested that in all air-to-ground missions where there is a reasonable chance of radar-guided anti-air presence, that one or more Anti-Radiation missiles be equipped in at least one aircraft participating in the flight. Anti-Radiation missiles are the primary Suppression of Enemy Air Defenses (SEAD) weapons, and are designed solely for that purpose. 
+
+
+NOTES:
+“Let’s raise a drink to the poor bastards on SEAD duty, who’s daring keeps the rest of us fighting! Here's to them!” - Anonymous pilot at servicemen’s club. 
+
+
+
+
+
+
+
+
+
+
+
+
+3.5 - MISC. A/G
+
+
+HYDRA-70 ROCKET POD
+
+
+PREFACE:
+The HYDRA-70 has customizable launch options. Before engagement, view the EQUIP page in the MFCD and customize the settings to your liking.
+               * RIPPLE - Indicates how often rockets will be launched. Measured in Releases Per Minute.
+               * SALVO - Indicates how many rockets will be fired at once. Set to 1 as default.
+
+
+BASIC OPERATION:
+               1. Set MASTER ARM ON  
+               2. Confirm HYDRA-70 ARMED in MFCD EQUIP PAGE
+               3. Cycle WEAPON SWITCH BUTTON Until HYDRA-70 Visible (TOP-LEFT OF HUD)
+               4. (OPTIONAL) Designate Target with TGP
+               5. Confirm target is within range (See 3.0.4)
+               6. Press (and hold if ripple selected) TRIGGER to Launch
+
+
+EMPLOYMENT STRATEGIES:
+The Hydra-70 rocket pod is a must for Close Air Support (CAS) missions; with its 10lb warhead, it can decimate any armored targets in a 30ft area and destroy soft targets in a further 160ft. It is recommended to use the Hydra-70 in a method similar to unguided bombs; climb to 5000ft above target, dive, and launch while diving on to target. The Hydra-70 can also fly extremely fast, with an initial acceleration of 87kts, and a maximum speed of up to 1000kts.
+
+
+NOTES:
+While technically capable, the Hydra pod should never be used in so-called ‘Full salvo’ mode to ‘blot out the sun with rockets’. The wastefulness of this action aside, the structure of the missile pod may rupture from the extreme stress or rockets in flight may impact each other, causing a chain reaction directly in front of the craft. - Engineer G. Faws
+
+
+AGM-89 ANTI-SHIP CRUISE MISSILE & AGM-161 JOINT ANTI-SURFACE STANDOFF MISSILE (JASSM)
+
+
+BASIC OPERATION:
+                  1. Designate target GPS coordinates
+                  2. Select desired weapon
+                  3. (AGM-89 ONLY) Set one of 4 attack modes in EQUIP MFCD page:
+                  1. Sea Skim - The missile flies extremely low, skimming the sea.
+                  2. Sea Skim Evasive (SSEVASIVE) - The missile flies extremely low, swerving to evade CIWS. To use this mode, see WEAPONS EMPLOYMENT - GENERAL PREFACE.
+                  3. Direct - The missile flies directly to the target like the AGM-65F
+                  4. Popup - The missile flies in SSEVASIVE until its terminal phase, where it pops up and dives on to its target
+                  4. Align target inside targeting circle
+                  5. Press trigger to launch
+                  6. (AGM-89) Call out “Bruiser”
+                  7. (AGM-161) Call out “Greyhound”
+
+
+EMPLOYMENT STRATEGIES:
+The AGM-89 and AGM-161 excel in long-range target destruction. They are a must-use when going against a large fleet or an area with many SAM’s. However, they are not recommended for use in close ranges as they are slower and less maneuverable than other Air-To-Ground missiles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+3.6 - OPTICALLY GUIDED AIR-TO-GROUND MISSILES
+
+
+OPTICALLY GUIDED AIR-TO-GROUND MISSILES CURRENTLY IN OPERATION WITH THE F/A-26B:  
+                  1. AGM-65F
+                  2. CAGM-6 Smart Cluster Missile
+
+
+BASIC OPERATION:
+                  1. Check Master Arm ON
+                  2. Select desired weapon
+                  3. Start TGP
+                  4. Select target using TGP
+                  5. (IF TRIG UNCAGE OFF) Maneuver aircraft towards target until targeting circle is slewed to TGP and tone is audible.
+                  6. (IF TRIG UNCAGE ON) Hold trigger. Ensure that the targeting circle has slewed to the TGP and tone is audible.
+                  1. If targeting circle does not slew, maneuver the aircraft towards the target.
+                  7. Ensure target is within range (See 3.0.4).
+                  8. (IF TRIG UNCAGE OFF) Press trigger to launch.
+                  9. (IF TRIG UNCAGE ON) Press weapon switch to launch.
+                  10. Call out “Rifle”
+
+
+EMPLOYMENT STRATEGIES:
+Much like the GBU-12, Optically Guided Air-To-Ground Missiles (AGM’s), are best suited for attacks on convoys and soft targets. However, Optically Guided AGM’s have one major advantage: they are fire-and-forget. This means that multiple AGM’s can be fired at multiple targets at a time before the first one hits, whereas the GBU-12 can only target one enemy at a time. The CAGM-6 is especially suited for large groups of enemies, as it separates into multiple individually guided submunitions, further decreasing the time to destroy multiple targets. Additionally, the AGM-65 can be used to destroy bunkers in a pinch.
+
+
+
+
+________________
+3.7 - AIM-120J ADVANCED MEDIUM RANGE AIR-TO-AIR MISSILE (AMRAAM)
+
+
+BASIC OPERATION:  
+                  1. Switch Master Arm On
+                  2. Select The AIM-120
+                  3. Select Radar on your MFCD
+                  4. Check Radar On
+                  5. Turn on SOI
+                  6. Select Target
+                  7. Lock Target
+                  8. Ensure target is within range (See 3.0.4)
+                  9. (Optional for best chance of hit) Align the dot in the Targeting Circle 
+                  10. Press trigger to launch.
+                  11. Call out “Fox Three” To avoid confusion with other launch warnings.
+                  12. (Optional) Unlock target, maintaining a Softlock (shown with circle on HUD)
+                  13. Return to step 6 and engage up to 3 more targets
+
+
+EMPLOYMENT STRATEGIES:
+The AIM-120J AMRAAM is best suited for Beyond Visual Range (BVR) engagements with its effective launch range of 40NM. It is not, however, well suited for engagements of >4NM because of its sheer size and inability to maneuver as well as an IR-Guided missile. Its 39lb warhead is able to critically damage enemy aircraft in one impact. Even though it is not suited for short-range, it is recommended to carry more AMRAAMs than IR-Guided missiles due to IR-Guided missiles being completely ineffective at ranges exceeding 5NM. The AIM-120 HUD Reticle is shown below.
+3.8 - IR-GUIDED AIR-TO-AIR MISSILES
+ 
+PREFACE:
+IR missiles have customizable launch options. Before engagement, customize the launch options to your liking through the EQUIP MFCD Page. For high-intensity WVR engagements, the HeadTrack Seek Mode is suggested. Your visor must be lowered while using HeadTrack to see the reticle, and HMCS POWER ON.
+Seek Modes: Caged, Uncaged, Head-Track, Vertical Scan
+
+
+IR-GUIDED AIR-TO-AIR MISSILES CURRENTLY IN OPERATION WITH THE F/A-26B:
+                  1. AIM-9M M-13
+                  2. AIRS-T
+
+
+BASIC OPERATION:
+                  1. Check Master Arm ON.
+                  2. Select weapon as required
+                  3. Align targeting reticle with enemy aircraft
+                  4. Wait for high-pitched tone
+                  5. Press trigger to launch
+                  6. Call out “Fox Two” to avoid confusion with other launch warnings. 
+
+
+EMPLOYMENT STRATEGIES:
+IR-Guided missiles are best-suited for engagements of less than 4NM due to them not being able to detect heat signatures from medium-long ranges. Fired IR missiles have a reliable hit-rate, but it is not guaranteed that one hit will damage a vital component. As such, it is recommended to bring multiple IR-Guided missiles on a mission.
+
+
+NOTES:
+Although not its main purpose and not recommended, the AIRS-T is maneuverable enough to intercept incoming missiles and thus be used as a countermeasure. There have been multiple occasions in which skilled pilots have successfully used the AIRS-T as a countermeasure, one of which ended in complete destruction of the airframe due to the AIRS-T and the incoming missile colliding in close proximity to the DA.
+
+
+
+
+________________
+3.9 - M61A1 VULCAN 20MM ROTARY CANNON
+BASIC OPERATION:
+                  1. Check Master Arm ON
+                  2. Select the M61A1 Vulcan
+                  3. Lock target with radar, either:
+                  1. Automatically when in close range
+                  2. Manually through the RADAR MFCD page
+                  4. Ensure target is in range (the solid circle around the pilper is NOT full)
+                  5. Align gun pipper over target
+                  6. Press trigger to fire (If flying with wingmen, call out “GUNS GUNS GUNS”)
+
+
+EMPLOYMENT STRATEGIES:
+Due to its short range, the M61A1 is only suggested to be used as a substitute to IR-Guided missiles. The Cannon can also be used as an Air-To-Ground weapon, but this is not recommended. Due to the M61A1’s extremely high fire rate, short bursts are necessary to prolong ammunition lifespan. Used correctly, the Cannon’s ammunition of 800 rounds can disable over 8 aircraft.
+
+
+NOTES:
+“Recommended or not, I’ve saved more than a few ground-pounders with a well-placed burst. This baby is just as effective on ground targets.” - Anonymous pilot
+
+
+“Anyone else remember how they said dogfighting would be a thing of the past in the late ’20s? I guess war never changes, huh?” - Anonymous Engineer
+________________
+4.1 - EMERGENCY PROCEDURES
+
+
+ENGINE FAILURE:
+                  1. Start APU
+                  2. Jettison ALL
+                  3. Switch malfunctioning engine(s) OFF
+                  4. If altitude below 5000ft AGL:
+                  1. If road or airfield available within range:
+                  1. Attempt to land (See landing procedures above)
+                  2. If no road or airfield available:
+                  1. Check master arm OFF
+                  2. Confirm no civilian area within 2NM
+                  3. Set aircraft on crash course that minimizes airframe damage
+                  4. Eject
+                  5. If altitude above 5000ft AGL:
+                  1. Start APU immediately
+                  2. Pitch to approximately -2.5 degrees
+                  3. Confirm APU RPM NOMINAL
+                  4. Switch malfunctioning engine(s) ON (Both engines can start simultaneously, however it will drain the battery somewhat and puts extreme strain on the APU)
+                  5. Confirm engine(s) RPM NOMINAL (If engine(s) RPM NOT NOMINAL, Consult BELOW 5000ft AGL Checklist.)
+                  6. Climb to 10000ft
+                  7. Contact nearest airbase for emergency landing
+                  8. Land (See landing procedures above)
+
+
+MISSILE IMPACT:
+                  1. Turn cold from bandit(s)
+                  2. Confirm both engines RPM nominal
+                  3. (If engine(s) has/have failed) See ENGINE FAILURE section above
+                  4. Check pitch responsive
+                  5. Check roll responsive
+                  6. Check yaw responsive
+                  7. (If Flt. Controls unresponsive) Attempt to land at nearest airbase or road (See below for instructions on alternate control methods)
+                  8. Observe and note any visible damage on wings, fuselage, elevators, and rudders (Use external cameras for assistance)
+                  9. (If low chance of complete airframe loss) Continue flight
+                  10. (If med. to high chance of complete airframe loss) Contact nearest tower for emergency landing
+
+
+FLIGHT CONTROL FAILURE (ALTERNATE CONTROL METHODS):
+                  1. Yaw:
+                  1. (If split throttle available) Cut power for the engine corresponding with the turn direction. Compensate roll.
+                  2. (If split throttles unavailable) Shut down the engine corresponding with turn direction. Compensate roll
+                  2. Roll:
+                  1. Same as yaw, but compensate with yaw instead of pitch
+                  3. Pitch:
+                  1. Flight Assist Master OFF. Use power to control pitch, utilizing airbrake and flaps for additional authority. Maintain high airspeed. Do not attempt a landing. This is unsafe without pitch control. Instead, guide the aircraft to a safe ditching location. Once the airframe is on a safe trajectory away from civilian population, eject.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.2 - MISSILE EVASION: RADAR-GUIDED
+OVERVIEW
+In a modern combat theatre, radar-guided missiles pose the most serious threat to F/A-26B pilots. F/A-26B units also find themselves more susceptible to radar-guided threats than other USN air combat units due to their mission role and amplified radar cross-section. Because of this, there is no single tactic that can be followed to successfully evade radar-guided missiles. This does not imply that evasion is impossible. A Wasp driver that properly assesses a given situation and combines the right strategies can greatly increase their chance of defeating radar-guided threats. 
+This section will be broken up into two parts: First, we will discuss the principles of radar-guided missiles and their relationship to other weapons systems and aircraft. Second, we will explore strategies that can be deployed to defeat radar-guided missiles in various scenarios.
+PRINCIPLES:
+QUALITIES OF A RADAR-GUIDED MISSILE
+A radar-guided missile tracks its target by identifying the reflection of radio and microwave waves reflecting from the target’s surfaces. The source of these radar waves can be an aircraft, ground radar system, or the missile’s internal radar projector. This method allows radar-guided missiles to track targets at much longer ranges than IR systems and thus achieve greater speeds. It is the speed and integrity of radar tracking technology that make radar-guided missiles so deadly.
+AIR LAUNCHED
+Most modern Air-to-Air radar-guided missiles are “Active”, meaning their internal radar projectors are powerful enough to illuminate their target at medium range, however, this ability degrades at longer distances. Radar guided air-launched missiles will typically rely on aircraft-based radar to track and relay target information until the last few miles. This method has the added benefit of not alerting the targeted aircraft of the position of the missile via RWR. Even if line of sight with the launcher radar projector is broken, an active radar homing (ARH) guided missile is still a threat.
+The improvement of stealth and jamming technology in the first quarter of the 21st century has reduced the range at which a weapons-grade track can be acquired. This has reduced the viable shoot range to around 25-35NM as opposed to the 50-60NM of their original design. Although this does allow better defensive posture and a higher evasion rate, it has the unintended consequence of increasing the number of missiles that reach their target before exhausting fuel. A defending pilot will still need to focus on wasting the missile’s energy early on but may find themselves facing a powered missile after only a short period of mid-course defensive tactics.
+ 
+SAM RADAR-GUIDED MISSILES
+Radar guided missiles launched from a surface installation require lock-on by ground control radar for a significant portion of the missile’s flight. This means that destroying or breaking line-of-sight with the fire control radar can disable a SAM’s ability to track an aircraft even after the missile has traveled a significant distance. More advanced SAMs have improved ARH capabilities and may remain threatening even after destruction or line-of-sight loss with control radar at range.   
+RADAR VS. IR-GUIDED MISSILES
+Radar Guided missile systems rely on range, speed, and tracking to kill their target.  As such, the missile itself tends to be heavier, faster, and less maneuverable. Let’s break down these missile types and their qualities.
+ 
+	IR Guided
+	Radar Guided
+	Speed
+	Low
+	High
+	Acceleration
+	High
+	Medium
+	Maneuverability
+	High
+	Low
+	Range
+	Short
+	Medium/High
+	CM resilience
+	Poor
+	Good/Very Good
+	 
+ 
+ENERGY
+Properly deciding the correct course of action when threatened by a radar missile requires an understanding of the energy relationship between it and your aircraft. Many of the strategies in the next section take advantage of the differences in energy usage that exist between an aircraft and the missile threatening it.
+Although a Radar guided missile can achieve much greater speeds than an aircraft, it is less able to maneuver in short order. As distance closes, the degrees of its required lead increases. If fired at long range (+20NM) missiles may run out of fuel before impacting targets. This energy is used to accelerate the missile, fight air resistance, and change its velocity vector (maneuvering). Once fuel is depleted, a missile will begin to lose velocity until it reaches its target or begins to fall. Thicker air and frequent maneuvering speed up this process and can quickly reduce the distance a missile can fly at a threatening speed.
+Aircraft, on the other hand, have a relatively unlimited amount of potential energy stored as fuel. Although unable to accelerate like or reach the speeds of a missile, an aircraft can continuously expend energy through maneuvering and pushing through air. In addition, the wide surface of the F/A-26B allows for the rapid exchange of forward velocity to angular velocity (trading speed for turning).
+All this can be broken down into the following statement: Aircraft have high Delta-V (potential change in velocity) but low impulse (thrust), whereas missiles have low Delta-V but high impulse. Many strategies for defeating radar-guided missiles rely heavily on the exploitation of this relationship.
+ 
+CHAFF
+Chaff is a countermeasure deployed by a defending pilot in order to disrupt a missile. The F/A-26B uses a JAFFing technique where radar signals are beamed against the dropped chaff in such a way that even doppler-effect missiles can be fooled if at a lesser extent.
+Chaff is far less effective against radar missiles than flares are against IR missiles, but this should not discount its usage. Chaff is used to inhibit a radar’s ability to accurately track a target.
+Chaff is only effective with minimal relative velocity to the dispersed chaff, relative to the radar source (generally a beam.) If anything, remember these 4 points on chaff:
+1.  Missiles will attempt to search for the target again after chaff has faded away.
+2. Deploying chaff is ineffective unless the radar has a lock (TWS or STT.)
+3.  Chaff is more situational than flares.
+4.  Even if deploying chaff doesn’t break lock, it can greatly reduce the missile’s accuracy in the terminal phase.
+ 
+MANEUVERS:
+OVERVIEW
+Unlike other topics in this manual, Radar missile evasion does not have a single sequence of steps which ensure success. Instead, radar missile evasion relies on various maneuvers that can be made simultaneously and/or sequentially to maximize chances of survival in any given scenario.
+This section will go over these maneuvers, how they work, and when to employ them. This will be followed by example scenarios that showcase how these maneuvers can be used together to achieve evasion.
+We will refer to the aircraft defending against the radar missile as the “DA” (defending aircraft) for brevity. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.2.1 - TERRAIN MASKING
+  
+
+WHAT: Terrain Masking is the most reliable maneuver that can be used to break a radar missile lock. In this maneuver, the DA simply uses ground obstacles to break line-of-sight with the radar source.  This radar source can be the ground control radar, hostile aircraft radar, or the missile itself.
+ WHEN: This maneuver should only be considered when flying low over variable terrain or urban areas.  This maneuver is ineffective: at sea, when the radar source is a high-flying aircraft, or when the DA needs to engage hostile air targets with AMRAAMs. This maneuver can be used at any time before or after a missile is launched, however it is most effective early on.
+HOW:
+1.  Identify radar source using RWR or ARAD (HMCS most effective).
+2.  Maneuver in such a way that terrain or obstacles break radar source’s line-of-sight with DA. If flying over mountainous terrain, roll inverted and pull rather than pushing down.
+3.  Ensure warning tone has gone silent before emerging.
+4.  IF warning tone continues, identify incoming missile and mask that.
+ 
+4.2.2 - BEAMING
+WHAT:  Beaming is a maneuver that decreases the kinetic energy of a long-range radar guided missile by forcing it to turn and lead its target. Beaming can be done by leading a missile to the side in one single direction, or by switching flight direction after a few seconds. It is important to note that beaming will not break a missile’s lock or prevent it from reaching the DA. It will simply drain the missile’s energy, making it easier to evade in later maneuvers. Additionally, the optimal start time for a beam is immediately at launch. It is suggested that a beam maneuver be started upon suspected hostile launch or after DA deployment of ordinance. Zig-Zag beaming is only admissible if a missile launch has occurred from beyond 15NM. 
+WHEN: Beaming is a good, simple tactic that should be employed early on when terrain masking is not an option. Straight line beaming is also highly effective when defending against radar missiles launched at relatively close range (<15NM) as they have not obtained enough velocity to overcome their lack of maneuverability
+  Beaming can be used in conjunction with most other maneuvers in this guide and should always be used to some extent when the DA is still engaging forward. Likewise, the Beaming maneuver is highly effective when used with other tactics such as dragging and going cold.
+HOW:
+1.  Identify the bearing of the missile visually by its smoke trail, or RWR/ARAD information
+2.  Turn at an angle roughly perpendicular to the missile, try not to close distance with the missile too rapidly.
+3.  Use full afterburner and continue in this direction for a few seconds. The farther the missile is from you, the longer you should stay in this direction.
+4.  (OPTIONAL, if missile is at range) Make a fast high-G turn in the opposite direction and repeat at increasing frequency essentially zig-zagging.
+5.  Choose a Terminal strategy once the missile goes pitbull
+ 
+ 
+4.2.3 - DRIVING
+WHAT: Driving is forcing a missile to hit the ground as it tries to lead its target. This is not confirmed to be effective against all missiles in all states, however it is highly effective against SAMS and other missiles prior to the Pitbull phase.
+WHEN: Driving should only be used right after the launch of a radar guided missile, and preferably if that missile is a SAM.  It is also most effective if the DA is at a high velocity, at an altitude of around 1k-5k feet over terrain. It is a good idea to drive in a way that leads directly into a notch, cold, or terrain mask in case of failure. If multiple SAMs are launched in proximity to each other (i.e. from a cruiser fleet), driving should be employed FIRST as it can neutralize all missiles in short order without the need for terrain variation.
+1.  Identify missile is in visual range and launched
+2.  Split-S
+3.  Dive straight down.
+4.  Level out just above water/terrain, stay as close to terrain as possible.
+5.  If missile fails to impact, begin follow-up maneuver and prepare for terminal evasion.
+ 
+4.2.4 - DOPPLER NOTCHING
+WHAT: Doppler Notching is a precise maneuver that, if done successfully, can completely break lock from an incoming missile. Doppler notching takes advantage of a radar missile’s tracking system in a way that makes the DA “blend” into the terrain.  Radar guided missiles distinguish their targets from the terrain below them by looking at the doppler shift of the reflection. If a DA is flying below, and perfectly perpendicular to the radar sensor, the missile or sensor will be unable to distinguish it from the passing terrain.
+WHEN: Notching can ONLY be used when the missile is significantly above the target. This means it is a good strategy to be used with some slight dragging. It is also good to use with beaming, as notching obligates beaming (unless you are a VTOL). The effectiveness of this maneuver varies based on distance (farther = better), quality of the radar missile, and the source of the radar signals. Notching can only be effective against one missile at a time unless multiple are fired from the same source.  It is good practice to not solely rely on notching when trying to evade.
+HOW:
+1.  Identify radar source
+2.  Fly below radar source if not already
+3.  Turn so that the radar source is to your 3 or 9 o’clock.
+4.  Fly so that source stays in 3-9 o’clock. (use full afterburner to beam better)
+If missile lock is not lost after a few seconds:
+1.  Identify missile
+2.  Turn so that missile is at your 3 or 9 o’clock.
+If missile lock is not lost after a few seconds, abandon the notch attempt and employ other defensive tactics.
+ 
+4.2.5 - GOING COLD
+WHAT: Going cold, the cold-defense, or “running away” all refer to the somewhat useful strategy intended to extend the distance a radar guided missile must travel to reach you. When going cold, the DA attempts to put as much distance between him/herself and the missile as quickly as possible. Unlike IR missiles, radar guided weapons are more concerned with personality and thus do not care how hot an aircraft’s ass is, therefore it is strongly advised to use full afterburner during this maneuver. Cold is also a good Terminal Strategy for missiles that are low on energy (going slow).
+WHEN: The cold defense should only be used when a missile has just been launched from long range and the source is not closing. Using the cold defense against air superiority fighters or interceptors is not advised, as it can make re-engagement extremely dangerous.  Additionally, the cold defense disengages the DA from the fight, meaning at some point they will have to re-engage. Re-engagement after a cold maneuver should only be done outside of range or line-of-sight of the threat.
+HOW:
+1.  Identify missile
+2.  Turn around
+a.  (Optional) & Drag
+3.  Go fast
+a.  (Optional) & Weave slightly/ “gently beam”
+b.  (Optional) & Terrain Mask
+If missile goes Pitbull
+1.  Dump chaff
+2.  Jink and barrel-roll when missile is <1 NM while dumping chaff  
+4.2.6 - DRAGGING
+WHAT: Dragging is a defensive strategy that exploits the energy relationship between missiles and aircraft. Light, fast, low delta-v missiles struggle to maintain energy in the thick atmosphere at low elevation. By forcing a missile to spend more time at lower elevations, a DA can reduce its energy and defeat it more easily.  Dragging is not always the best strategy, especially if the DA intends to push bandits or avoid a chase/dogfight.
+ 
+WHEN: Dragging is most effective at long ranges and the missile is launched from a high altitude, and the DA plans to go cold. Dragging should not be used as a lone defense and should be used alongside beaming or cold defense maneuvers. Attempting to drag while heading toward the missile will not produce effective results. Additionally, dragging is best used after the DA has launched AMRAAMs and has tracked them to the target near or past their automatic pitbull point.
+HOW:
+1.  Confirm missile or source is high using HUD ARAD
+2.  Perform split-s and level out as low as possible
+3.  Go cold or beam/notch with full afterburner
+4.  Stay low while performing the maneuver chosen in step 3. 
+4.2.7 - HIGH-G MANEUVERING
+WHAT:  At the terminal phase of a radar missile, the DA needs to begin to exploit the radar missile’s low maneuverability and potentially low energy. High-G maneuvers of some level are almost always required if a radar missile lock is not broken through terrain masking, driving, notching, or chaff deployment.  In this strategy, the pilot will quickly burn and jink, almost like beaming, but in all 3 dimensions and switching more frequently. The best High-G position for a DA is above the missile and flying at its 2 or 10 o’clock. A DA should be careful of prolonged vertical maneuvers as this greatly increases a missile's impulse advantage. Having good situational awareness helps increase the odds of a missile defeat.
+WHEN: Once a missile goes pitbull, the DA’s pilot is advised to squeeze their cheeks. This is not in anticipation for a missile hit but rather to keep from passing out in the 9-G turns he/she is about to make. High-G maneuvers are most effective when the DA is relatively nose-hot to the missile and is using HMD ARAD tracking.
+High-G maneuvers should NOT be used if the missile is not both Pitbull, and within 2NM of the DA. This maneuver will greatly reduce the aircraft’s forward velocity which is important for both beaming and cold defenses.
+HOW:
+1.  Identify incoming missile using HMD ARAD
+2.  Confirm Missile is Pitbull (missile alert flash, red “M” circle on RWR)
+3.  Confirm Missile is close (can visualize lateral motion on HMD ARAD or close in RWR)
+4.  Make rapid rolls to align with turn vectors to insure positive G.
+5.  Swerve at 6-9 G’s with each turn lasting between 2 and 5 seconds  
+6. Once visual on the missile’s engine/body can be made, perform the following maneuvers.
+a.  If missile is below, climb slightly and place missile at 2-3 or 9-10 o’clock, invert to level off just as missile passes above or below
+b.  If missile is above, dive sharply into a beam or head-on. Barrel-roll if possible
+c.  If neither option is immediately applicable, beam hard and do a corck-screw barrel-roll or Immelmann
+7.  Utilize Barrel rolls and Split-S maneuvers.
+8.  Do not repeatedly make turns that reduce airspeed.
+9.  Avoid missile as it passes
+ 
+If you hear an explosion after missile merge
+1.  Confirm no other missile threats are present
+2.  Check Engine RPM
+3.  Visually assess control surfaces for damage
+See Page 50 for emergency checklist.
+
+
+ 
+COUNTER-ENGAGEMENT
+WHAT: IR guided missiles such as the IRIS, and to a lesser extent AIM-9, can lock, seek, and destroy large SAM’s that have not burnt out their fuel. By flying toward the missile in a predictive manner, a DA can shoot down an incoming SAM with their own IR guided ordinance. Counter-engaging a missile is a somewhat risky strategy but can be very effective when performing SEAD missions.  
+WHEN: Counter-Engaging should only be attempted against SAMs, and preferably larger models that burn fuel for a much longer. This method is highly effective when the DA’s mission involves destruction of the launch source and is at a relatively high altitude (SAM has less velocity having had to climb). This is also good when multiple SAM’s are launched at the DA, as IR missiles can quickly be launched in succession.
+
+
+HOW:
+1.  Identify SAM direction
+2.  Fly level and straight, do not beam or deviate.
+3.  Make sure the SAM is nose-hot between your 11 and 1 o’clock.
+4.  Use HMCS slaved IR and visually acquire SAM.
+5.  Launch IR missile once high tone is acquired
+6.  Turn toward SAM if possible.
+7.  Avoid debris after IR missile destroys SAM. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+4.3 - MISSILE EVASION: IR-GUIDED
+
+
+OPERATION OF IR-GUIDED MISSILES:
+IR-Guided air-to-air and surface-to-air missiles, commonly referred to as “heat seekers,” acquire their targets by locking on to the infrared radiation (heat) of the target aircraft, usually the engine(s). Due to this, they have a relatively short range. Most, if not all, IR-guided missiles are all-aspect, meaning that they can acquire a lock from all aspects of a plane, not just the rear, where the engine(s) are located. If there are multiple targets in a close area, the missile will lock on the strongest (warmest). This means that they can be easily evaded by idling the engine(s) and dumping flares. The missile will lock on to the stronger heat signature of the flares and strike them instead of the aircraft.
+
+
+EVASION:
+                  1. Set throttle to IDLE
+                  2. Turn to the 9 o’clock or 3 o’clock of the missile (if possible)
+                  3. Dive or climb depending on current airspeed
+                  4. Dump flares
+
+
+NOTES:
+“Be careful if using CM’s while in formation. Nothing quite screws with your sightlines like a wingman covering your canopy with chaff.” - Anonymous pilot 
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+INDEX: CALLOUTS
+                  * (Package/target) As Fragged: Package/target is as stated in mission briefing
+                  * (Target) Cold: Target is heading away
+                  * (Target) Flanking: Target has a stable aspect of 30-60 degrees (Heading perpendicular)
+                  * (Target) High: Target is between 10000ft and 40000ft ASL
+                  * (Target) Hot: Target is heading towards
+                  * (Target) Low: Target is below 10000ft ASL
+                  * (Target) Very High: Target is above 40000ft ASL
+                  * Bingo Fuel: Minimum fuelstate needed to return to base has been reached
+                  * Bruiser: Launch of Anti-Ship Missile (ASM)
+                  * Engaged Defensive: Defending against an enemy missile
+                  * Engaged: In a fight with an enemy
+                  * Faded: Target radar lock has been lost
+                  * Fox 1: Launch of semi-active radar-homing (SARH) air-to-air missile (AAM)
+                  * Fox 2: Launch of IR-Guided AAM
+                  * Fox 3: Launch of active radar-homing (ARH) AAM 
+                  * Greyhound: Launch of cruise missile
+                  * Guns, Guns, Guns: Cannon is being used
+                  * Magnum: Launch of anti-radiation missile
+                  * Merged: In a dogfight with an enemy
+                  * Mudspike: Enemy ground target has radar lock
+                  * Nails: Detection of enemy search radars on RWR
+                  * No Joy: No visual/radar lock. Opposite of tally.
+                  * Pickle: Release of bomb 
+                  * Pitbull: Active radar-guided AAM has switched to internal tracking
+                  * Rifle: Launch of air-to-ground missile (AGM)
+                  * Shack: Enemy ground target destruction
+                  * Spike: Enemy Aircraft Has Radar lock
+                  * Splash: Enemy air target destruction
+                  * Tally: Detection of enemy on radar
+                  * Winchester: Weapons load depleted or otherwise empty
+INDEX: ABBREVIATIONS, ACRONYMS, AND TERMINOLOGY
+                  * AAA: Anti-aircraft-artillery
+                  * AAM: Air-to-air missile
+                  * AGM: Air-to-ground missile
+                  * AMRAAM: Advanced Medium-Range Air-to-Air Missile
+                  * Angels: Altitude in thousands of feet
+                  * ASM: Anti-Ship Missile
+                  * ATC: Air Traffic Control
+                  * AWACS (also referred to as AEW&C): Airborne Warning and Control System (Airborne Early Warning & Control)
+                  * Ball/Meatball: IFLOLS (Improved Fresnel Lens Optical Landing System)
+                  * Bandit: Enemy air target
+                  * Bird: Friendly SAM
+                  * Blue on Blue: Friendly Fire
+                  * Bogey: Unidentified air target
+                  * BRA(A): Bearing, range, altitude (aspect)
+                  * BVR: Beyond Visual Range
+                  * C2: Command and Control
+                  * CAP: Combat Air Patrol
+                  * CAS: Close air support
+                  * Cat: Aircraft carrier catapult
+                  * Chick: Friendly Aircraft
+                  * ECM: Electronic Countermeasures
+                  * Flight Level (rarely used): Altitude in hundreds of feet
+                  * G-LOC: Loss of consciousness due to G-forces. Applies to both blackout and redout.
+                  * HUD: Heads-up display
+                  * IFF: Identification - Friend or foe
+                  * Mother/Mom: Home aircraft carrier
+                  * Nav: Navigation
+                  * Overlord: Nearest or otherwise on station AWACS aircraft
+                  * Package: Group of targets
+                  * RTB: Return To Base
+                  * RWR: Radar warning receiver
+                  * SAM: Surface-to-air missile
+                  * SCUD: Theater (non-intercontinental) ballistic missile
+                  * SEAD: Suppression of Enemy Air Defenses
+                  * Shooter:
+                  * Aircraft launching/releasing munitions
+                  * Crew member controlling aircraft carrier catapult
+                  * TACAN: TACtical Air Navigation. Used to automatically set WPT to RTB.
+                  * TWR: Thrust to Weight Ratio
+                  * U(C)AV: Unmanned (Combat) Aerial Vehicle
+                  * Yardstick: The use of TACAN for rangefinding
+
+
+
+
+END OF TECHNICAL MANUAL
+------------------------------------------------------------------------------------
+CREDITS & AFTERWORDS BELOW
+Credits, Afterwords, and Disclaimer
+
+
+This manual was made possible by:
+                  * Freedomplaza - Lead writer/Owner
+                  * Quantify - Editor and Writer (Mid-Late)
+                  * Desert Jackal - Writer (Early)
+                  * Nebriv - Modder
+                  * Chieh (Shamebird) - Missile Evasion Section
+                  * CrushFruits - Visuals
+                  * TheFalcon - Visuals (Hand Drawn)
+                  * C-137 - HSI Section
+                  * Dr White - Notes
+                  * Illumi - Visuals
+
+
+________________
+
+
+Afterwords
+
+
+Freedomplaza:
+The writing of this manual has been an amazing experience and, (in my opinion) has greatly improved my own writing skill. I, along with the rest of the team, truly hope that you find this manual helpful, and, if this is your introduction to VTOL VR, go on to enjoy and play the game. I cannot understate how much all of the members of the team have helped me with this, some of us even went from random strangers on the internet to friends! Also, a huge thanks to BahamutoD for making VTOL VR such a great game, without you, literally none of this would’ve been possible. Again, thanks to all of the other people working on this with me and BahamutoD. Thanks for reading this far :)!
+
+
+Quantify:
+Wowee. Didn’t expect this to become such an incredible project. 
+Working on this manual with the team has been an awesome experience. I’ve learnt a lot more about the Wasp in doing so, and knowing that new players will benefit from this manual; well, it’s fulfilling to say the least. Ultimately, I worked on this with one goal in mind;
+...that the readers of this manual, new or old, fall in love with the game itself. I know I certainly have!
+A lot of work has been put into this. Both by myself and Freedomplaza, not to mention the rest of the team, Crushfruits and TheFalcon for making visuals for the manual, and Nebriv for creating a telemetry mod to allow us to further understand the Wasp’s flight mechanics, and many others, and they did it all out of their own heart, because they loved this project and wanted to contribute.
+And to everyone else, BahamutoD for creating a wonderful game from the ground up, the community for providing helpful advice, and you, the reader, for providing your time in reading this manual, trudging your way through 82 long, detailed pages, thanks!
+________________
+
+
+DISCLAIMER
+The F/A-26B NATOPS Manual is in no way officially endorsed by the United States Navy, nor its NATOPS program, and is a work of fiction. The specified systems in this manual are based on non-copyrighted real systems, however the companies are not, therefore this manual is under Creative Commons. This manual is completely independent and in no way sponsored by Garmin, BAE Industries, Rockwell Dynamics, or any other specified companies. The F/A-26B is part of the flight simulator VTOL VR, developed by Paolo Encarnacion of Boundless Dynamics PLC.
+The F/A-26B and VTOL VR are the intellectual property of BahamutoD, Paolo Encarcion, and as such this manual is a completely open-source project under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). You are free to build upon the document and submit changes to Freedomplaza#4507 on Discord for approval. You MUST credit Quantify and Freedomplaza when distributing sections under CC BY-SA 4.0. This manual is furthermore solely to be used in VTOL VR for your own recreational purposes. Use of procedures outlined in this manual, such as CASE 1 landing procedures and landing technique for real-life flying is completely prohibited and unsafe.
+
+
+This Disclaimer was last updated on 7/10/2020.
+
+
+
+
+Finished: 12/2/2020
+Nah lmaoo then baha decided to release several game-changing updates and I'm still here on 7/30/22 :(
+
+
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE LEFT INTENTIONALLY BLANK
+Page

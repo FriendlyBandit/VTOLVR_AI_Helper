@@ -1,0 +1,507 @@
+﻿NATOPS HANDBOOK - CASE 1 CARRIER OPERATIONS
+CNAF-8472.5
+NATOPS HANDBOOK,
+CASE 1 CARRIER OPERATIONS
+
+
+  
+
+
+
+CNAF-8472.5
+
+
+THIS PUBLICATION SUPERSEDES CNAF-8472.3 DATED 17 JUNE 2024 CHANGED 09 OCTOBER 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DISTRIBUTION STATEMENT C: Distribution Authorized to US government agencies and their contractors to protect publications required for official use or administrative purposes only, determined on August 28, 2023. Other requests for this document shall be referred to Commanding Officer, Naval Air Technical Data and Engineering Service Command, Naval Air Station North Island, P.O. Box 357031, Building 90 Distribution, San Diego, California 92135-7031
+
+
+ISSUED BY AUTHORITY OF THE CHIEF OF NAVAL OPERATIONS AND UNDER THE DIRECTION OF THE COMMANDER NAVAL AIR SYSTEMS COMMAND
+TABLE OF CONTENTS
+
+
+1 - Flight Deck
+1.1 - Flight Deck Overview
+1.2 - Pre-Taxi Checks
+1.3 - Taxi
+1.4 - Flight Deck Etiquette
+2 - Departure
+2.1 - Departure Overview
+2.2 - Launch
+2.3 - CASE 1 Departure pattern
+3 - Arrival
+3.1 - Arrival Overview
+3.2 - Inbound
+3.3 - Marshal Stack
+3.4 - CASE 1 Landing pattern
+3.5 - Final Approach
+3.6 - Wave-off and Bolter Procedures
+4 - Summary
+4.1 - Communication Examples
+4.2 - Index
+
+
+
+
+________________
+
+
+1 - Flight Deck Operations
+
+
+1.1 - Flight Deck Overview
+________________
+
+
+Before CATCC clears you to taxi, it is critical to ensure that all pilots are able to communicate using their aircraft radio and have received the required mission data. As such a pre-taxi series of checks is required.
+
+
+Only after these checks have been completed and found to be satisfactory, will the commander give the “MISSION GO” order. After this order has been given pilots will be allowed to contact CATCC to request taxi clearance. Keep in mind that getting taxi clearance includes clearance for launching at your own discretion.
+
+
+The flight deck is a busy, dangerous, and oftentimes confusing place. As such, it is important to keep good situational awareness and a little bit of common sense while operating on it. To ensure safety and efficiency during launch and landing operations, make sure you stay vigilant and follow the rules described in section 1.4.  
+________________
+
+
+
+
+1.2 - PRE-TAXI CHECKS
+________________
+
+
+Comms check
+1. OSC gives order to perform the comms check
+2. In the Briefed order, pilots will sound off their callsign over the global frequency
+   1. Incase of a bent radio, Flight Lead will notify the OSC
+
+
+Briefing Check
+1. OSC gives the order to perform the briefing check. This includes any GPS points that should have been added during the mission briefing.
+2. Flight leaders will verify with their flight if the data is set correctly in each aircraft.
+3. When flight leaders have found that the aircraft in their flight have the data correctly set, he will notify the OSC that his flight is standing by.
+
+
+MISSION GO
+After these checks have been completed, the OSC will give the “MISSION GO” Command over the global frequency. From this point forward Flight leaders (or individual pilots) have permission to contact CATCC to ask for clearance to taxi.
+
+
+Keep in mind that the briefing may already have established a sequence in which the flights are required to launch. Flight leaders should make sure they are standing by until it is their turn to launch.
+
+
+If no such sequence has been established. Its first come first served.
+________________
+
+
+1.3 - TAXI
+________________
+
+
+General Rules and Protocol
+* Incase of flight leaders, they may ask permission to taxi for their entire flight, substituting [Own callsign] for [Flight callsign].
+* Check (Image 1, Page 4) for the designated numbers for each catapult.
+* Bow cats refer to catapult 1 & 2, Waist cats refer to catapult 3 & 4
+* If CATCC assigns less catapults than aircraft in a flight, You are required to line up behind the JBD that has been cleared by CATCCw
+* For flights, It is easiest if you use the catapult number that corresponds with your callsign. For example: If your callsign is “Lancer 1-3”, you should line up behind “Cat 3”
+
+
+Taxi Communications
+1. Request
+        “Wolverine Marshal, [Own callsign], request taxi.”
+
+
+2. Reply
+“[Target callsign], Wolverine Marshal, cleared to taxi to cat [#],        Departure is CASE 1.”
+
+
+3. Readback
+“Cleared to taxi to cat [#], CASE 1 departure [Own callsign].”
+________________
+
+
+1.4 - FLIGHT DECK ETIQUETTE
+________________
+
+
+Pilots should not, under any circumstances be: 
+* Blocking launch operations (sitting on top of the JBD or in front of a catapult)
+* Blocking landing operations (sitting on or inside of the foul line)
+* Distracting other pilots (clipping inside aircraft, hovering around them)
+* Performing any launches or landings without the express permission of CATCC.
+* Taxi around with the wings unfolded, only unfold when getting ready to launch.
+
+
+Launch Ops best practices:
+* Look around you before locking in, as the JBD may hit somebody!
+* Lock Cat 4 in before Cat 3, as Cat 3’s JBD may block or hit the aircraft on Cat 4.
+* Watch the launches! Make sure that you both get a cool view and don’t hit anyone on your way out.
+
+
+Landing Ops best practices:
+* Before crossing/fouling the deck, check your NAV page. If there are any flights in the upwind or later, wait until they have recovered first.
+* If someone is running LSO, don’t park yourself in the LSO spot.
+* DO NOT use cats 3 or 4 during recovery operations.
+* Don’t clutter comms if there’s a flight on final. They need to hear the LSO clearly and they need to focus.  
+
+
+________________
+
+
+2 - Departure
+2.1 - Departure Overview
+________________
+
+
+Getting an entire air wing airborne in an orderly and swift fashion requires a good deal of discipline and protocol. In this chapter we will go over the correct ways to launch your flight and the proper way to leave the CATCC controller airspace.
+
+
+Because CATCC needs to know when the catapults are clear for the next flight, a series of calls need to be made within the flight and from the flight leader to CATCC. These calls are necessary to maintain efficiency during departure operations.
+
+
+To ensure the safety of the launching aircraft, and of those within the airspace of the carrier, it is necessary to have a predetermined path on which to depart the carrier. These paths serve a multitude of purposes. One of which is both ensuring that the next aircraft have a free path ahead and are flying outside of the direct path of the carrier should they be forced to ditch incase of an emergency.
+________________
+2.2 - LAUNCH
+________________
+
+
+General Rules and Protocol
+   * Flight leaders are always the first aircraft to launch.
+   * After the first launch, a minimum of 5 second intervals should be maintained between launches.
+   * Launch order is decided by your callsign. For example, if your callsign is “Lancer 1-3”, you will be the third aircraft to launch.
+   * Catapults will only be released by CATCC for future launches when the previous flight leader has announced an “Airborne” call.
+
+
+Launch
+   1. Make sure wings are down, “NAV” & “STROBE” lights are on, Flaps is set to “1” and “CATO TRIM” is set to “ON”
+   2. Press the “RTB” button in your NAV page.
+   3. Flight Lead confirms if the flight is ready to launch.
+   4. Flight lead launches, 5 second later, the callsign next in line launches (for example, 1st is 1-1, 2nd is 1-2, 3rd is 1-3)
+
+
+Post launch
+   1. As soon as you maintain level flight, call out “[Own callsign], airborne” on your flights frequency. Example: “1-3, airborne”.
+   2. When the last wingman in a flight makes an airborne call, Flight lead is required to call out “[Flight callsign], airborne” Over the global frequency. Example: “Lancer flight, airborne”
+   3. When CATCC has received confirmation that the previous flight is airborne. He can give new clearances for the catapults.
+________________
+2.3 - CASE 1 DEPARTURE
+________________
+
+
+  
+
+
+
+CASE 1 Explanation
+      1. After launch, perform a “clearing turn”. This consists of a slight turn to the side of the ship you launched from after which you course correct to fly parallel to the carrier's BRC. (cats 1 & 2 go right, cats 3 & 4 go left, image 1&2)
+      2. Set a waypoint to the carrier by pressing “RTB” in the NAV page on your MFD, This allows you to monitor the distance to the carrier.
+      3. Climb and maintain 500 feet at 300 knots for 7 miles.
+      4. After 7 miles, continue as fragged along the planned course while climbing to 3000 feet. Usually this means heading towards the briefed push point. Flight leaders should set throttle to milpower or lower to allow their flight to catch up.
+________________
+3 - Arrival
+
+
+3.1 - ARRIVAL OVERVIEW
+________________
+
+
+Landing an aircraft on the deck of a moving carrier is a difficult enough task as it is. To make it safer and easier for the pilots, protocols need to be established that will aid in the efficiency of the recovery operations. These protocols are designed in such a way to combat the chaotic nature of the carrier controlled airspace.
+
+
+Because it is obviously impossible to land all aircraft at once. It is necessary to implement a queue system for all flights that are going to attempt a landing on the carrier. This queue system is normally referred to as “The stack”. This is nothing more than a counterclockwise orbit above the carrier that serves as a holding pattern for those that have not yet been cleared to land.
+
+
+Because multiple aircraft often operate under a single flight, and because it is useful to make a visual inspection of the deck by flying over the carrier, a landing pattern has been created that is referred to as “CASE 1”. This pattern is also helpful because of the “kiss off” Procedure. This creates a 20 second total separation between aircraft within a flight. As a result, each pilot has enough time to land on the deck and vacate the foul lines so his wingmen can safely and quickly land on the carrier.
+________________
+3.2 - INBOUND
+________________
+General Rules and Protocol
+         * Before you can enter into carrier controlled airspace, an inbound call is needed to notify CATCC that a flight is arriving shortly. Always call inbound before you get within 15 miles of the carrier.
+         * As with all arrival and departure operations, flight leaders can make an inbound call that includes everyone in their flight.
+
+
+Inbound Communications
+         1. Inbound call
+“Wolverine Marshal, Alpha 1-1, inbound.”
+
+
+         2. Reply
+“Alpha 1-1, Wolverine Marshal, Maintain 4000 feet, BRC is [#], [#] flights in the stack.”
+
+
+         3. Readback
+“Maintain 4000, BRC [#], [#] in stack, Alpha 1-1”
+________________
+3.3 - MARSHAL STACK
+________________
+
+
+Marshal Stack Pattern
+         * The marshal stack is a 6 mile wide counterclockwise orbit at 3000 feet and 350 knots. The 3 O’clock position of this orbit is directly above the carrier’s right side.
+         * The stack can be entered from any direction.
+         * When cleared by CATCC for a CASE 1 recovery, you must exit at the 9 O’clock position. When leaving the stack for a CASE 1 you are required to notify CATCC by making a “Breaking the deck” or “Commencing” call.
+         * The overview for the stack pattern can be found in image 3 below, the green circle represents the stack pattern.  
+General Rules and Protocol
+            * Before you can be cleared for the stack, you have to notify CATCC that you have arrived in carrier controlled airspace. This is done using the “Overhead” call.
+            * The “Overhead” call must be made when you are within 6 miles of the carrier, and only when you have previously declared “inbound”.
+            * Sometimes CATCC may clear you for a CASE 1 recovery without needing to enter the stack. This is typically done when there are no other flights in the stack, or when fuelstate is dangerously low. In this case, enter the CASE 1 upwind immediately.
+
+
+Marshal Stack Communications
+            1. Overhead call
+“Wolverine Marshal, [Own callsign], Overhead, [Fuelstate ÷1000]”
+
+
+            2. Reply
+“[Target callsign], Wolverine Marshal, Cleared to enter the stack, [#] flights in stack”
+
+
+CATCC gives CASE 1 Clearance
+            3. Cleared for CASE 1
+“[Target callsign], Wolverine Marshal, cleared for CASE 1 recovery”
+
+
+            4. Readback
+“Cleared for CASE 1, [Own callsign]”
+
+
+            5. Breaking the deck / Commencing
+[Own callsign], Breaking the deck / Commencing”
+________________
+
+
+3.4 - CASE 1 LANDING PATTERN
+________________
+
+
+General Rules and Protocol
+            * Only enter the CASE 1 pattern with explicit CATCC permission to do so!
+            * Follow the orange line illustrated in image 3 above, during this turn you are to reduce speed to 300 knots while descending to 800 feet. Make sure you are at the correct altitude and speed before entering the upwind.
+            * CATCC May clear other flights for a CASE 1 when the previous flight has entered the upwind.
+
+
+CASE 1 Recovery
+            1. When cleared for a CASE 1, leave the stack at the 9 O’clock position.
+            2. While flying straight on the orange line in image 3, turn back to the carrier when it is at your 8 O’clock.
+            3. Descend and maintain 800 feet, Decrease speed to 300 knots.
+            4. Enter the upwind and fly past the right side of the ship. During this stage, lower the arresting hook.
+            5. 2 miles past the carrier, Flight lead will give the “Kiss off” Command, after which he will turn left and enter the break.
+            6. 10 Seconds later, the second aircraft will turn left, and announce: “1-2 in the break”.
+            7. While in the downwind, set flaps to “2” and decrease speed to the onspeed AOA, which is roughly 180 knots.
+            8. On the downwind, when the carrier is again at your 8 O’clock, enter the final turn. This turn is also known as “the groove”.
+________________
+3.5 - FINAL APPROACH
+________________
+
+
+General Rules and Protocol
+               * Make sure to notify the LSO that you have entered the final by the “Ball” call.
+               * Always aim to get a 3 wire, as this is the wire with the biggest room for error.
+               * Make sure you know what the HUD symbology means! Trying to land with the wrong AOA is a surefire way to get bolters.
+
+
+Final Communications
+               1. Calling the ball
+“[Own callsign], [Wasp/Ghost/Kestrel], Ball, [Fuelstate ÷1000]”
+
+
+               2. LSO Reply
+        “[Roger Ball]” 
+
+
+Touchdown
+               * When you hook one of the wires, LSO will call out “[#] Wire” corresponding to which wire you caught
+               * When you miss all 4 wires, LSO will call “Bolter Bolter Bolter”, notifying you that you have not caught any wires.
+               * When touching down, always set the throttle to at least mil power, even when you are confident that you will hook a wire.
+
+
+Bolter & Wave Off Procedures
+               * Sometimes the LSO will deem the approach to be unsafe. When this is the case, LSO will call: “Wave off! [Reason]” The LSO does not need to give any reason.
+               * When you are waved off, always follow the instructions of the LSO!
+               * When a bolter occurs or when you are waved off, you are to climb to 800 feet and turn left to the downwind leg (Image 3). When you reach the final again, call the ball so the LSO knows you are attempting another landing.
+
+
+4 - Summary
+
+
+4.1 - Overview
+4.1.1 - CASE 1 Recovery
+               1. Contact CATCC @15nm to enter Marshal Stack/Receive BRC
+               2. Enter Marshal Stack (CC Orbit) at the CATCC’s Designated Altitude @350kn
+               3. Maintain Marshal Stack
+               4. CATCC approves flight to enter Case 1 Recovery Pattern
+               5. Enter Case 1 Recovery (Transition to Single File Formation)
+               6. Begin Upwind Leg @300kn, 1200ft ASL
+               7. While passing Carrier Group extend Hook
+               8. Begin Kiss-Off Procedure with 5-10 second spacing
+               9. Call ‘In the Break’ at the beginning of the 180deg turn
+               10. Dirty Up, gear DOWN and Flaps 2
+               11. Begin Downwind Leg, approach On-Speed AOA of 8deg, 600-800ft ASL
+               12. After the Round-Down is visible, begin final approach
+               13. Call ‘In the Groove’ at the end of the 180deg turn
+               14. Maintain On-Speed AOA of 8deg, Align with Carrier Runway (3.5deg Wumbo for ideal hook impact angle)
+               15. Call the Ball @0.75nm
+               16. Begin Descent to the Deck
+               17. Correct Aircraft Alignment via LSO Communications/HUD Symbology
+               18. Throttle to Correct Altitude
+               19. Rudder to Correct Left/Right
+               20. Place Flight Velocity Vector on the end of the Arresting Wires
+               21. Impact the Deck @8deg of AOA, 3.5deg Wumbo.
+               22. Advance Throttle to AB
+               23. Reduce Throttle to IDLE
+               24. Retract Arresting Hook
+               25. Call ‘Red Deck’
+               26. Clear the Carrier Runway Foul Lines
+               27. Call ‘Green Deck’
+
+
+________________
+
+4.2 - COMMUNICATION EXAMPLES
+________________
+
+
+Taxi Request
+               1. Request
+“Wolverine Marshal, Alpha 1-1, Requesting taxi.”
+
+
+               2. Reply
+“Alpha 1-1, Wolverine Marshal, Cleared to taxi to Cat (#), Departure is CASE 1.”
+
+
+               3. Readback
+“Cleared to taxi to all Cats, CASE 1 Departure, Lancer 1-1.”
+
+
+
+
+Airborne call
+               1. Flight frequency call
+“1-1 airborne”, “1-2 airborne”, “1-3 airborne.”
+
+
+               2. Global frequency call
+“Lancer flight, airborne.”
+
+
+
+
+Inbound call
+               1. Inbound
+“Wolverine Marshal, Lancer flight, inbound.”
+
+
+               2. Reply
+“Lancer flight, Wolverine Marshal, maintain 4000 feet, BRC is 1 4 2, 2 flights in the stack.”
+
+
+               3. Readback
+“Maintain 4000, BRC is 1 4 2, 2 flights in the stack, Lancer flight.”
+________________
+4.2 - COMMUNICATION EXAMPLES
+________________
+
+
+Marshal Stack Communications
+               1. Overhead call
+“Wolverine Marshal, Lancer 1-1, Overhead, 2.3.”
+
+
+               2. Reply
+“Lancer 1-1, Wolverine Marshal, Cleared to enter, 3 flights in stack.”
+
+
+CATCC gives CASE 1 Clearance
+               1. Cleared for CASE 1
+“Alpha 1-1, Wolverine Marshal, cleared for CASE 1 recovery.”
+
+
+               2. Readback
+“Cleared for CASE 1, Alpha 1-1.”
+
+
+               3. Breaking the Deck / Commencing
+“Alpha 1-1, Breaking the deck.”
+
+
+Calling the Ball
+               1. Reporting the ball
+“Alpha 1-1, Wasp, Ball, 2.3”
+
+
+               2. Reply
+“Roger Ball”.
+________________
+
+
+4.3 - INDEX
+________________
+
+
+CATCC
+	Carrier Air Traffic Control Center, ATC for carriers
+	OSC
+	On Scene Commander, The commanding officer in any given mission
+	Global Frequency
+	In-game voice chat, the radio that everyone on your team can hear.
+	Flight Frequency
+	Discord voice chat, the discord call that only your own flight can hear.
+	Bent
+	Brevity code for “Inoperable”, otherwise meaning defective.
+	Cats
+	Short for “Catapult”
+	JBD
+	Jet Blast Deflector, the big shields that fold up when an aircraft is being launched.
+	CASE 1
+	The way in which Arrivals and Departures are handled during good visibility weather.
+	Foul Lines
+	The boundaries of the landing strip, showcased in “Image 1, Page 4”
+	LSO
+	Landing Signal Officer, In charge of guiding aircraft along the glidepath until they hit the deck.
+	CATO TRIM
+	A setting in the FA-26B which after launch, will automatically set the aircraft in a nose-up attitude
+	BRC
+	The bearing that the bow of the carrier is currently pointing at.
+	As Fragged
+	Brevity code for precisely following the instructions given to a pilot in the briefing
+	push point
+	A pre-briefed location in which aircraft will rally before continuing with the mission.
+	Mil Power
+	Short for Military Power, the maximum throttle input of an aircraft without the use of afterburners.
+	AOA
+	Angle of Attack. The angle of the wings relative to the direction of travel.
+	
+
+Page
