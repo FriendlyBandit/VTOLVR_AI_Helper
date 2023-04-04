@@ -7,6 +7,9 @@ from haystack.nodes import TextConverter, PreProcessor
 from haystack.nodes import BM25Retriever
 from haystack.nodes import Seq2SeqGenerator
 from haystack.pipelines import GenerativeQAPipeline
+from haystack.nodes import FARMReader
+from haystack.pipelines import ExtractiveQAPipeline
+
 
 logging.basicConfig(format="%(levelname)s - %(name)s -  %(message)s", level=logging.WARNING)
 logging.getLogger("haystack").setLevel(logging.INFO)
@@ -35,16 +38,29 @@ files_to_index = [doc_dir + "/" + f for f in os.listdir(doc_dir)]
 indexing_pipeline.run_batch(file_paths=files_to_index)
 
 retriever = BM25Retriever(document_store=document_store)
-generator = Seq2SeqGenerator(model_name_or_path="vblagoje/bart_lfqa")
-pipeline = GenerativeQAPipeline(generator=generator, retriever=retriever)
+reader = FARMReader('deepset/roberta-base-squad2')
+#generator = Seq2SeqGenerator(model_name_or_path="vblagoje/bart_lfqa")
+#pipeline = GenerativeQAPipeline(generator=generator, retriever=retriever)
+pipeline = ExtractiveQAPipeline(reader, retriever)
 
 query = ""
 while(query != 'q'):
     query = input()
+    # prediction = pipeline.run(
+    #     query=query,
+    #     params={
+    #         "Retriever": {"top_k": 10},
+    #     }
+    # )
     prediction = pipeline.run(
         query=query,
         params={
-            "Retriever": {"top_k": 10},
+            "Retriever": { 
+                "top_k":10
+            },
+            "Reader":{
+                "top_k":10
+            }
         }
     )
 
