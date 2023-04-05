@@ -24,10 +24,10 @@ preprocessor = PreProcessor(
     clean_whitespace=True,
     clean_header_footer=True,
     clean_empty_lines=True,
-    split_by="word",
-    split_length=1000,
+    split_by="passage",
+    split_length=100,
     split_overlap=20,
-    split_respect_sentence_boundary=True,
+    split_respect_sentence_boundary=False,
 )
 
 indexing_pipeline.add_node(component=text_converter, name="TextConverter", inputs=["File"])
