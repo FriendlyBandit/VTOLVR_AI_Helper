@@ -25,8 +25,8 @@ preprocessor = PreProcessor(
     clean_header_footer=True,
     clean_empty_lines=True,
     split_by="passage",
-    split_length=100,
-    split_overlap=20,
+    split_length=5,
+    split_overlap=0,
     split_respect_sentence_boundary=False,
 )
 
@@ -39,31 +39,31 @@ indexing_pipeline.run_batch(file_paths=files_to_index)
 
 retriever = BM25Retriever(document_store=document_store)
 
-generator = Seq2SeqGenerator(model_name_or_path="vblagoje/bart_lfqa")
-pipeline = GenerativeQAPipeline(generator=generator, retriever=retriever)
-# reader = FARMReader('deepset/roberta-base-squad2')
-# pipeline = ExtractiveQAPipeline(reader, retriever)
+# generator = Seq2SeqGenerator(model_name_or_path="vblagoje/bart_lfqa")
+# pipeline = GenerativeQAPipeline(generator=generator, retriever=retriever)
+reader = FARMReader('deepset/roberta-base-squad2')
+pipeline = ExtractiveQAPipeline(reader, retriever)
 
 query = ""
 while(query != 'q'):
     query = input()
-    prediction = pipeline.run(
-        query=query,
-        params={
-            "Retriever": {"top_k": 10},
-        }
-    )
     # prediction = pipeline.run(
     #     query=query,
     #     params={
-    #         "Retriever": { 
-    #             "top_k":10
-    #         },
-    #         "Reader":{
-    #             "top_k":10
-    #         }
+    #         "Retriever": {"top_k": 10},
     #     }
     # )
+    prediction = pipeline.run(
+        query=query,
+        params={
+            "Retriever": { 
+                "top_k":10
+            },
+            "Reader":{
+                "top_k":5
+            }
+        }
+    )
 
     print_answers(
     prediction,
