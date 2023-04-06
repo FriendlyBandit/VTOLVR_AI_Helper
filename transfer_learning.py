@@ -4,6 +4,8 @@ logging.basicConfig(format="%(levelname)s - %(name)s -  %(message)s", level=logg
 logging.getLogger("haystack").setLevel(logging.INFO)
 
 from haystack.nodes import FARMReader
+from haystack.nodes import Seq2SeqGenerator
+from haystack.nodes import RAGenerator
 from haystack.utils.early_stopping import EarlyStopping
 early_stopping = EarlyStopping(
     metric='top_n_accuracy',
@@ -14,7 +16,7 @@ early_stopping = EarlyStopping(
     min_evals=0,
 )
 
-reader = FARMReader(model_name_or_path="vblagoje/bart_lfqa", use_gpu=True)
+reader = RAGenerator(use_gpu=True)
 data_dir = "./training/"
 reader.train(data_dir=data_dir, 
              train_filename="QA_training_data.json", 

@@ -9,6 +9,7 @@ from haystack.nodes import Seq2SeqGenerator
 from haystack.pipelines import GenerativeQAPipeline
 from haystack.nodes import FARMReader
 from haystack.pipelines import ExtractiveQAPipeline
+from haystack.nodes import RAGenerator
 
 
 logging.basicConfig(format="%(levelname)s - %(name)s -  %(message)s", level=logging.WARNING)
@@ -39,33 +40,33 @@ indexing_pipeline.run_batch(file_paths=files_to_index)
 
 retriever = BM25Retriever(document_store=document_store)
 
-# generator = Seq2SeqGenerator(model_name_or_path="vblagoje/bart_lfqa")
-# pipeline = GenerativeQAPipeline(generator=generator, retriever=retriever)
-reader = FARMReader(model_name_or_path='my_model')
-pipeline = ExtractiveQAPipeline(reader, retriever)
+generator = RAGenerator()
+pipeline = GenerativeQAPipeline(generator=generator, retriever=retriever)
+# reader = FARMReader(model_name_or_path='my_model')
+# pipeline = ExtractiveQAPipeline(reader, retriever)
 
 query = ""
 while(True):
     query = input()
-    # prediction = pipeline.run(
-    #     query=query,
-    #     params={
-    #         "Retriever": {"top_k": 10},
-    #     }
-    # )
     if query == 'q':
         break
     prediction = pipeline.run(
         query=query,
         params={
-            "Retriever": { 
-                "top_k":10
-            },
-            "Reader":{
-                "top_k":5
-            }
+            "Retriever": {"top_k": 10},
         }
     )
+    # prediction = pipeline.run(
+    #     query=query,
+    #     params={
+    #         "Retriever": { 
+    #             "top_k":10
+    #         },
+    #         "Reader":{
+    #             "top_k":5
+    #         }
+    #     }
+    # )
 
     print_answers(
     prediction,
