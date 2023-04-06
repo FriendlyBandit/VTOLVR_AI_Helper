@@ -45,7 +45,7 @@ reader = FARMReader(model_name_or_path='my_model')
 pipeline = ExtractiveQAPipeline(reader, retriever)
 
 query = ""
-while(query != 'q'):
+while(True):
     query = input()
     # prediction = pipeline.run(
     #     query=query,
@@ -53,6 +53,8 @@ while(query != 'q'):
     #         "Retriever": {"top_k": 10},
     #     }
     # )
+    if query == 'q':
+        break
     prediction = pipeline.run(
         query=query,
         params={
