@@ -14,7 +14,7 @@ early_stopping = EarlyStopping(
     min_evals=0,
 )
 
-reader = FARMReader(model_name_or_path="distilbert-base-uncased-distilled-squad", use_gpu=True)
+reader = FARMReader(model_name_or_path="vblagoje/bart_lfqa", use_gpu=True)
 data_dir = "./training/"
 reader.train(data_dir=data_dir, 
              train_filename="QA_training_data.json", 
