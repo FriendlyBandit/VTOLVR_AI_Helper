@@ -41,7 +41,7 @@ retriever = BM25Retriever(document_store=document_store)
 
 # generator = Seq2SeqGenerator(model_name_or_path="vblagoje/bart_lfqa")
 # pipeline = GenerativeQAPipeline(generator=generator, retriever=retriever)
-reader = FARMReader('deepset/roberta-base-squad2')
+reader = FARMReader(model_name_or_path='my_model')
 pipeline = ExtractiveQAPipeline(reader, retriever)
 
 query = ""
