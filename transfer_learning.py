@@ -20,6 +20,6 @@ reader.train(data_dir=data_dir,
              train_filename="QA_training_data.json", 
              dev_filename="QA_training_data.json", 
              use_gpu=True, 
-             save_dir="my_model", 
+             save_dir="my_model_generative", 
              early_stopping=early_stopping)
 
